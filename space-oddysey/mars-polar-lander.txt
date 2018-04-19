@@ -1,0 +1,739 @@
+https://en.wikipedia.org/wiki/Mars_Polar_Lander
+	Communications
+
+	During the cruise stage, communications with the spacecraft were conducted over the X band using a medium-gain, horn-shaped antenna and redundant solid state power amplifiers. For contingency measures, a low-gain omni-directional antenna was also included.[2]
+
+	The lander was originally intended to communicate data through the failed Mars Climate Orbiter via the UHF antenna. With the orbiter lost on September 23, 1999, the lander would still be able to communicate directly to the Deep Space Network through the Direct-To-Earth (DTE) link, an X band, steerable, medium-gain, parabolic antenna located on the deck. Alternatively, Mars Global Surveyor could be used as a relay using the UHF antenna at multiple times each Martian day. However the Deep Space Network could only receive data from, and not send commands to, the lander using this method. The direct-to-Earth medium-gain antenna provided a 12.6-kbit/s return channel, and the UHF relay path provided a 128-kbit/s return channel. Communications with the spacecraft would be limited to one-hour events, constrained by heat-buildup that would occur in the amplifiers. The number of communication events would also be constrained by power limitations.[2][4][5][6]
+
+
+It would have been easier to communicate with it if the Mars Climate Orbiter had made it (this was the one wit the pounds-Newtons problem), but the prope was able to communicate directly to earth anyway.
+
+
+	...On 3 December 1999, at 14:39:00 UTC, the last telemetry from Mars Polar Lander was sent, just prior to cruise stage separation and the subsequent atmospheric entry. No further signals were received from the spacecraft. Attempts were made by Mars Global Surveyor to photograph the area in which the lander was believed to be. An object was visible and believed to be the lander. However, subsequent imaging performed by Mars Reconnaissance Orbiter resulted in the identified object being ruled out. Mars Polar Lander remains lost.[12][13]
+
+	The cause of the communication loss is not known. However, the Failure Review Board concluded that the most likely cause of the mishap was a software error that incorrectly identified vibrations, caused by the deployment of the stowed legs, as surface touchdown.[14] The resulting action by the spacecraft was the shutdown of the descent engines, while still likely 40 meters above the surface. Although it was known that leg deployment could create the false indication, the software's design instructions did not account for that eventuality.[15]
+
+	In addition to the premature shutdown of the descent engines, the Failure Review Board also assessed other potential modes of failure.[1] Lacking substantial evidence for the mode of failure, the following possibilities could not be excluded:
+
+	    surface conditions exceed landing design capabilities;
+	    loss of control due to dynamic effects;
+	    landing site not survivable;
+	    backshell/parachute contacts lander;
+	    loss of control due to center-of-mass offset; or
+	    heatshield fails due to micrometeoroid impact.
+
+	The failure of the Mars Polar Lander took place two-and-a-half months after the loss of the Mars Climate Orbiter. Inadequate funding and poor management have been cited as underlying causes of the failures.[16] According to Thomas Young, chairman of the Mars Program Independent Assessment Team, the program "was under funded by at least 30%."[17]
+
+
+Right before it left cruising to enter the atmosphere, the craft stopped sending telemetry. Wikipedia says "the cause is not known." Later the probe crashed, and there are some theories why.
+
+Are these reasons for why it stopped sending telemetry, or why it crashed? (or both?)
+
+
+------
+
+
+http://www.spaceref.com/news/viewnews.html?id=105
+	NASA Reveals Probable Cause of Mars Polar Lander and Deep Space-2 Mission Failures.
+
+	...The conclusions reached by the team were the result of detective work and post-crash testing and analysis. Since there was no telemetry capability from the MPL during atmospheric entry, descent, or landing, there can be no way to know for sure exactly what happened. While a number of failure scenarios were examined, a specific candidate failure scenario emerged - one borne out by repeated ground-based, post-failure testing. 
+
+
+wikipedia says "the last telemetry from Mars Polar Lander was sent, just prior to cruise stage separation and the subsequent atmospheric entry" and makes it sound like this wasn't supposed to happen ("the cause is unkown.") This article makes it sound like the lack of telemetry at that point was by design.
+
+Why the discrepency? which is right?
+
+
+from jpl failure report:
+
+
+https://spaceflight.nasa.gov/spacenews/releases/2000/mpl/mpl_report_1.pdf
+	Mars Polar Lander (MPL) and the two Deep Space 2 (DS2) probes were launched using a single launch vehicle from Kennedy Space Center on 3 January 1999. Upon arrival at Mars, communications ended according to plan as the three spacecraft prepared to enter the Martian atmosphere. Communications were scheduled to resume after the lander and the probes were on the surface. Repeated efforts to contact all three continued for several weeks to no avail.
+
+	...Section 4 contains recommendations specific to the Mars ’01 Lander. Foremost among these is a recommendation to add telemetry coverage for the entry, descent, and landing (EDL) phase of the mission. The recommendations cover hardware, software, test, and analysis.
+
+	...The decision not to have EDL telemetry was a defensible project decision, but an indefensible programmatic one. (See Section 5.1.1.)
+
+	...5.1.1
+
+	...The project understood from the outset that in order to manage within the established cost constraints, clear project decision-making criteria would need to be established and rigorously followed. One of the criteria was that no resources would be expended on efforts that did not directly contribute to landing safely on the surface of Mars. On that basis, the project decided not to provide EDL telemetry. Senior Headquarters and Laboratory management concurred in this decision.
+
+	...The omission of EDL telemetry was justifiable from a project perspective. However, the loss of MPL without yielding any clues as to the cause of the loss jeopardized the potential for success of future Mars landers. Therefore, the decision was not justifiable in the context of MPL as one element of the ongoing Mars exploration program.
+
+
+sounds like it was supposed to stop sending telemetry when it did. The report concluded that they should have telemetry while the probe is landing.
+
+They said the decision to not have (entry descent landing?) telemetry was not defensible and not justifiable for the mars exploration mission.
+
+
+	...Lessons Learned
+	The requirements and goals established for each individual project within a program should not be permitted to disadvantage future projects without careful consideration by the program authority. Program requirements not clearly delineated at the project outset must be funded or established requirements on the project must be descoped accordingly.
+
+
+https://www.seeker.com/the-mars-curse-missions-that-never-made-it-1766189847.html
+	The Mars Curse: Missions That Never Made It 
+	
+	...After eight failed missions, the Soviets had a bit of luck with Mars 3, an orbiter and lander that arrived on Dec. 3, 1971. But before the celebrations could begin, the party was over. The lander lasted less than 20 seconds before an unknown technical problem cut off communications with Earth. Half of one picture was received (shown here).
+
+	...It took the United States 17 years to follow up its successful Viking missions with a sophisticated orbiter to give scientists a more global view of Mars. The one-ton Mars Observer was successfully launched on Sept. 25, 1992. Disaster struck 11 months later when the probe, just three days away from arrival, fell silent. An accident investigation determined a rupture in the spacecraft's propellant system was most likely to blame. Science instruments developed for Mars Observer were remade for future probes. 
+
+
+https://en.wikipedia.org/wiki/List_of_missions_to_Mars
+
+a long list a failed mars missions, 2/3rds have failed. A lot of landing and communications failures in there before the polar lander.
+
+Seems like a lesson they should have learned already? Wasn't "the martian curse" a thing by the time NASA started working on the MPL?
+
+
+
+------
+
+
+https://spaceflight.nasa.gov/spacenews/releases/2000/mpl/mpl_report_1.pdf
+	The Board was tasked to:
+		1) Determine the possible root causes for the loss of the two missions.
+		2) Identify actions needed to assure future success in similar Mars landings.
+
+	Given the total absence of telemetry data and no response to any of the attempted recovery actions, it was not expected that a probable cause, or causes, of failure could be determined.
+
+	In fact, the probable cause of the loss of MPL has been traced to premature shutdown of the descent engines, resulting from a vulnerability of the software to transient signals. Owing to the lack of data, other potential failure modes cannot positively be ruled out. Nonetheless, the Board judges there to be little doubt about the probable cause of loss of the mission.
+
+	In contrast, the Board has been unable to identify a probable cause of the loss of DS2. The loss of both probes can be accounted for by a number of possibilities. The Board identified four plausible failure modes.
+
+	With regard to task 1) above, discussions of all the potential failure modes that the Board identified are found in Sections 6 and 8 of this report for MPL and DS2, respectively. Each potential failure mode is briefly described and the plausibility of each assessed. The plausibility assessment is not intended to imply probability of occurrence. Each potential failure mode is assessed as plausible unless it is counterindicated by design and test or by operation during the mission.
+
+
+It was hard to find a probable cause for the failure without telemetry. They found one anyway, that the engine shut down from a software bug where if you shake it too much the engine shuts down.
+
+For the DS2, no probable cause was found but they found 4 plausible ones.
+
+"plausible" does not imply "probable."
+
+sabotage wasn't one of the causes they looked it.
+
+Did the causes they find make sense? report on Schiaparelli makes me skeptical...
+
+
+
+------
+
+
+https://spaceflight.nasa.gov/spacenews/releases/2000/mpl/mpl_report_1.pdf
+	Attempts to communicate with MPL continued until mid-January without success. On 17 January 2000, the flight team announced that the effort to recover the spacecraft had concluded. However, in late January and the first two weeks of February, mission managers sent more commands to MPL. These attempts to contact the lander were based on a report from Stanford University that a faint signal had been detected during processing of data recorded earlier. These data were collected during communications attempts on 18 December and 4 January when Stanford was using its 45-meter antenna to try to pick up the lander’s UHF signal. Radio telescopes in the United Kingdom, the Netherlands, Italy, and at Stanford continued to listen for a possible signal, with negative results. Subsequent analysis of the data has determined that the signal was generated from within the Stanford University receiver itself and was not from MPL.
+
+
+Stanford thought they found MPL's signal then later found it was from inside their reciever.
+
+anything weird going on here? sounds sort of weird, like you'd think it would be hard to generate something like what the MPL was supposed to send by accident.
+
+
+goes on to say they couldn't get a high-res enough camera to find where it landed
+
+
+------
+
+https://www.space.com/1153-mars-polar-lander-clues-crash-site.html
+
+In 2005, after looking through pictures taken in 2000, MSSS thought they found MPL
+
+Leonard David speculated that this meant the lander's engines worked better than previously thought:
+
+	But then there's the Mars Global Surveyor imagery that seems to show a single, small "dot" at the center of the mussed-up landing location - suggestive that Mars Polar Lander stayed more-or-less together after its fall.
+
+	And what about that stirred up soil? Maybe the engines worked as billed, blasting away just above the ground.
+
+	For one, the disrupted area looks big for something that stopped firing so high. Secondly, that white spot - conceivably the lander -- is well centered. Would it have plopped down right smack in the center if the engines cut out at a high altitude?
+
+
+but MSSS went and took a picture of the same spot almost exactly 3 mars years later (in 2005) and didn't see the same features.
+
+http://www.msss.com/mars_images/moc/2005/10/17/
+	The figure above compares the features extracted from the earlier, January 2000, image with the same location seen in the new, September 2005, image. The two pictures were taken under nearly identical illumination and atmospheric conditions, almost exactly 3 Mars years apart. The feature identified as a candidate for Mars Polar Lander's parachute is found be the illuminated slope of a small hill. The hill is part of a group of similar hills in the area. The dark feature that was identified as possible rocket blast zone has faded (which would be expected owing to dust deposited by dust storms), but, more importantly, the spot interpreted to be the lander has disappeared. In reality, this spot is a pixel whose value differed from its neighbors in the first image owing to a bigger than average contribution of noise. Close inspection of the January 2000 image (bottom left) shows many small bright and dark blurry spots that do not show up in the September 2005 image (bottom right). There are even smaller, blurry spots in the second image, they are also noise. The fact that these pixels do not coincide is excellent evidence that they are not real features on the surface of Mars.
+
+	We conclude that our interpretation of these features was in error. This is NOT the location of the Mars Polar Lander. Because the landing uncertainty ellipse is so much larger than our images, and we do not have another candidate to which to target additional cPROTOs, we cannot continue to hunt for the lander. Finding it now falls to the High Resolution Imaging Science Experiment (HiRISE) presently en route to Mars on-board the Mars Reconnaissance Orbiter (MRO) spacecraft.
+
+
+they have higher resolution images now of where the lander might be, but Planetary Society thinks people should stop looking:
+
+http://www.planetary.org/blogs/emily-lakdawalla/2012/3383.html 
+	...Mars Polar Lander is not likely to be intact, so would always have been harder to spot than Phoenix. But its backshell and parachute may have made it to the ground in as good condition as Phoenix's did. Basically, all we have hope of spotting is that lone backshell. If we did not know where Phoenix' backshell actually was, it would be awfully hard to find in numerous photos of that very repetitive polygonal polar terrain spattered with isolated boulders.
+
+	...The terrain is very hard to search, leading to too many false positives
+
+	...3. Most people just don't understand the scale of the images
+
+	...Nearly everyone who has ever emailed me thinking they have spotted the lander has been looking at browse images of resolution far too low to reveal missing hardware. This problem can, at least, be solved with education, and I'll plan to devote a future post to explaining exactly how to access HiRISE data with HiView.
+
+	I'm sorry to be discouraging to people, but that's the situation.
+
+
+http://www.planetary.org/about/staff/emily-lakdawalla.html
+	Emily Lakdawalla is an internationally admired science communicator and educator, passionate about advancing public understanding of space and sharing the wonder of scientific discovery.
+
+
+pretty lame
+
+what happened to that space explorer sense of adventure?
+
+
+------
+
+https://spaceflight.nasa.gov/spacenews/releases/2000/mpl/mpl_report_1.pdf
+	From the beginning, the MPL project was under considerable funding and schedule pressure. The project team was asked to deliver a lander to the surface of Mars for approximately one-half the cost of Mars Pathfinder, which had been done for significantly less than earlier planetary missions. In addition, the complexity and technical challenges for MPL were at least as great, if not greater. The important consequences of this technical and financial situation fell chiefly into two categories — project staffing and key technical decisions.
+
+
+the MPL was done on a tight budget, half the cost of cheap Mars Pathfinder from 1997, same or greater technical challenge. Pathfinder cost 1/15th of Viking mission w/ inflation.
+
+	...Project Staffing
+
+	In order to meet the challenges, the Laboratory decided to manage the project with a small JPL team and to rely heavily on LMA’s management and engineering structure. Consequently, there was essentially no JPL line management involvement or visibility into the project. This was a departure from previous project management approaches at the Laboratory, but was accepted as necessary in order to proceed within the cost constraint.
+
+	LMA first- and second-level technical managers provided day-to-day technical oversight of the project. The JPL project team, consisting of approximately 10 technical and management people, provided higher-level oversight and was supplemented with part-time consultants and JPL discipline experts selected by the project. The result was minimal involvement by JPL technical experts.
+
+due to an early decision, there was no JPL line managment and "minimal involvement by JPL technical experts." LMA (Lockheed Martin Astronautic) ended up doing mid-level management and I guess technical stuff.
+
+For sabotage risk, this is a problem because:
+
+1. Lockheed Martin, being a defense contractor, would be more likely to be a target of infilitration by foreign espionage agents
+
+2. Lockheed Martin did a very bad job with the Mars Climate Orbiter, developed simultaneously to this project
+
+
+https://www.popsci.com/military-aviation-amp-space/article/2009-03/gallery-top-10-nasa-probe-failures
+	The Problem: In one of the all time great engineering gaffs, NASA subcontractor Lockheed Martin created thruster software that used Imperial units, not the metric units used by NASA. NASA did not know this, never converted from pounds to newtons, and the probe eventually hit the atmosphere at the wrong angle and burned up.
+
+
+should look into more, but it looks like it was more or less Lockheed's fault that the climate orbiter crashed. It's weird to use pounds and weird not to tell them.
+
+
+	LMA used excessive overtime in order to complete the work on schedule and within the available workforce. Records show that much of the development staff worked 60 hours per week, and a few worked 80 hours per week, for extended periods of time. Another consequence of the tight funding constraint was that many key technical areas were staffed by a single individual. Although none of these individuals were lost to the project during its development, the effect of inadequate peer interaction was, in retrospect, a major problem. It is the Board’s assessment that these conditions led to a breakdown in inter-group communications, and there was insufficient time to reflect on what may be the unintended consequences of day-to-day decisions. In short, there was insufficient time and workforce available to provide the levels of checks and balances normally found in JPL projects.
+
+
+LMA engineers were pulling 60-80 hour weeks to get it done.
+
+Some "key tehcnical areas" were staffed by a single person (bad news for project if that person ends up being a spy)
+
+report talks about a "breakdown in inter-group communications" and "unintended consequences of day-to-day decisions"--more to this?
+
+maybe referring to the decision not to have EDL telemetry, which JPL identified as #1 problem.
+
+Reading between the lines, JPL sounds a little miffed they didn't have more control over the project, even though JPL managers were at the top. Did LMA do their own thing?
+
+
+	3.1.1.2 Key Technical Decisions
+
+	The Mars ’98 project made key decisions early in the formulation phase, as required in any cost- constrained project. However, some of these key decisions ultimately required more development effort than originally foreseen. In the opinion of the Board, this occurred partly as a result of insufficient systems engineering during the formulation phase. The project also adopted a number of operating mandates in order to cope with the severely tight funding and schedule constraints. These mandates were:
+	! Use off-the-shelf hardware components and inherited designs to the maximum extent possible.
+	! Use analysis and modeling as an acceptable lower-cost approach to system test and validation.
+	! Limit changes to those required to correct known problems; resist changes that do not manifestly contribute to mission success.
+
+
+seems off. Did they develop it like a software startup? with budget constraints, you'd think you'd cut down scope and complexity, not testing and long-term goals.
+
+JPL cited the "cut anything not contributing to mission success" mandate as the reason for the decision not to have EDL telemetry.
+
+
+Maybe "faster better cheaper" not working so well?
+
+https://mars.jpl.nasa.gov/msp98/misc/fbctask.pdf
+	Moving into the last decade of the 20th Century, it was already clear that for NASA to remain viable andcredible, it must become more business-like, treat cost and schedule as important as Mission performance,and deliver on time for the advertised cost.
+
+	...And, Dan Goldin said: "It’s OK to fail!" (This was not well understood, but is clarified in this report
+
+	...However, of all the hundreds of people interviewed, outside and inside NASA, no one said we should turn back. All realized that NASA must continue to improve its performance if NASA is to stay a world leader
+
+	...Examples of favorite debates: Should the Better go before Faster and Cheaper? Or is the other way around? Another argument was that you could pick two, but you can t have all three and on and on.
+
+	...You can imagine the argument between the strict technicians and the humanists in our debates as to whether item 2 above was an essential part of the definition, but over and over, every successful FBC Team told us that people are most important and close team work was essential.
+
+	The FBC Teams became a family with extensive communications among the members. They fussed and fumed like a family, but reached out to help each member, as well, while still doing their own job. They became totally excited about their work and remarked they were having fun!
+
+	...Some FBC Teams, however, reported that the fun had gone away after having their resources cut too deeply.
+
+
+written as if it's by someone trying to destroy NASA and enjoying it
+
+
+http://www.nytimes.com/1998/09/15/science/nasa-s-learns-that-faster-and-cheaper-isn-t-always-so.html
+	NASA's Learns That Faster And Cheaper Isn't Always So
+
+	...Smaller, simpler spacecraft -- combining cutting-edge technology, like miniature instruments, with inexpensive, off-the-shelf components -- can maintain a steady pace of exploration as budgets decline and new billion-dollar missions, like the Hubble Space Telescope, are no longer feasible, the space agency says.
+
+	But what if faster, better, cheaper proves to be none of the above? What if the process of narrower program requirements, speedier, incentive-based contracts, more contractor responsibility and less Government supervision or oversight fails to pay off? Then the Government and the taxpayers could end up with Lewis and Clark.
+
+	A program announced in 1994, the Small Spacecraft Technology Initiative, should have resulted in two satellites named for the 19th century American explorers Meriwether Lewis and William Clark orbiting Earth today, making detailed measurements of surface features and doing environmental sampling. Together, the two satellites were to demonstrate 55 new technologies and fly seven major instruments developed by industry, university and government scientists.
+
+	Instead, Clark was never built, a victim of instrument problems, testing delays and rising costs. And Lewis, launched into orbit on Aug. 23, 1997, re-entered the atmosphere and burned up a month later. Investigators said Lewis spun out of control and lost power because of flawed control system design and inadequate monitoring by ground controllers.
+
+	...In announcing contracts for the two satellites in June 1994, the Administrator of the space agency, Daniel S. Goldin, said the program put his ''faster, better, cheaper'' policy into practice. He called for the satellites to be developed and launched into orbit within 24 months at a cost of less than $60 million each. Under this concept, the agency states the results it wants and leaves it up to the contractor with the winning bid to determine details, like design of the spacecraft, who will build what instruments and what rocket will be used to launch the finished craft.
+
+	''This is a new way of doing business for NASA,'' Mr. Goldin said then. ''We told the industry what to do, not how to do it.''
+
+
+what's the rush?
+
+space isn't going to burn up and dissappear any time soon, but your rocket might
+
+(on the other hand, if these accidents are sabotage, it seems like they're only delayed space exploration, not stopped it. What would be the motive for delaying space exploration? And why Mars specifically?)
+
+"faster better cheaper" translated to corner-cutting at NASA
+
+according to NY Times and reading between lines in JPL report, this lead to more failed missions. "FBC" and the media reporting around it would also create a cover for more direct sabotage of NASA missions. The MPL failure is a good example of how it could be used as a cover. "FBC" ideas lead to cutting telemetry for landing, and because of this they don't actually know how the probe failed. But they do know the team was working overtime and cutting corners. So it ends up that "it was rushed" serves as a satisfying explanation for people who would otherwise have been more curious.
+
+FBC also lead to them relying on contractors more, which introduces aforementioned problems since spies more likely to be placed (and more efficiently placed) in defense contractors.
+
+
+------
+
+https://spaceflight.nasa.gov/spacenews/releases/2000/mpl/mpl_report_1.pdf
+	On the whole, this philosophy was sound, with design and trade choices based on a reasonable balance between technology, cost, and schedule. However, even in a highly cost-constrained environment,great care must be taken in the cost–risk tradeoff. In retrospect, the Board found that a few choices (as enumerated below) resulted in unanticipated design complexity or other unanticipated consequences.
+
+	1.The decision to use pulse-mode control for the descent engines avoided the cost and cost riskof developing and qualifying a throttle valve in exchange for a somewhat more difficult terminal descent guidance system algorithm. This introduced other risks in the propulsion, mechanical, and control areas. Although the risks in the mechanical and thruster areas were dealt with satisfactorily, the risks in the dynamics and control area were not completely retired and should have been more fully addressed through analysis and test.
+
+	2.The lander configuration required at least two canted engines in each of three locations forstability and control. The project elected to use four smaller off-the-shelf engines at eachlocation.
+
+	3.The decision to use analysis and modeling instead of testing, when possible, was an effectivecost-reduction strategy; however, there were some cases where the project depended on models not thoroughly validated. Examples are:— Radar–terrain interaction— Dynamical control effects of pulse-mode propulsion
+
+	4.The decision not to have EDL telemetry was a defensible project decision, but an indefensible programmatic one. (See Section 5.1.1.)
+
+	5.The decision to forgo downlink through the omni antenna made the X-band downlink dependent upon the MGA being pointed accurately at Earth. This reduced the ability to get health and safety engineering data in an anomalous landed configuration.
+
+
+JPL suggested they went too far on the "risk" side of the "cost-risk tradeoff." They also made some bad design decisions. They decided to use a descent engine that was cheaper but more complicated to control ("pulse-control"), but didn't thoroughly validate the system to control it. The skimped on the antenna and chose one that wouldn't work if the lander landed wrong and ended up pointing in an "anomalous" direction, and didn't include telemetry while landing.
+
+They chose a riskier way to land, didn't test it thoroughly, and didn't have adequate ways to get telemetry if something went wrong during landing.
+
+
+something telling in JPL's reccomendations after this section?
+
+	3.1.2 Recommendations 
+
+	R1)  For highly cost- and schedule-constrained projects, it is mandatory that sufficient systems engineering and technical expertise and the use of the institution’s processes and infrastructure be applied early in the formulation phase to ensure sound decision making in baseline design selection and risk identification. 
+
+	R2)  Do not permit important activities to be implemented by a single individual without appropriate peer interaction; peers working together are the first and best line of defense against errors. Require adequate engineering staffing to ensure that no one individual is single string; that is, make sure that projects are staffed in such a way as to provide appropriate checks and balances. 
+
+	R3)  Establish standards for JPL technical involvement and line management oversight for all ongoing and future projects. The standard should be clearly delineated and the Governing Program Management Council (GPMC) should review all projects for compliance before authorization to proceed. 
+
+	R4)  Revise institutional policies and procedures as necessary to preclude personnel working excessive overtime (paid or unpaid); e.g., greater than 60 hours per week for more than eight weeks without senior line management approval. Criteria should be expanded to include technical performance and hardware safety in addition to employee well-being. Mars Polar Lander/Deep Space 2 Loss — JPL Special Review Board Report JPL D-18709 — page 8 
+
+	R5)  Similarly, projects must limit use of excess contractor overtime unless approved by senior contractor management and the JPL project manager.
+
+
+1. Have people who know what they're doing take time to make the right high-level decisions on the design and risk before plowing ahead
+
+2. don't let a lone unsupervised person be entierly in charge of important activities
+
+3. Don't hide anything from JPL
+
+4-5. don't let them kill themselves working 80 hours a week
+
+it sounds like there were a handful or a single problematic individual who made bad decisions in development of the lander, but they don't want to name him/her to be nice (is that even legal?)
+
+This person(s) might have been working 80 hours a week
+
+
+	...The subsystem PDRs and CDRs themselves were adequate in identifying most of the technical issues contained in this report. Although all actions and recommendations were closed out formally prior to launch, these closures were usually approved by the project based on LMA closures without any independent technical support (by reviewers or otherwise). There was no substantive technical assessment of the closures in many areas; the JPL technical support was minimal, and LMA did not have their closures reviewed by Board members or non-project LMA personnel.
+
+	The Board has reviewed the closure of some action items related to the potential failures, and found that while the appropriate concerns were raised in the reviews, the actions taken by the project did not adequately address the concerns in all cases. This limitation on technical penetration of the action items and their closure is not typical of JPL projects and was probably an unintended consequence of project funding limitations.
+
+	Rather than following the typical process of choosing board chairpersons with technical expertise in functional areas from outside the project, the Flight System Manager was the chairperson of all the subsystem reviews. This approach may have contributed to the limited technical penetration on some of the action item closures.
+
+
+Apparently JPL knew about some of these problems beforehand but Lockheed ignored them, didn't include them in reviews.
+
+Last paragraph sounds like a nice way of saying some people in charge didn't know what they were doing.
+
+The report comes off like it was written by a frustrated person trying to sound professional.
+
+their reccomendations for this section are:
+
+6. have a review plan organized enough for JPL to know what's going on
+
+7. If JPL asks you to do something, get back to them on how and if you actually did it
+
+8. let tech people outside the project sit on reviews
+
+9. follow-up if a review finds something wrong
+
+10. can't guess what story is behind this one. Were managers unclear with staff on what top-level requirements were?
+
+
+------
+
+https://spaceflight.nasa.gov/spacenews/releases/2000/mpl/mpl_report_1.pdf
+	Design Process
+
+	MPL findings
+
+	The systems engineering resources were insufficient to meet the needs of the project. For example, full evaluation of system interaction between propulsion, thermal, and control was incomplete. Fault-tree analysis was treated inconsistently. The thermal and software system design activities lagged behind the design of other subsystems requiring these inputs. In some cases, consideration of potential failure modes was not adequately assessed.
+
+	Precision navigation requirements were incompatible with spacecraft design, which could have been, but were not, adequately accounted for in mission operations. Specifically, the small forces generated by the spacecraft could not be modeled to the accuracy required by the navigation plan.
+
+	Certain MPL mission phases and sequences provide coverage only for parameter dispersions that conservatively represent stochastic dispersions, but unnecessarily fail to acceptably handle anomalously large parameter dispersions created by unmodeled errors or other non-stochastic sources. A notable example is EDL Sequence Implementation; i.e., the sequence design was not tolerant to anomalous conditions, and there was no functional backup to key go–no go event triggers.
+
+
+JPL coming out sounding pretty harsh here.
+
+
+	...3.4 Verification and Validation Process 3.4.1
+
+	MPL Findings
+
+	In general, the verification and validation process for MPL was well planned and executed except as noted in Section 5.3. Most verification and validation deficiencies were in the final three EDL phases — parachute, terminal descent, and touchdown. This is not surprising since these are the most difficult areas to test or otherwise validate from a system perspective. In particular, many of the findings are related to the propulsion system, which employed analysis as a substitute for test in the verification and validation of total system performance. Therefore, the end-to-end validation of the system through simulation and other analyses was potentially compromised in some areas when the tests employed to develop or validate the constituent models were not of an adequate fidelity level to ensure system robustness.
+
+
+found problems in testing of last parts of landing
+
+didn't test propulsion system, did "analysis" instead.
+
+	The flight software was not subjected to complete fault-injection testing. Problems with post-landing fault-response algorithms (see Section 7.7) were uncovered in the course of the investigation.
+
+
+bugs in handling problems with landing
+
+
+	The touchdown sensing software was not tested with the lander in the flight configuration. Because of this, the software error was not discovered during the verification and validation program (see Section 7.7.2).
+
+
+didn't test the touchdown-sensing software while actually landing
+
+also found poor communication between "propulsion" and "thermal" groups which led to problems
+
+
+in a later section:
+
+	...The use of single-string operation during the relatively short EDL sequence can be justified based on simplicity and the associated advantages. However, there are examples where a single fault or off- nominal condition could cause the loss of the mission. In some cases, modest modifications would have enabled the system to degrade gracefully and continue on in the presence of such faults. The absence of functionally redundant sequence triggers to fail-safe against hardware or software failures for each sub-phase of EDL is one such example. Most EDL sub-phases have only one transition criterion, the absence of which prevents continuation of the EDL sequence.
+
+	The touchdown sensor check was enabled as soon as the Radar was powered off, enabling engine shutdown at 40 meters altitude. A more robust logic strategy would have enhanced the probability of survival in the presence of a premature touchdown sensor signal.
+
+	Similarly, it appears that there are some conditions under which the lander might have been able to physically land with a failure in one of the 12 terminal descent engines. The software implementation of the pulse-width control algorithm, based on the average required thrust duration ±10 milliseconds, made this more difficult, if not impossible.
+
+	A flaw in the Radar data acceptance algorithm would have forced the system to attempt to land without Radar data in the event of some invalid miscompares between the Radar measured velocity and the velocity propagated/integrated from the pre-entry state. It is extremely unlikely that MPL could land successfully without the use of Radar data.
+
+	The absence of a low-gain transmit antenna is another example of a lack of robustness in the design. Although the UHF system provides some measure of increased robustness in this area, other operational limitations make it less useful than a direct-to-Earth wide-beam link.
+
+
+JPL found multiple cases where a "single fault" could have ended the mission, which could have been fixed by "modest modifications."
+
+the touchdown sensor, which turn off engines, was turned on when lander was 40 meters high, which allowed it to crash the lander even though they didn't have to design it this way.
+
+they made decision to have 12 engines but didn't program it to handle things if one failed (reminiscent of N1 rocket failure? the more engines there are, the more probability one will break). Apparently this wouldn't have been hard to do.
+
+they had an antenna that wouldn't work if landing wasn't good.
+
+...
+
+
+they looked at a lot of ways it could fail, and found 7 plausible explanations.
+
+found it plausible and supported by tests that:
+
+- probe lost control due to oversimplified model of landing in martian atmosphere
+
+- crash due to impalance in center of mass from fuel moving around
+
+- the touchdown sensor decided the landing legs coming out was the craft actually landing and shut off the engines 40m high (most probable)
+
+
+------
+
+report with the rest of the pages:
+
+https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20000061966.pdf
+
+pg 131
+
+	...The logic in the uplink loss timer software precludes switching from a failed uplink string to the backup uplink string, resulting in the loss of command capability to the spacecraft.
+
+	..This logic was used during the cruise phase and during the landed phase of the mission. No problems occurred during the cruise phase.
+
+	For the landed mission operations, the values of the parameters in the logic are changed.
+
+	...Because no commands are received on the failed receive string, the software logic will always skip around the rest of the command loss software and, consequently, will not switch to the redundant string. The result of this logic error is thai a failed component in the uplink string of the lander during EDL would lead to a situation where the uplink loss logic could not switch to the redundant string.
+
+
+There was a big where the lander can't switch to backup communications to respond to commands if communications are lost. They changed parameters for entry/descent/landing so that it only shows up then.
+
+it goes on to say another bug prevents it from switching to "redundant uplink"
+
+concludes "the logic for the landed uplink loss was poorly designed" although says there was a workaround.
+
+	Findings
+
+	1. The reqt, irements for the uplink loss timer software were very similar to those defined for other planetary spacecraft missions. The walkthroughs were well attended. Minutes and action items were recorded.
+
+
+lists a lot of problems with the review and testing of this part
+
+
+	...The test walkthrough process did not present a test case that demonstrated the correct results in the presence of a failed receiver after landing. Apparently, the test cases tested the cruise-phase logic and did not include the extra logic that required a command to be received in the tailed uplink string to initiate the landed uplink loss timer software. The actual landed sequence parameters that caused the thilure to switch were not tested anywhere.
+
+
+only tested for "cruise phase"
+
+for end-to-end testing, used uplink system to send tests for testing failure in uplink system... "That is not the proper logic for testing the ability of the lander software to switch to the redundant element should a failure have occured"
+
+JPL still sounds frustrated
+
+	
+	...7. 7.2 Premature Descent Engine Shutdown FAILURt_ MODE DFSCRIPTION
+
+	A spurious signal, generated when the landing legs are deployed at an altitude of about 1500 meters, can cause premature descent engine shutdown when the lander is 40 meters above the surface.
+
+	The three landing legs are deployed from their stowed condition to the landed position at an altitude of about 1500 meters while the lander is still attached to the parachute. Each leg is fitted with a Hall Effect magnetic sensor that generates a voltage when its leg contacts the surface of Mars. The descent engines are shut down by a command initiated by the flight software when the first landing leg senses touchdown. If the touchdown sensor in that leg fails to detect the touchdown, the second leg to touch down will trigger the engine shutdown. This logic is intended to prevent the lander from tipping over when it has a skewed attitude relative to the surfhce during touchdown. It is important to get the engine thrust terminated within 50 milliseconds after touchdown to avoid overturning the lander. The flight software is also required to protect against a premature touchdown signal or a failed sensor in any of the landing legs.
+
+	The touchdown sensors characteristically generate a false momentary signal at leg deployment. This behavior was understood and the flight software was required to ignore these events: however, the requirement did not specifically describe these events, and consequently, the software designers did not properly account for them. The resulting software design recorded the spurious signals generated at leg deployment as valid touchdown events. When the sensor data were enabled at an altitude of 40 meters, the engines would immediately shut down. The lander would free fall to the surface, impacting at a velocity of 22 meters per second (50 miles per hour), and be destroyed.
+
+so what happens:
+
+when leg unfolds, at 1500 meters high, there is a problem where the touchdown sensors register this as touching down
+
+the knew this problem but did not tell the software designers
+
+the software was written so that the signal generated when the legs were deployed, when the probe was 1500 m high, would be remember when the "sensor data were enabled" when the probe was 40 m high. Therefore, as soon as the touchdown sensor data were turned on the engines would be instantly shut off.
+
+
+	...As the logic proceeds to the next step, three conditions are checked. If the Indicator State is True, the Indicator Health is Good, and the Touchdown Event is Enabled. the command to term inate thrust of the descent engines will be issued. Since all three of these conditions are met when the spurious signal has occurred, the engines will shut down prematurely, shortly after the Radar has sensed the 40-meter altitude. The result is that the lander has a velocity' of approximately 13 meters per second and is accelerating at the Martian gravity of 3/8 g. The lander strikes the Martian surlacc at approximately 20 meters per second. (Note: The correction provided by the 2001 flight software could prevent descent engine shutdown until the real touchdown occurs.)
+
+
+it really is that simple... it just remembers if the sensors detected it during the period from 1500 to 40m, then has logic to say "if detected and 40m high, shut off engines." And even if the programmer didn't know about the leg opening problem, they way they chose to write it doesn't make sense. Why use the sensor at all before it's ready to land?
+
+JPL sounds pissed
+
+goes on to say they did real-life tests and found the "transient hall effect" triggers the software bug
+
+
+	...The lack of telemetry during EDL made it impossible to determine if the landing leg deployment transients set the touchdown state to True during the leg deployment. Since there was no post-landed telemetry, there is no information regarding the time of the descent engine thrust termination.
+
+
+even still, they can't know for sure if this was the reason it crashed due to lack of telemetry.
+
+
+	...The system-level requirements document that defined the requirements for the touchdown sensing had three requirements (defined in Change Summary XB0114) that are pertinent to understanding what happened in the software design, as follows:
+
+	1. The touchdown sensors shall be sampled at 100-Hz rate. The sampling process shall be initiated prior to lander entry to keep processor demand constant. However, the use of the touchdown sensor data shall not begin until 12 meters above the surface. (Note: The altitude was later changed from 12 meters to 40 meters above the surface.)
+
+	2. Each of the three touchdown sensors shall be tested automatically and independently prior to use of the touchdown sensor data in the onboard logic. The test shall consist of two (2) sequential sensor readings showing the expected sensor status. If a sensor appears failed, it shall not be considered in the descent-engine termination decision.
+
+	3. Touchdown determination shall be based on two sequential reads of a single sensor indicating touchdown.
+
+	The requirement to not use the sensor data until reaching the 40-meter altitude was put in place to protect against premature descent engine thrust termination in the event of failed sensors and possible transients. However, the requirement did not specifically state those failure modes. The software designers did not include in the design of the software a mechanism to protect against transients, nor did they think they had to test for transient conditions. The problem was compounded during the flowdown of the requirements to the Software Requirements Specification (SRS). All the requirements in the Change Summary were picked up in the SRS except for the following: "'However, the use of the touchdown sensor data shall not begin until 12 meters [later changed to 40 meters] above the surface."
+
+
+there were problems with what the managers told the programmers to do
+
+it kindof set them up for this
+
+JPL report goes on to say that it doesn't make sense to require them to read the sensors in a loop just to keep the CPU busy
+
+the requirement to change behavior at 40 (initially 12) meters wasn't documented, which JPL says might have led to them skipping testing it. Also says:
+
+	...Figure 7-9 shows tile flov_'down from the system requirements from the Engineering Change Summary to the flight software requirements, as they were documented in the SRS (with the exception of the use of the touchdown sensor not beginning until 12 meters above the surface).
+
+	The omission of that requirement in the SRS may have led the software designers to allow the Indicator State to be set to True during the data processing prior to the Radar sensing of the 40-meter altitude. 
+
+
+which I think is suggesting that the programmers might have followed the requirements literally, except the mysteriously missing one, to get the bug that probably caused the lander to crash.
+
+if the "turn on at 12 m" requirement was meant to prevent "premature descent engine thrust termination," why did they change it to 40 m? makes it hit the ground about twice as fast
+
+goes on to say the people testing the landing legs and the people writing the software for them didn't communicate well:
+
+	...The requirements for the touchdown sensing logic were not changed after tile landing leg deployment tests established the likelihood of transient response of the Hall Effect sensors to the leg dynamic effects. This may have been the result of the mechanical design personnel not infbnlaing the systems and software personnel of the results in a timely manner. Perhaps, if the Systems Engineer was told. he or she may have thought that the problem was solved by the requirement not to use the touchdown sensor data until the 40-meter altitude had been reached. By that time, the transient would no longer be present. The combination of that requirement and the requirement to initiate the sampling process prior to entry to keep the processor demand constant put everything in place for the flight software to be vulnerable to a transient, triggering a premature engine shutdown. The systems and software personnel may not have intbrmed the mechanical design persomael of the software design that was used to detect touchdown and to disable sensors that indicate a premature touchdown signal. If that is true, the mechanical design personnel would not have been sensitive to the problems that a transient would cause.
+
+
+JPL found that they knew about it never got to the programmers:
+
+	...The walkthroughs apparently did not consider the impact of dynamic transient behavior from the Hall Effect sensors during landing leg deployment. A component test of the landing leg deployment was accomplished on 16 June 1997. That test provided an indication of the transient response from the Hall Effect sensors to the dynamics of the deployment. The importance of that transient was not recognized. The code walkthrough of the touchdown-sensing code was held on 30 June 1997 without consideration of the effects of that transient on the outcome of the sequence.
+
+discovered 16 June, code walkthrough 30 June
+
+
+	...The unit test cases did not provide a test that would have caught the logic errors in response to transients in the Hall Effect sensors. The software integration tests also did not detect the transient response problems in the software. The unit test cases were not intended to test for transients from the Hall Effect sensors. The unit test cases are intended to veril}' stated software requirements: the missing requirement in the SRS contributed to this problem. The intent of the requirement to not use any touchdown sensor data prior to the 40-meter altitude was to eliminate premature touchdown indications. If protection from deployment transients was a software requirement, a unit test would have caught this problem. A test to refit}' that sensor data prior to the 40-meter altitude was not used, but also could have caught this problem.
+
+	...A system leg deployment test was performed on 4 June 1998 during spacecraft testing with the flight software touchdown code operating. Even though transients due to dynamic response of the Hall Effect sensors were probably' present, they were not detected, nor was touchdown detected when technicians pushed up on the footpads to simulate touchdown, it was later discovered that the Hall Effect sensors were improperly wired because of an error in the wiring drawing, and the wiring error prevented the sensor response from being monitored. The legs were then rewired to correct the error. The technicians again pushed up on the tbotpads and the sensors indicated a touchdown had been sensed. However, the leg deployment test was not repeated after the wiring error was corrected. A rerun of that test with the proper wiring in place might have detected the software logic problem in the presence of the leg-rebound transient.
+
+
+multiple things came together to make them to miss the problem: if the people testing the landing gear told the software team about the problem, they would have known what to look for and probably found the bug. If the software requirement not to use the sensor data before 40m high wasn't missing from the docs, they would have remembered to test it. They almost caught it in another test anyway, but the sensors were wired wrong, and when they rewired they didn't bother to test the leg deployment again. 
+
+------
+
+
+http://www.spaceref.com/news/viewnews.html?id=105
+	MPL The Mars Polar Lander's December 1999 demise apparently occurred when the lander thought the jolt of its landing leg deployment was touchdown - and shut its engines off. Moments later it crashed into Mars at freeway speed, the second probe to do so in less than 4 months. The two Deep Space-2 probes, (ironically) designed to intentionally crash into Mars at 400 miles per hour, also vanished without a trace. The teams investigating that loss suggested simply that the DS-2 probes should not have been launched since they were not ready to be launched in the first place.
+
+
+why did the ones designed to crash "vanish without a trace"?
+
+
+https://www2.jpl.nasa.gov/files/misc/mars98launch.pdf
+	Each probe will transmit data to the orbiting Mars Global Surveyor using a radio in theUHFband (at frequencies near the upper channels of a conventional TVset) at a rate of 7,000bits per second.  The first such communications session is expected within two hours afterimpact.  Normally each probe will be in a low-power listening mode until it receives a signalfrom Mars Global Surveyor telling it to transmit data.  The orbiter will temporarily store thedata and transmit it to Earth as soon as possible.
+
+
+they were supposed to beam up data to the Mars Global Surveyor which was already their.
+
+Maybe they crashed too hard?
+
+the deep space 2 failures might be more interesting--both were lost, so it's less likely the failure was pure bad luck. 
+
+
+	...Meanwhile the team found that the twin DS-2 microprobes had not been tested enough and were "not ready for launch".
+
+
+maybe that sums it up
+
+
+http://www.spaceref.com/news/viewnews.html?id=105
+	Faster-Better-Cheaper came up several times. Weiler and Young both defended the concept as basically sound and did not recommend that it be abandoned. However Weiler said that clearly NASA had "pushed the envelope to far" in part, buoyed by the Mars Pathfinder and Mars Climate Orbiter missions. Weiler admitted that it is now time to reconsider the envelope, pull back, and regroup.
+
+
+FBC was questioned after this
+
+
+	As a result of its findings, the team recommended a series of management changes in NASA's Mars Program. In concert with the release of the report, Ed Weiler announced that Scott Hubbard from NASA ARC would be come the new single point of contact for all NASA Mars exploration at NASA Headquarters. JPL center director Ed Stone was expected to make an announcement regarding a single point of contact at JPL for Mars. Other than the extended leave of absence being taken by former NASA HQ Mars coordinator Carl Pilcher, and Hubbard's apparent assumption of Pilcher's previous responsibilities, no one seems to have been fired - nor will they according to Weiler. Nor is any one to be blamed.
+
+
+no-one got fired for this?
+
+
+	...When asked to comment on Lockheed Martin's culpability, Tom Young dodged the question and said simply that the team had not been asked to look into this and that it was "NASA's business" how they managed Lockheed Martin. Young did place a clear amount of blame on Lockheed Martin and did not disagree with the characterization made by a CNN reporter that these mistakes (on MPL and Mars Climate Orbiter) seemed to be "stupid". Weiler responded later that "all mistakes are stupid in hindsight". Young also suggested that the lack of cost realism was due in part to an "aggressive proposal" by Lockheed Martin. In layman's terms, this means they bid too low and made too many optimistic assumptions in the short run - and it came back to bite them in the long run.
+
+
+reporters were asking if they blamed Lockheed and thought the mistakes were "stupid," but NASA officials mostly dodged
+
+
+	... Tom Young's role in this report - and his previous senior position at Lockheed Martin was raised - including the perception of a conflict of interest. He noted that he had left Lockheed Martin 5 years earlier, that he had a lot of eyes watching the whole process, and NASA knew his background from the beginning. He compared his relationship to Lockheed Martin and its problems now as being that of a doctor to a close friend "the worst thing you can do [as a doctor] is not to tell them that they are sick".
+
+
+But Lockheed seems to be taking the blame
+
+
+	... When asked where Dan Goldin was and what he had to say about the report, Tom Young recounted the meeting he had with Goldin, the fact that Goldin had not pressed him for results, and that Goldin was briefed just before OSTP received a preview of the report last week. Other than that , Goldin's absence was not explained, nor was any note made as to when he'd have something to say on the topic.
+
+
+Dan Goldin, "faster better cheaper" proponent, stayed mum on the report
+
+
+
+------
+
+
+https://partners.nytimes.com/library/national/science/032900sci-nasa-mars.html
+	Thomas Young, a former NASA official who was chairman of the team reviewing the agency's Mars program, said the lander and two small probes it carried that also failed were the victims of several management mistakes, including inadequate testing before launching.
+
+	"People were trying to do too much with too little, and not adequately conveying their concerns to others, particularly upper management," Mr. Young, who is also a retired executive vice president of the Lockheed Martin Corporation -- the primary contractor on the lander project -- said after a news conference here at NASA headquarters.
+
+	"No one had a sense of how much trouble they were actually in," he added. 
+
+
+report said something different (TODO: grab quote)
+
+
+	...But tests conducted on an engineering model of the $165 million lander suggest that switches on its landing legs that were supposed to signal touchdown on the planet probably generated false signals when the legs extended.
+
+	...The reports issued today found failures in communication between project officials and managers at the Jet Propulsion Laboratory, which oversees interplanetary missions, as well as between these managers and Lockheed Martin. 
+
+
+NYTimes didn't mention that they knew about this problem before launch
+
+mostly holds NASA to the fire for it
+
+how much of it is NASA and how much Lockheed? Young has a point, NASA responsible for their contractors. But it's a little misleading.
+
+Oberg does the same:
+
+
+https://www.upi.com/Archives/2000/03/21/NASA-knew-Mars-Polar-Lander-doomed/7452953614800/
+	Prior to its arrival at Mars, a review board had already identified a fatal design flaw with the braking thrusters that doomed the mission, but NASA withheld this conclusion from the public. The probe was lost while attempting to land near the martian south pole on December 3. Two small microprobes which had deployed separately also were never heard from again. It was the second expensive setback for American interplanetary exploration in less than three months. On September 23, a companion probe had been destroyed when a navigation error sent it skimming too deeply into the atmosphere of Mars. Following these failures, NASA commissioned several expert panels to review the accidents and recommend improvements in NASA procedures. A source close to the panel probing the second accident has told UPI that its conclusions are "devastating" to NASA's reputation.
+
+
+goes on to describe some different problem from the ones the report says. Then says:
+
+
+	...The Mars Polar Lander investigation team has also reportedly identified a second fatal design flaw that would have doomed the probe even if the engines had functioned properly. The three landing legs of the probe contain small microswitches which are triggered when the legs touch the surface. This signal commands the engines to cease firing. Post-accident tests have shown that when the legs are initially unfolded during the final descent, springs push them so hard that they "bounce" and trigger the microswitches by accident. As a result, the computer receives what it believes are indications of a successful touchdown, and it shuts off the engines. Since this false signal actually occurs high in the air, the engine shutdown automatically leads to a free fall and destructive high-speed impact. Ground testing prior to launch apparently never detected this because each of the tests was performed in isolation from other tests. One team verified that the legs unfolded properly. Another team verified that the microswitches functioned on landing. No integrated end-to-end test was performed due to budget and time constraints. But UPI has been privately told that "this has been reproduceable on a regular basis" in post-flight tests. Perhaps by coincidence, in a safety memo to NASA employees distributed on March 20, NASA administrator Dan Goldin stressed "the importance of adequate testing." Reliability, he said, "requires well-thought-out verification and test activities." Goldin explicitly described the adverse impact of "our difficulties with recent failures in late stages of development -- such as system integration and testing -- and during mission operations."
+
+
+kindof weird--this is the problem they knew ahead of time according to report, but Oberg grills them for another one.
+
+
+	...The investigation was led by Tom Young, a former manager at NASA's Jet Propulsion Laboratory which runs most of NASA's deep space probes. "Goldin recently told his managers that the Young report will be the Rogers Commission of space science," Andrew Lawler wrote in the March 10 issue of Science magazine, "referring to the devastating critique delivered by a panel that examined the 1986 Challenger disaster." 
+
+
+apparently the report was supposed to be the "Roger's commission of space science"
+
+If active measures, I guess the goal or part of it was to make NASA look bad?
+
+
+after the polar lander and climate orbiter, Oberg wrote some peices on NASA being incompetent and trying to cover it up:
+
+http://sunnyday.mit.edu/accidents/mco-oberg.htm
+
+
+------
+
+
+http://www.washingtonpost.com/wp-srv/WPcap/2000-03/29/075r-032900-idx.html
+	Another Avoidable Mistake For NASA
+	Mars Craft Felled By Missing Line of Code, Probe Finds
+
+	Wednesday, March 29, 2000; Page A01
+
+	The likely fate of the lost Mars Polar Lander was a 50-mph impact with the planet's frozen surface caused by a missing line of computer code--part of a pattern of avoidable errors that have left the U.S. Mars program a shambles.
+
+	Outside investigators announced these conclusions yesterday, as NASA's top scientist confirmed that the agency will cancel plans to launch a robot spacecraft in 2001 on a mission to land on Mars and indefinitely postpone all future launches to Mars, with one exception. A 2001 mission to send a craft to orbit the Red Planet is still on track.
+
+	With only its aging Mars Global Surveyor in orbit around Mars, NASA is reassessing its entire approach to the exploration of the planet after losing all four of its spacecraft bound for Mars last year--a package totaling $360 million.
+
+
+wapo said the Mars program was in "shambles" after this, reported that the agency was "indefinitely postponing" all missions to Mars
+
+
+	...The Mars Climate Orbiter was lost because contractor Lockheed Martin's Mars team in Denver forgot to convert from English to metric units, and NASA managers failed to catch the error. Also lost, along with the lander, were two piggybacking microprobes whose fate remains unknown.
+
+
+there's a discrepency between the MPL failure report and the media reporting
+
+from JPL report, get a sense that bulk of it was problems with Lockheed martin
+
+I think report says they did most of the work
+
+from media, most reports tend to shift blame to NASA
+
+
+	...The common theme running through all the failures, the investigations have shown, is that NASA's efforts to tighten the budget screws and encourage certain kinds of risk-taking--under a philosophy known as "faster, cheaper, better"--finally went too far. This left the latest Mars projects underfunded, understaffed and overstressed. The JPL team, for example, consisted of just 10 people, each working on a given function in relative isolation and putting in 80-hour weeks.
+
+
+report says:
+
+	LMA first- and second-level technical managers provided day-to-day technical oversight of the project. The JPL project team, consisting of approximately 10 technical and management people, provided higher-level oversight and was supplemented with part-time consultants and JPL discipline experts selected by the project. The result was minimal involvement by JPL technical experts.
+
+	...LMA used excessive overtime in order to complete the work on schedule and within the available workforce. Records show that much of the development staff worked 60 hours per week, and a few worked 80 hours per week, for extended periods of time.
+
+
+Sawyer is world's worst player at telephone
+
+or best? (by KGB rules)
+
+
+	...The agency took a team of young, relatively inexperienced people buoyed by the success of the Mars Pathfinder Lander in 1997, greatly reduced their resources and asked them to "do the impossible," Weiler said. The agency will respond fully to all the Young committee recommendations, he said, announcing the beginnings of a restructuring. He added that officials will take a broad, open-minded approach to the full array of options for Mars. "Nothing is off the table."
+
+
+pathfinder might have gotten some drunk on the "faster better cheaper" cool-aid
+
+
+	...The "most probable cause" of the Mars Polar Lander's loss was the generation of "spurious signals" when the lander's legs were deployed during its controlled descent. These signals falsely indicated to the onboard systems that the spacecraft was safely on the surface. This would have prompted the braking thrusters to shut down at an altitude of about 130 feet, investigators found.
+
+	The potential for this "spurious signal" problem on the lost lander was uncovered by Lockheed Martin engineers in Denver around early February as they worked on the next lander (the one now canceled). The investigators then helped set up a series of four tests that pointed to this mode of failure as the culprit, Young said.
+
+
+report says:
+
+	The touchdown sensors characteristically generate a false momentary signal at leg deployment. This behavior was understood and the flight software was required to ignore these events: however, the requirement did not specifically describe these events, and consequently, the software designers did not properly account for them. The resulting software design recorded the spurious signals generated at leg deployment as valid touchdown events. When the sensor data were enabled at an altitude of 40 meters, the engines would immediately shut down. The lander would free fall to the surface, impacting at a velocity of 22 meters per second (50 miles per hour), and be destroyed.
+
+
+	...Engineers cannot say for sure whether the spacecraft reached the point where the spurious signal would occur, Young said. This is because project managers, strapped for funds, eliminated telemetry that would have communicated the lander's condition as it negotiated the tricky descent into the Martian atmosphere.
+
+	"The team believes that not having this communication system was a major mistake," Young said, because it eliminated the ability of future planners to learn a clear lesson from this costly failure. 
+
+
+what is the lesson she thinks we need to learn?

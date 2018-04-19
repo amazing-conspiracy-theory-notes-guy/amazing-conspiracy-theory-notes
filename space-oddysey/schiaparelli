@@ -1,0 +1,425 @@
+
+
+https://astronomynow.com/2016/10/21/last-data-from-schiaparelli-mars-lander-hold-clues-to-what-went-wrong/
+	The robotic probe sent its last signal around 50 seconds before the expected landing time, Accomazzo said Thursday, and telemetry from Schiaparelli being analyzed by experts on the ground appears to show the spacecraft activated its radar and ignited its landing rockets, at least for three or four seconds.
+
+	“They did fire,” Accomazzo told reporters in a press briefing Thursday. “Definitely, we saw them fire for a few seconds, for a time much shorter than what we were expecting.”
+
+	Stressing that engineers are still at a preliminary stage decoding the telemetry from Schiaparelli, Accomazzo said it was not clear whether all nine of the engines ignited or the altitude at which the thrusters cut off.
+
+
+
+http://m.esa.int/Our_Activities/Space_Science/ExoMars/Schiaparelli_landing_investigation_completed
+
+Schiaparelli report says also failed due to software error
+
+says the lander was spinning faster than they coded for
+
+summary of report I think is saying they had telemetry up to a certain point, ~50 seconds before it was supposed to land
+
+they found that after the parachute deployed, the craft was spinning faster than their sensors could detect, and this messed up its system for determining where it was somehow.
+
+but after parachute "inflation", the craft was spinning in a range where the sensors worked again
+
+ok I remember this
+
+this is the one that used a parachute to descend, then popped out some jets to land for the final descent to ground
+
+what this is saying I thin that it was integrating some sensors that depended on the craft spinning to figure out its altitutde, and that period of spinning faster than the sensor could detect led it to think its altitude was completely wrong, and once this happens its altitude measurements are screwed permanently
+
+I think its saying at the time it was switching between parachute and thruster mode it had a completely wrong idea of what its altitutde was, and it decided to turn off its thrusters thinking it was low enough to survive impact already.
+
+interesting--part of their "failure tree" includes the "IMU" (spinning measurement thing) malfunctioning, but it could have also been a physical phenomena leading to higher spin then their hardware could handle.
+
+
+https://en.wikipedia.org/wiki/Viking_program#Viking_landers
+	Each lander arrived at Mars attached to the orbiter. The assembly orbited Mars many times before the lander was released and separated from the orbiter for descent to the surface. Descent comprised four distinct phases, starting with a deorbit burn. The lander then experienced atmospheric entry with peak heating occurring after a few seconds after the start of frictional heating with the Martian atmosphere. At an altitude of about 6 kilometers (3.7 miles) and traveling at a velocity of 900 kilometers per hour (600 mph), the parachute deployed, the aeroshell released and the lander's legs unfolded. At an altitude of about 1.5 kilometers (5,000 feet), the lander activated its three retro-engines and was released from the parachute. The lander then immediately used retrorockets to slow and control its descent, with a soft landing on the surface of Mars.[14]
+
+
+viking worked in similar way
+
+
+https://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1975-075C
+	Propulsion was provided for deorbit by a monopropellant hydrazine (N2H4) rocket with 12 nozzles arranged in four clusters of three that provided 32 N thrust, giving a delta-V of 180 m/s. These nozzles also acted as the control thrusters for translation and rotation of the lander. Terminal descent and landing was achieved by three (one affixed on each long side of the base, separated by 120 degress) monopropellant hydrazine engines. The engines had 18 nozzles to disperse the exhaust and minimize effects on the ground and were throttleable from 276 N to 2667 N. The hydrazine was purified to prevent contamination of the martian surface. The lander carried 85 kg of propellant at launch, contained in two spherical titanium tanks mounted on opposite sides of the lander beneath the RTG windscreens, giving a total launch mass of 657 kg. Control was achieved through the use of an inertial reference unit, four gyros, an aerodecelerator, a radar altimeter, a terminal descent and landing radar, and the control thrusters.
+
+
+
+anything weird going on with Schiaparelli failure?
+
+maybe this, according to report:
+
+	...The too long persistence of the saturation flag in the application software of the IMU, was the fundamental cause of the Schiaparelli landing mishap. This ambiguity aot identified, nor measured during acceptance of the unit and the saturation behaviour of the IMU was never tested after delivery. The mathematical model of the IMU used for simulations was established by the prime contractor. It is the SIB opinion that such intricate model is better established by the equipment supplier and must in al cases be formally validated by the supplier.
+
+
+I think this is saying that after the lander started rotating too fast, it left on a switch saying it was still rotating faster than it could detect even though (maybe?) it wasn't, and this was why the lander couldn't figure out where it was.
+
+Report also says it should have back-up ways to detect its position (why wouldn't the radar be enough?)
+
+	...From the review of the elements available to the SIB, it was evident that the Schiaparelli “hard landing” was ultimately due to the large attitude error created by the GNC software by integrating the saturation threshold rate during the saturation flag persistence. Shortly after parachute inflation high angular rates occurred and the subsequent “saturation” of the IMU.
+
+	The wrong attitude estimate resulted in large altitude estimation errors and as a consequence on fast transitions to new modes when triggered by altitude. This resulted in early activation of the terminal descent phase with untimely parachute jettisoning, and in RCS activation for 3 sec only, leading to a free fall of Schiaparelli and the impac
+
+
+I think this is saying:
+
+to figure out how high it is (altitude), needs to know its orientation (attitude). (Maybe this is from bad design?)
+
+Either due to errors or the craft spinning too fast when the parachute deployed, the oreintation sensor set a switch saying it was spinning faster than it could measure.
+
+But this switch stayed on for longer than it needed to, and the software assumed that it was spinning at the max rate it could measure for the duration.
+
+When the switch finally turned off (after "perisistence" time), it had a completely wrong idea of where it was pointing, and this factored into the logic determining how high it was somehow, leading it to not know when and/or how long to turn on its thrusters and crash.
+
+The got the oreintation sensor (IMU) from a "equipment supplier" and said the "equipment supplier" should have validated it. How the lander handles things when it spins too fast (the "saturation behavior") was not tested by ExoMars.
+
+
+...
+
+also says it could have had a backup and used the radar to figure out part of its orientation and still landed:
+
+	The SIB believes that with the resources available on board, landing could potentially have been achieved even after the wrong handling of saturation. For instance, the RDA could have been used to determine attitude in two axis with respect to vertical and a proper set of GNC modes could have posed the EDM softly on the surface. As consequence of implementation of robust “sanity checks”, GNC “back- up modes” would need to be implemented to attempt landing in degraded cases.
+
+
+why did the telemtry cut out? not sure what this means:
+
+	The SIB noted the strategy to have real time telemetry ( 8 kbps) and stored telemetry that would have been recovered and analysed after landing. It is recommended to revisit the approach and plan real time TM according to the phase and mode. Recommendation 07 – The measurement plan and the allocation of parameters to real time telemetry must be revisited and adapted to the observability needs of phases and modes. Use of data memory and down load of parameters during Entry Descent and Landing should be considered
+
+
+------
+
+
+http://spaceflight101.com/exomars/esa-completes-schiaparelli-failure-investigation/
+	As a result of the high pitch angular rate, the IMU’s software send out a saturation flag to the general Guidance, Navigation & Control Software (GNC) run by the lander. During the design of EDM, saturation of the Inertial Measurement Unit was not considered as a possibility as parachute dynamic models – now shown to be insufficient – did not predict body rates anywhere close to the IMU saturation threshold.
+
+	Not equipped to deal with the saturation flag sent by the IMU, the general GNC software used the constant angular rate corresponding to the IMU saturation threshold when, in reality, the lander was oscillating. This created an error in the estimated orientation of the EDM of around 165 degrees – representing a nearly inverted attitude with the front heat shield pointed skyward (not physically possible during parachute descent).
+
+
+so basically thought it was upside down
+
+so two weird things happened to make it fail:
+
+it got jerked around when the parachute opened harder than anyone would have though inertial sensors needed to detect
+
+the software was set up so that if it thinks this happens it thinks its happening for longer than it really is, letting error accumulate to the point where it doesn't work anymore.
+
+
+	...Because saturation of the IMU was not a feared event, the behavior of the IMU at saturation levels was not measured during acceptance testing. When the saturation occurred, the IMU software set a Rate Flag Bit at a persistence rate that was found to be too high for this mission as the GNC software was built based on the believe the persistence of IMU saturation time would be 15 milliseconds. 
+
+
+this is also weird
+
+pretty standard in software to test all edge cases like this, like if you would test anything you would test exceptional cases
+
+then at least would have caught the "persistance" problem with IMU flag
+
+weird that they way its designed, if something goes wrong with IMU and gets saturation it gurantees it will be useless then-on out
+
+if sabotage, all they would need is to give the IMU a crazy measurement for an instant
+
+
+------
+
+
+https://software.intel.com/en-us/blogs/2017/01/11/the-schiaparelli-lesson-unusual-and-faulty-conditions
+	According to the ESA analysis, something went wrong in either a physical sensor or the core driving the sensor, leading to a series of “saturated” readings, which in turn made the control system believe it had already landed. While at a rather high distance above the surface. Net result: oops, crash, as it jettisoned the parachute way too early. 
+
+
+this is saying IMU measurement an error, thought other reports said it was real and they just didn't understand supersonic parachute physics as well as they thought
+
+	...The ESA statement has this to say: 
+
+	However, saturation – maximum measurement – of the Inertial Measurement Unit (IMU) had occurred shortly after the parachute deployment. The IMU measures the rotation rates of the vehicle. Its output was generally as predicted except for this event, which persisted for about one second – longer than would be expected. 
+
+
+this differs from report, is confusing--was there an "event" making the IMU saturated for one second, or was the thing programmed to leave the flag on for too long?
+
+
+------
+
+
+https://forum.nasaspaceflight.com/index.php?topic=31368.980
+	It should be borne in mind that if the persistence time of the IMU saturation flag would have been 15 ms the landing would probably have been successful, in which case the other root causes would probably never have been identified.
+
+
+people wondering similar things on NASA forum
+
+
+https://forum.nasaspaceflight.com/index.php?topic=31368.960
+	ESA has made this basic error (not thoroughly testing border cases) before. Remember how Ariane 501 got lost?
+
+
+something wrong with ESA?
+
+
+------
+
+
+more from report listing failure reasons:
+
+
+	- Mishap in management of subcontractors and acceptance of hardware, (the persistence of IMU saturation time was not recorded at acceptance and instead believed to be 15 ms).
+
+	It should be borne in mind that if the persistence time of the IMU saturation flag would have been 15 ms the landing would probably have been successful, in which case the other root causes would probably never have been identified.
+
+
+if I read right: this flag was set in hardware, and they got this hardware from a subcontractor. The subcontractor set the peristance of IMU flag to a high value (I think 1 second?), but ExoMars believed it was 15 ms.
+
+If the flag were what they expected, the prope would have landed.
+
+weird things in the way this report is written and the way the failure is discussed--the report (and comment above) paints it almost like a good thing (we would never have caught it if it weren't for this!), and some reports say "well it was just a test mission to test landing, we learned something!"
+
+Wasn't it going to try to figure out why so much methane is on Mars?
+
+
+think that was the orbiter, but would have done some cool things:
+
+https://en.wikipedia.org/wiki/Schiaparelli_EDM_lander#Instrument_and_sensor_payload
+	This artist's concept illustrates an electrically active dust storm on Mars, which may have produced chemicals that caused the inconclusive Viking lander life-detection experiment results.[87] Schiaparelli was aiming to measure atmospheric electricity during the Mars dust storm season.[47]
+
+
+
+------
+
+
+http://acuriousguy.blogspot.com/2016/11/la-vendetta-schiaparelli.html
+	Tainted by this bad data, the lander’s computer believed that it was about to land or had landed already. The lander then prematurely triggered its parachute, briefly fired its landing thrusters, and then activated its on-ground systems. All of this took place while, in fact, Schiaparelli was still 3.7 kms above Mars’ surface.
+
+	The lander crashed, but not before transmitting a great deal of Martian atmospheric data back to the ESA.
+
+	The plot thickened the next day when, as outlined in the November 24th, 2016 Romanian Insider post, "Romanian entrepreneur in conflict with Italian Space Agency over failed Mars mission," the Agenzia Spaziale Italiana (ASI) publicly blamed one of its subcontractors, the ARCA Space Corporation, for the crash of the Schiaparelli lander.
+
+	ARCA, a company registered in New Mexico and founded by Romanian entrepreneur Dumitru Popescu, was under a €1.1 million EUR ($1.56Mln CDN) contract to the ESA to conduct Schiaparelli’s flight and atmospheric entry testing.
+
+	In an article in the Italian newspaper La Repubblica, ASI stated that ARCA had run into issues and then cancelled testing. Adding insult to injury, La Repubblica described Popescu (a theology graduate), as a dreamer with a track record of failure. The newspaper also stated that the Romanian Space Agency had once described ARCA as a “group of amateurs looking only for publicity.”
+
+	On the same day, ARCA issued a statement flatly denying responsibility for the crash. The company said that it was responsible only for testing Schiaparelli’s landing parachute, not the IMU. ARCA claims that an Italian firm was tasked with testing the IMU and so may have been culpable in the crash. Company representatives also implied that ARCA would take legal action against ASI for libel.
+
+
+some intrigue going on with testing of Schriapelli
+
+http://www.arcaspace.com/en/exomars.htm
+
+says they test parachutes
+
+there is intrigue about the parachute testing, but the parachute not the most glaring problem, maybe not a problem at all
+
+------
+
+http://spacenews.com/esa-mars-lander-crash-caused-by-1-second-inertial-measurement-error/
+	In its Nov. 23 statement, ESA said the saturation reading from Schiaparelli’s inertial measurement unit lasted only a second, but was enough to play havoc with the navigation system.
+
+
+
+weirdest problem to me is that the saturation flag was apparently set for 1 s and not 15 ms, and ExoMars thought it was 15 ms
+
+big difference...
+
+66.7 times longer than they thought
+
+doesn't make sense as a design decision
+
+a reasonable guess would be it samples at around that, 66HZ (maybe not, google says acceleromter samples 100 Hz to 1 KHz)
+
+so why would it raise the flag for 60 frames and not just one?
+
+
+could also be weird software problem, not sure--while the flag was raised, was it outputting IMU data below saturation? then should have used that data instead of seeing flag raised and assuming at saturation
+
+
+ESA press statement on this "event" confusing:
+
+http://www.esa.int/Our_Activities/Space_Science/ExoMars/Schiaparelli_landing_investigation_makes_progress
+	23 November 2016
+
+
+	...As Schiaparelli descended under its parachute, its radar Doppler altimeter functioned correctly and the measurements were included in the guidance, navigation and control system. However, saturation – maximum measurement – of the Inertial Measurement Unit (IMU) had occurred shortly after the parachute deployment. The IMU measures the rotation rates of the vehicle. Its output was generally as predicted except for this event, which persisted for about one second – longer than would be expected.
+
+	When merged into the navigation system, the erroneous information generated an estimated altitude that was negative – that is, below ground level. This in turn successively triggered a premature release of the parachute and the backshell, a brief firing of the braking thrusters and finally activation of the on-ground systems as if Schiaparelli had already landed. In reality, the vehicle was still at an altitude of around 3.7 km. 
+
+
+in spacenews.com report and ESA final report, it is implied the flag was raised for one second when they expected 15 ms. In this they say "maximum measurement" was unexpected for an "event" which "peristed for about one second." They make ambiguous whether it was a programming bug or bad weather on Mars.
+
+What caused the saturation flag to be raised in the first place?
+
+
+think fault lies mostly (almost entirely?) with subcontractor who gave them the IMU and set it to raise flag for 1 second
+
+you know for something like this you want it to recover from unusual readings, errors
+
+it's just summing up changes in orientation, if it gets it wrong for 1-2 frames it's still pretty close to correct, it can still work
+
+they set it up so that if it gets something wrong even one frame, it outputs garbage for ~60-1000 frames (depending on frequency it reads orientation changes).
+
+they told ESA it would only do this for 15 ms (I think? how did ESA get to this conclusion?), short enough so that if it outputs garbage it's not so bad, only a small error added (instead the error added was 66 times greater than ESA thought).
+
+ESA didn't test the behavior when the IMU is saturated, but then again what can you do when the IMU is outputting garbage numbers? they should have tested, but it's understandable not to test in software a specification that they were told by the contractor.
+
+
+the whole thing was kindof set-up to fail if IMU failed in the way it did, but in the end it all comes down to a communications failure:
+
+	"- Mishap in management of subcontractors and acceptance of hardware, (the persistence of IMU saturation time was not recorded at acceptance and instead believed to be 15 ms)."
+
+
+reminiscent of the mars climate orbiter, where they got specifications for some equipment without units, and they thought it was in newtons when data was actually in pounds
+
+https://www.popsci.com/military-aviation-amp-space/article/2009-03/gallery-top-10-nasa-probe-failures
+	The Problem: In one of the all time great engineering gaffs, NASA subcontractor Lockheed Martin created thruster software that used Imperial units, not the metric units used by NASA. NASA did not know this, never converted from pounds to newtons, and the probe eventually hit the atmosphere at the wrong angle and burned up.
+
+
+
+------
+
+
+here's a paper with some data on Schiparelli:
+
+https://www.researchgate.net/publication/318316886_EXOMARS_2016_POST_FLIGHT_MISSION_ANALYSIS_OF_SCHIAPARELLI_COASTING_ENTRY_DESCENT_AND_LANDING
+
+
+"the onboard navigation solution integrated for 1 s a saturated rate: as a result it estimated a wrong capsule attitude after saturation"
+
+why couldn't the ESA report summary say that?
+
+they have the raw data, what the IMU actually output
+
+they used that to reconstruct what it did
+
+telemetry (black dots in graph) showed it at max rate for 1 s, so points to design problem with IMU, not software reading it
+
+by their reconstruction of a plausible situation that matches telemetry, if the saturation was caused naturally it would have been close to saturation rate and lasted for ~.05 seconds. 
+
+
+next page shows error in yaw due to the IMU bug
+
+kindof funny
+
+max rate is ~180 deg /s, and it's designed to hold this for one second
+
+designed so that if you nudge it just a little too hard it's guranteed to think it's upside-down
+
+
+------
+
+
+https://en.wikipedia.org/wiki/Fobos-Grunt
+	ESA failed to communicate with the space probe in all of the five opportunities the agency had between 28 and 29 November. During those occasions the spacecraft did not comply with orders to fire the engines and raise its orbit. The Russian space agency then requested that ESA repeat the orders.[58] The European Space Agency decided to end the efforts to contact the probe on 2 December 2011, with one analyst saying Fobos-Grunt appeared "dead in the water".[59] However, ESA made teams available to assist the Fobos-Grunt mission if there was a change in situation.[54] In spite of that Roscosmos stated their intention to continue to try to contact the space vehicle until it entered the atmosphere.[60]
+
+
+something wrong with ESA?
+
+
+http://www.planetary.org/blogs/guest-blogs/lou-friedman/3361.html
+	Louis D. Friedman • February 6, 2012
+	Phobos-Grunt Failure Report Released
+
+	...What's next in Mars exploration? Scientists in Russia would like to try another Phobos-Grunt mission. But this would be expensive and is likely not possible before 2020. To overcome the system failures made blatant by this latest failure would require significant changes in the Russian space industry. On the table, however, is a nearer-term and easier-to-implement proposal: the Russians could launch the European Space Agency's Mars Trace Gas Orbiter in 2016 and the ExoMars rover in 2018. In return for launches, the Russians would share in the missions' science. The Russian and European space agencies are now considering the possibilities. Sadly, the U.S. was supposed to be a partner in the 2016/2018 Mars missions, but it appears that the NASA budget to be released next week will kill that plan. Indeed, the future of NASA's Mars program may be at risk. Stay tuned.
+
+
+
+
+http://www.bbc.com/news/science-environment-15767184
+	Anatoly Zak
+
+	..."My immediate reaction [to the possible loss of Phobos-Grunt] was I'd do anything to repeat it," says Aleksandr Zakharov, a leading specialist at the Moscow-based Space Research Institute, IKI, which develops and oversees the nation's planetary exploration projects. 
+
+	"There are many advantages in this: we have all the blueprints and don't need to develop anything from scratch, we just have to re-build the vehicle, obviously taking into consideration all the mistakes…"
+
+	...The relative motion of Earth and Mars brings the two planets into the vicinity of each other in slightly more than two years.
+
+	Dr Zakharov ruled out the possibility of re-building the spacecraft by the next available window for missions to Mars in 2013. However, the next opportunity in 2016 could be met easily, given proper funding, he says.
+
+
+but they didn't get the proper funding
+
+
+	"However at this point, this is just an emotional calling, which is not based on any (funding or decision)," Dr Zakharov conceded.
+
+	In the meantime, another option for jump-starting the Russian exploration of Mars had emerged just weeks before the ill-fated launch of Phobos-Grunt.
+
+	Facing financial problems, the European Space Agency (Esa) asked Russia to provide a powerful Proton rocket to launch the first phase of a joint US-European ExoMars project in 2016. 
+
+
+
+
+
+https://themoscowtimes.com/articles/former-roscosmos-chief-vladimir-popovkin-dies-at-57-36541
+	June 18, 2014
+
+	Former Roscosmos Chief Vladimir Popovkin Dies at 57
+
+	Vladimir Aleksandrovich Popovkin, former head of the Federal Space Agency, or Roscosmos, passed away on Wednesday from an undisclosed illness at the age of 57, a Roscosmos press release said.
+
+	As head of Roscosmos, Popovkin had to answer for the failure of the 2011 Fobos-Grunt robotic mission to one of the Martian moons — the probe malfunctioned before it could even leave low Earth orbit, and burned up unceremoniously in the Earth's atmosphere a few weeks later.
+
+	Undeterred, Popovkin moved to give Russia's space science community a means of saving face, and seized the opportunity to participate in the European Space Agency's, or ESA's, own unmanned Mars mission — ExoMars. Originally an ESA-NASA project, Washington pulled out of the program amid budget cuts in 2012, leaving Europe in a precarious position until Roscosmos swooped in and filled the gap — saving the scientific ambitions of both ESA and Roscosmos. 
+
+	The head of the space studies institute at the Russian Academy of Sciences, Lev Zeleny, on Wednesday praised Popovkin for saving the project.
+
+
+https://sputniknews.com/analysis/20120411172746087/
+	Fobos to be repeated but not immediately
+
+	“The Academy of Sciences believes the Phobos-Grunt project should be tried all over again,” Lev Zelyony, head of the Russian Space Research Institute, said at a RIA Novosti news conference on Tuesday.
+
+	The Phobo-Grunt probe mishap last November, which topped last year’s list of rocket and satellite failures, has given a lot of grief to the Russian Space Agency and its scientists.
+
+	Nevertheless, when everyone could see that Phobos might be lost after it failed to reach its “halfway orbit,” there was the firm belief that the Martian program must be attempted again but only after careful ground and orbital preparations and platform improvements.
+
+	However, there will be no immediate push for Mars. Instead, Russia has decided to take a two-pronged approach. First, it decided to join the European project ExoMars, which the United States has just given up. Second, Russia has determined it will send its deep space probes to explore a nearer body – the moon.
+
+
+after phobos grunt, instead of trying again they made them join exomars, who just fuck up their own mars lander
+
+
+
+------
+
+
+media on Schiparelli:
+
+NY Times and WaPo don't say much about it
+
+didn't see anything on it by Oberg or Vastag
+
+https://www.theverge.com/2017/5/27/15704644/esa-mars-schiaparelli-lander-crashed-software-
+	The report highlights reveals a timeline for the crash, noting that “between [Entry in the Mars atmosphere] and Parachute Deployment triggering, an unexpected evolution in the spin rate of the [Entry Demonstrator Module] was noticed.” The vehicle’s parachute deployed as expected, but its Inertial Measurement Unit detected that it detected a “larger than expected” angular pitch rate, which triggered a “saturation” alert. The Guidance Navigation and Control system believed that the angular rate was the same as the saturation threshold, which threw off the capsule’s calculated altitude.
+	"The lander began free fall at an altitude of just over two miles "
+
+	That meant that the lander’s systems thought the spacecraft was closer to the ground, and released the capsule’s back-shell and parachute early and switching on the Reaction Control System for a handful of seconds. When the RCS shut down, the capsule was still just over two miles in the air, which led “to a free fall of Schiaparelli and to the impact on Mars surface about 34 seconds later.”
+
+	The final report concluded that insufficient parachute modeling, inadequate handling of alerts, an “insufficient approach to Failure Detection, Isolation and Recovery and design robustness,” and “mismanagement” with subcontractors and hardware were to blame for the crash, and provided a series of recommendations to avoid similar accidents in the future. 
+
+
+http://www.bbc.com/news/science-environment-40029180
+	The report confirms some details already released in the preliminary findings. For example, during the descent - and after the parachute had been deployed - a component called the inertial measurement unit (IMU) sensed rotational accelerations in the probe that were larger than expected.
+
+	This led to the IMU data becoming "saturated". When this information was integrated by the onboard guidance, navigation and control (GNC) software, the probe erroneously updated where it thought it was in the descent.
+
+	The mistaken measurement was propagated forward, and at one point the GNC software calculated a negative altitude for the probe - it thought that Schiaparelli was several metres below the surface of Mars, even though it was still falling.
+
+	The descent thrusters turned off and the test module was destroyed as it slammed into the ground in Mars' Meridiani Plain at a velocity of about 150 m/s. But the authors believe the craft could still have landed safely after the wrong handling of the IMU data if other checks and balances had been in place.
+
+	The report suggests a number of root causes leading to the failure. These include:
+
+	    insufficient computer modelling of the parachute dynamics
+	    the saturation limit for the IMU was set too high
+	    inadequate handling of IMU data by the guidance software
+	    an inadequate approach by team members towards detecting faults
+	    problems with the management of subcontractors
+
+
+illustrates how bad the ESA's report was
+
+the saturation limit was too low, not "set too high"
+
+their problem was they got a part with a faulty setting and didn't test it
+
+and it should have been obvious to the designers that this setting made no sense
+
+it's closer to angulr sensors being hammered in upside down than "desing robustness" (whatever that means)
+
+
+...
+
+because ESA report was bad, you can't as much fault reporters for reporting on it like above, can't cite as evidence of malevolence, maybe can for laziness
+
+but what does this say about ESA? The problem that caused the crash is hard to explain, invites suspicion, and warrents further investigation, but they wrote the report in such a way as to mask this.

@@ -1,0 +1,483 @@
+https://www.space.com/22724-roscosmos.html
+
+
+this puts the proton rocket failures in context
+
+	...Collaboration with NASA dates back to the 1970s, with the Apollo-Soyuz Test Project of 1975, which saw a Russian Soyuz spacecraft and an American Apollo spacecraft meet in Earth orbit. The astronauts and cosmonauts worked together in space briefly before heading off for their own separate missions.
+
+
+	... As of early 2018, all astronauts leaving for the ISS leave from Baikonur. This situation has persisted since 2011, when NASA retired the aging space shuttle. At the time, the agency expected to restart flights on U.S. soil in 2015, when the Commercial Crew Program's spacecraft were ready. However, funding and development delays now have test flights expected to start no earlier than 2018. 
+
+	NASA currently buys seats on Russian spacecraft for its astronauts, a practice that was projected to climb to $82 million per person by 2018. For Russia, contributing cargo launches and launch hardware — not to mention other Russian modules on station — allows the country to send numerous cosmonauts into space. Many three-person Soyuz crews that head to the station for long-term stays have multiple Russians on board.
+
+	In 2011, Russia started construction on another launch site — Vostochny — which is in Siberia and close to the Chinese border. The long-term aim is to shift most Russian launches to Vostochny, which unlike Baikonur, is on Russian soil. (Baikonur used to be inside the Soviet Union, but Kazakhstan since declared independence and the Russians lease the facility.) While Russia initially planned to have crewed launches start at Vostochny in 2018, there have been few launches at the facility to date. Three satellites were successfully launched in 2016, but after Vostochny's second launch in late 2017, a $45 million satellite was lost.
+
+
+
+------
+
+Russia saw an unusual number of space failures before phobos grunt and allegations of sabotage hit the media:
+
+https://spacepolicyonline.com/news/russia-suffers-another-soyuz-rocket-failure/
+	Russia Suffers Another Soyuz Rocket Failure
+
+	Russia reportedly has suffered another launch failure today of a Soyuz rocket that was intended to place a military communications satellite into orbit.
+
+	...Russia’s military Molniya satellites are being replaced by a new version, Meridian, and that was the payload today.   According to RussianSpaceWeb.com, the third stage of the Soyuz shut down 421 seconds into the flight and the latest reports indicate “a possible bulging of the combustion chamber No. 1, leading to its burn through and a catastrophic fuel leak.”  That website cites Russian news service Interfax as estimating the “financial loss from the accident could reach two billion rubles.”
+
+	This is Russia’s fifth launch failure in 2011, a surprising number given the usual reliability of Russian rockets.   The other four were GEO-IK2, a Rokot launch vehicle with a Briz upper stage that left the spacecraft stranded in transfer orbit; Express AM-4, a Proton-Briz combination that left the spacecraft in transfer orbit; Progress M-12M, a Soyuz U-Fregat combination that did not attain orbit; and Phobos-Grunt, a Zenit-Fregat combination that left the spacecraft stranded in Earth orbit instead of on a Mars trajectory.
+
+
+the failure of a military satelite being put in orbit points to a military operation, if sabotage
+
+five launch failures in 2011:
+
+GEO-IK2
+
+Express AM-4
+
+Progress M-12M
+
+Phobos-Grunt
+
+Soyuz carrying Meridian on Dec 23
+
+
+the Meridian failure occured while phobos-grunt was still in orbit
+
+
+------
+
+
+here are failures too end of 2011 with reasons:
+
+
+http://www.parabolicarc.com/2011/12/27/russia-another-rocket-another-upper-stage-anomoly/
+Launch Date
+	
+
+Launch Vehicle
+	
+
+Upper Stage
+	
+
+Payload
+	
+
+Result
+	
+
+Cause
+Dec. 5, 2010	Proton	Block-DM (Energia)	3 GLONASS satellites	Crashed in Pacific Ocean	Upper stage overfilled with fuel, making it too heavy to send satellites into orbit
+Feb. 1, 2011	Rockot	Breeze-KM (Khrunichev)	GEO-IK 2	Stranded in useless orbit	Failed restart of upper stage
+Aug. 18, 2011	Proton	Breeze-M
+(Khrunichev)	Express-AM4	Stranded in useless orbit	Upper stage under performance
+Aug. 24, 2011	Soyuz-U	Block-I
+(TsSKB-Progress)	Progress M-12M freighter	Burned up over Siberia	Blocked fuel line in third stage
+Nov. 9, 2011	Zenit	Fregat — modified (Lovochkin)	Phobos-Grunt	Stranded in Earth orbit	Fregat upper stage failed to fire, reason unknown
+Dec. 23, 2011	Soyuz-2.1b	Fregat (Lovochkin)	Meridian-5	Re-entered over Siberia	Upper stage failure
+Dec. 26, 2011 (Planned)	Proton	Breeze-M
+(Khrunichev)	 SES-4	Mission postponed 25 days	Avionics problems in Breeze-M upper stage
+
+
+
+------
+
+This lists Russian space failures from 2010 to 2015:
+
+
+https://spacepolicyonline.com/pages/images/stories/List%20of%20Russian%20Space%20Launch%20Failures%20Since%20Dec%202010%20as%20of%20May%2016%202015.pdf
+
+	• December 2010, Proton-Block DM, upper stage failure, three Russian GLONASS navigation satellites lost  
+
+	• February 2011, GEO-IK2, Rokot-Briz, upper stage failure, Russian geodetic satellite stranded in transfer orbit 
+
+	• August 2011, Ekspress AM-4, Proton-Briz, upper stage failure, Russian communications satellite stranded in transfer orbit  
+
+	• August 2011, Progress M-12M (called Progress 44 by NASA), Soyuz U-Fregat, third stage failure due to clogged fuel line, Russian cargo spacecraft for International Space Station lost 
+
+	• November 2011, Phobos-Grunt, Zenit-Fregat, upper stage failure, Russian Mars-bound spacecraft stranded in Earth orbit
+
+	• December 2011, Soyuz 2.1a, third stage failure, Russian Meridian military communication satellite lost 
+
+	• August 2012, Proton-Briz, upper stage failure, Russian Ekspress-MD2 and Indonesian Telkom-3 communications satellites stranded in transfer orbit 
+
+	• December 2012, Proton-Briz, upper stage failure, Russian Yamal 402 communications satellite delivered to wrong orbit.
+
+	• January 2013, Rokot-Briz KM, upper stage failure.  Three Russian Strela military communications satellites incorrectly placed into orbit; one (Kosmos 2483) nonfunctional.
+
+	• February 2013, Zenit-3SL Sea Launch, first stage hydraulic pump failure, Intelsat-27 communications satellite lost
+
+	• July 2013, Proton-M failure immediately after launch due to incorrectly installed angular velocity sensors, three Russian GLONASS navigation satellites lost
+
+	• May 2014, Proton-M failure, failed bearing in third stage steering engine, Russian Ekspress-AM4R communications satellite and Briz upper stage lost (replacement for Ekspress-AM4 satellite lost in August 2011)
+
+	• August 2014, Soyuz ST-B/Fregat malfunction due to frozen hydrazine left two European Galileo navigation satellites in wrong orbit (launch was by Arianespace from Kourou, French Guiana)
+
+	• April 2015, Soyuz 2.1a malfunction at time of separation from Progress M-27M spacecraft, a cargo mission to ISS (NASA calls it Progress 59).  Under investigation. Spacecraft placed in wrong orbit, made uncontrolled reentry over Pacific Ocean May 7, 2015 EDT
+
+	• May 2015, Proton-M/Briz-M failure, cause under investigation. Mexican MexSat-1 (Centenario) lost.
+
+
+2 GLONASS failures
+
+2 ISS resupply failures
+
+2 Military satelliate failures
+
+1 Mars exploration failure
+
+the rest communications satellites of Russia and other countries
+
+
+GLONASS had military applications for Russia, said to be part of reason Russian government wanted it.
+
+
+------
+
+
+https://in.reuters.com/article/idINIndia-53362120101205
+	The Khrunichev Space Center said the satellites had failed to enter the right orbit after the launch went wrong 10 minutes after take-off.
+
+	In a separate statement, space agency Roscosmos said that, “according to the results of our telemetric analysis, it has been determined that the group of satellites went off orbit.”
+
+	Both agencies said specialists were trying to work out what went wrong. 
+
+
+	...But the general director of M2M Electronics, a subcontractor specialising in microelectronics for the Glonass programme, said the failure to launch the satellites was “no great tragedy”.
+
+	Evgeny Belyanko told Russian state-owned news channel Rossiya 24 that existing satellites already covered all of Russia, had good coverage up to polar latitudes, and ”perhaps not quite as good“ coverage of the equatorial region. ”Therefore the absence of these three satellites ... will not have any serious consequences.
+
+	There are currently 26 Glonass satellites in orbit, many of them launched by the Proton-M carrier. Twenty of the 26 are in working condition; two satellites are on standby; and four satellites are under maintenance, Belyanko said. 
+
+
+anything interesting about the 2010 GLONASS failure? apparently GLONASS would work anyway
+
+
+
+https://translate.google.ru/translate?hl=en&sl=ru&u=https://rb.ru/article/poterya-sputnikov-glonass-oboydetsya-primerno-v-5-mlrd-rubley-video/6600427.html&prev=search
+	And this works well
+
+	Unfulfilled hopes did not undermine the optimism of the Ministry of Defense: the ministry said that the loss of satellites would not affect the operation of the system. Now there are 26 GLONASS satellites in orbit, of which 2 are in reserve. This is quite enough for the signal to spread to the territory of Russia and most of the globe, officials believe. Experts agree with them. The American satellite GPS navigation system now has 31 satellites.
+
+	How many billions of "drowned"?
+
+	The damage from the unsuccessful launch of satellites may amount to several billion rubles. The cost of one GLONASS device has never been officially called, however, the specialists referred to by Vedomosti believe that only a lost launch vehicle costs about $ 100 million, another $ 90 million could cost satellites flooded in the Pacific Ocean. The cost of US analogues - GPS satellites - $ 70 million, Russian ones cost a quarter less, so that at least 5 billion rubles were lost in view of wasted launch vehicle and upper stage, a representative of the military-industrial complex suggested to Kommersant . According to Interfax , the damage from the unsuccessful launch of three navigation satellites could amount to several billion rubles.
+
+	The Roskosmos is assured that the state will not suffer any damage, since the satellites and the launch vehicle were insured. This is confirmed by the source of Interfax.
+
+	Dmitry Medvedev has already instructed the Prosecutor General Yuri Chaika to check the expenditure of funds for the GLONASS navigation system and to present him with proposals on the responsibility of those involved in the accident. Another launch should be expected in 6-7 months, experts say.
+
+
+not sure if anything especially interesting about this failure
+
+anyone's guess if sabotage or accident
+
+It fell near Hawaii, so could blame on U.S. if sabotaged. Rocket was insured, so could blame on some insurance scam as well.
+
+I think read some blamed manufacturing error, other reports said telemtry obtained
+
+
+https://translate.google.ru/translate?hl=en&sl=ru&u=https://www.dailytechinfo.org/space/1892-raketa-nositel-proton-poterpela-krushenie-v-rezultate-programmnoj-oshibki.html&prev=search
+	The Russian launch vehicle Proton, launched from the Baikonur cosmodrome on Sunday, December 5, 2010, after a short time after launch, departed from the planned trajectory, deviating from the course by approximately eight degrees. After that, radio communication with the rocket was lost, and shortly thereafter, the missile carrying three new satellites of the Glonass-M navigation system in the cargo compartment fell into the Pacific Ocean at about 1500 kilometers northwest of Honolulu.
+
+	Representatives of the Russian aerospace company Energia in an interview with the RIA Novosti news agency told that since the launch, the Proton rocket behaved erratically, and the emergency deviation was caused by the improper operation of the launch vehicle software. "Most of our experts believe that errors in the computer program caused excessive acceleration of the rocket, which caused deviation from the calculated trajectory."
+
+
+Is it really that easy for an honest "software error" to blow up a rocket this way?
+
+this was 11th proton launch this year, they'd already put 26 GLONASS in orbit. Why would the software work differently this time? what corner case hit?
+
+could have updated software and introduced a bug
+
+
+
+here's a breakdown of bug that crashed Ariane 5:
+
+
+https://www.around.com/ariane.html
+	This shutdown occurred 36.7 seconds after launch, when the guidance system's own computer tried to convert one piece of data -- the sideways velocity of the rocket -- from a 64-bit format to a 16-bit format. The number was too big, and an overflow error resulted. When the guidance system shut down, it passed control to an identical, redundant unit, which was there to provide backup in case of just such a failure. But the second unit had failed in the identical manner a few milliseconds before. And why not? It was running the same software.
+
+	This bug belongs to a species that has existed since the first computer programmers realized they could store numbers as sequences of bits, atoms of data, ones and zeroes: 1001010001101001. . . . A bug like this might crash a spreadsheet or word processor on a bad day. Ordinarily, though, when a program converts data from one form to another, the conversions are protected by extra lines of code that watch for errors and recover gracefully. Indeed, many of the data conversions in the guidance system's programming included such protection.
+   
+	But in this case, the programmers had decided that this particular velocity figure would never be large enough to cause trouble. After all, it never had been before. Unluckily, Ariane 5 was a faster rocket than Ariane 4. One extra absurdity: the calculation containing the bug, which shut down the guidance system, which confused the on-board computer, which forced the rocket off course, actually served no purpose once the rocket was in the air. Its only function was to align the system before launch. So it should have been turned off. But engineers chose long ago, in an earlier version of the Ariane, to leave this function running for the first 40 seconds of flight -- a "special feature" meant to make it easy to restart the system in the event of a brief hold in the countdown.
+
+	The Europeans hope to launch a new Ariane 5 next spring, this time with a newly designated "software architect" who will oversee a process of more intensive and, they hope, realistic ground simulation. Simulation is the great hope of software debuggers everywhere, though it can never anticipate every feature of real life. "Very tiny details can have terrible consequences," says Jacques Durand, head of the project, in Paris. "That's not surprising, especially in a complex software system such as this is."
+
+
+didn't test it?
+
+
+https://hownot2code.com/2016/09/02/a-space-error-370-million-for-an-integer-overflow/
+	4. RECOMMENDATIONS
+
+	...R2 Prepare a test facility including as much real equipment as technically feasible, inject realistic input data, and perform complete, closed-loop, system testing. Complete simulations must take place before any mission. A high test coverage has to be obtained.
+
+
+had a report
+
+"Error handling was suppressed for performance reasons"
+
+convered float to 16 bit int but velocity too high, didn't test before launch
+
+I guess comes back to "sabotage" vs. "incompetence"
+
+
+this says:
+
+http://www.rvs.uni-bielefeld.de/publications/Incidents/DOCS/Research/Rvs/Misc/Additional/Reports/ariane.html
+	...(f) it wasn't really a testing error (you can't test everything, and they tested eveything pretty much against the requirements); 
+
+
+dunno what happened--did they decide to leave this component on but not test with it on?
+
+
+------
+
+http://www.russianspaceweb.com/geo_ik2.html
+	Geo-IK-2 No. 11 lost at launch
+
+	The Geo-IK-2 satellite was designed to serve as a precise reference point needed for accurate measurements of the Earth's shape and the properties of its gravitational field. The information can help in the development of highly accurate geodetic coordinate systems for potential military and civilian applications, such as cartography and missile guidance. In the civilian sector, the spacecraft's data can be applied to the study of tectonic plate movements, monitoring of ocean tides, ice conditions and the Earth's rotational velocity. (455) At the same time, accurate knowledge of gravitational field properties along the flight route of ballistic missiles can help increase accuracy of their warheads. (99)
+
+
+apparently Geo-IK-2 also had military applications
+
+similar to GLONASS in that way, both civilian and military applications
+
+
+here is an earlier allegation of sabotage that I missed:
+
+
+https://phys.org/news/2011-02-russia-foreign-power-spy-satellite.html
+	Russia says foreign power may have caused spy satellite loss
+	February 14, 2011
+
+	The Russian space agency suggested Monday that a foreign power may have been behind the space accident that disabled one of the country's most modern military satellites earlier this month.
+
+	Russia on February 1 launched a high-tech Geo-IK-2 craft to help the military draw a three-dimensional map of the Earth and locate the precise positions of various targets.
+
+	News reports said the satellite was a vital part of Russia's effort to match the United States and NATO's ability to target its missiles from space.
+
+	But the craft briefly went missing after its launch only to re-emerge in a wrong orbit that left the craft unable to complete its assigned task.
+
+	The Russian military and space agency set up a joint task force to probe the accident but it has presented no official results thus far.
+
+	One unnamed space official told Interfax however that initial evidence suggested that the craft went off target after one of its booster rockets inexplicably reversed course.
+
+	"The probable cause may involve electromagnetic intrusion on the automatic controls," the unnamed space official said.
+
+	The official did not identify the country he suspected of trying to derail the Russian military mission. But Moscow frequently accuses Washington of attempting to "militarise" space.
+
+	The space official conceded that there may have been other reasons for the launch failure. These included the wrong operations being programmed into the guidance system and other software mistakes.
+
+	But the Russian source stressed that the accident occurred between the first and second burns of the Briz-KM upper-stage booster rocket -- an area in which the craft makes no contact with ground control.
+
+	The official suggested that the electromagnetic pulse may have been aimed at the Russian craft "from a land, sea, air or space vehicle."
+
+	The Geo-IK-2 mishap came less than five weeks after President Dmitry Medvedev fired two top space officials for a launch failure caused Russia to delay the deployment of its own navigation system.
+
+	Investigators said that accident was caused by a basic fuel miscalculation that made the craft too heavy to reach its required height.
+
+	The three Glonass satellites would have completed a system whose research had been started by the Soviet Union in 1976.
+
+
+an anonymous official said a foreign power might have destroyed GEO-IK2 satellite
+
+pointed out like Popovkin that it happened where Russia couldn't get telemetry
+
+apparently also suggested an EMP weapon
+
+article paints GEO-IK2 as strictly a military satellite--is that accurate?
+
+
+also: after 2010 GLONASS failures, Medvedev fired some top space officials
+
+investigators say that was caused by a "fuel miscalculation" that made the rocket too heavy (I thought it was software error?)
+
+
+https://www.military.com/defensetech/2011/02/02/whoops-russia-loses-spy-satellite
+	Whoops, Russia Loses Spy Satellite
+
+	2 Feb 2011 By John Reed 
+
+	They lost one! yup, that's what's happened according to Russia's RIA Novosti news agency. Apparently, a Russian military mapping satellite went missing after being lofted into orbit on Tuesday. Uncle Sam came to the rescue and found the bird flying an elliptical orbit that brought it as far as 395 miles below the altitude it should have been flying at. 
+
+	...Here's the (not so) good news:
+
+    However, sources in the Russian space industry believe it is impossible to correct the current orbit in such a way that the satellite would be able to perform all its functions properly.
+
+	Hey, at least this latest satellite made it to some kind of orbit. Remember this?
+
+    The incident comes just two months after Russia lost three Glonass satellites when a Proton-M carrier rocket veered off course and sunk in the Pacific Ocean.
+
+
+unusual article
+
+
+------
+
+
+https://www.nasaspaceflight.com/2011/08/proton-m-launches-russias-ekspress-am4-communications-satellite/
+	A Proton-M rocket, with the fiftieth Briz-M upper stage, launched Russia’s Ekspress-AM4 communications satellite, after an early morning liftoff from the Baikonur Cosmodrome. However, having launched at 03:25 Thursday local time (21:25 UTC on Wednesday) – and the Proton-M completing its mission successfully – the Briz-M failed to deploy Ekspress-AM4 into a geosynchronous transfer orbit after it was reported to have lost all power at the time during – or shortly after – the fourth burn.
+
+	...Details in the Russian claim all contact was lost with the stage and spacecraft at either the time of the ignition of the Upper Stage for the fourth burn, or just after the burn was completed – citing a complete loss of power.
+
+
+Russia says all contact was lost with craft before it ended up in wrong orbit
+
+
+https://www.space.com/12688-lost-russian-satellite-wrong-orbit.html
+	PONTE VEDRA, Fla. — A $300 million Russian telecommunications satellite launched Aug. 18 disappeared from the view of ground controllers and the U.S. space surveillance network along with the rocket upper stage that carried it into orbit, according to industry officials and the Russian space agency, Roscosmos.
+
+	More than 24 hours after the 5,800-kilogram Express-AM4 satellite separated from the Proton rocket's Breeze-M upper stage, neither object could be found, officials said. The U.S. Space Surveillance Network of ground radars was tracking a single object that one official said was neither the Breeze-M nor the Express-AM4, but rather an auxiliary propellant tank from the Proton rocket.
+
+
+U.S. tracking somehow ends up tracking a propellent tank instead of the rocket
+
+
+	... Khrunichev-owned International Launch Services (ILS) of Reston, Va., which markets Proton rockets on the commercial market, was not involved in the launch as the RSCC satellite is viewed as part of the Russian federal space program even if it has a largely commercial function.
+
+	ILS on Aug. 19 issued a statement on behalf of Khrunichev saying in part: "The Proton M launch vehicle performed nominally, and the ascent unit, including the Breeze M upper stage and the spacecraft, separated at the appropriate time. Contact with the Breeze M and [Express-AM4] spacecraft was lost after the fourth burn of the Breeze M upper stage. Roscosmos specialists were able to locate the Breeze-M upper stage. Efforts are now underway to establish contact with the Express-AM4 spacecraft."
+
+	What the statement does not say is that the Breeze-M's on-board computer guided it to a mistaken, and still unidentified, drop-off point whose apogee, perigee and inclination relative to the equator are unknown.
+
+
+what's up with that
+
+they lost contact, then it's computer somehow guided it to the wrong orbit
+
+doesn't seem normal
+
+
+	...Investigations under way
+
+	ILS said the Russian government has established a board of inquiry, and that ILS, as is its custom in Proton failures, will create its own failure review oversight board. Express-AM4 was insured for $270.5 million, according to two insurance underwriters.
+
+
+here's their investigation:
+
+
+http://www.ilslaunch.com/node/2714
+	Express-AM4 Launch Failure Inter-Agency Commission Concludes Investigations
+
+	Roscosmos Press Release
+
+	August 30, 2011 - The Inter-Agency Commission has completed its investigation of the off-nominal orbital injection of Express-AM4 launched on 18 August from the Baikonur Cosmodrome.
+
+	Based on its activities and analysis of the available data, the Commission has concluded that in the process of formalizing the Breeze M operating timeline, the time interval to manipulate the gyro platform into position was made unduly short. This resulted in an off-nominal orientation of the Breeze M and, as the consequence, in injecting the SC into an off-design orbit.
+
+
+I think it's saying they didn't give it enough time to point in the right direction
+
+
+https://www.nasaspaceflight.com/2011/08/proton-m-launches-russias-ekspress-am4-communications-satellite/
+	The third burn of a typical mission would last about twelve minutes beginning to raise the orbit’s apogee towards geosynchronous altitudes, and be followed by a two minute coast during which time the Auxiliary Propellant Tank would be jettisoned. It is believed these three burns were successful.
+
+	However, a six-minute fourth burn would then be made to raise the apogee further, before entering the longest coast phase of the ascent. This coast would last for around five hours, until the vehicle reaches the apogee of its orbit.
+
+	Details in the Russian claim all contact was lost with the stage and spacecraft at either the time of the ignition of the Upper Stage for the fourth burn, or just after the burn was completed – citing a complete loss of power.
+
+
+so it pauses for two minutes to drop its fuel tank then keeps going for another 6 minutes, and that's where the problem happened.
+
+I guess Roscosmos or ILS is saying that two minutes wasn't enough to make sure the rocket was pointing up
+
+the press release doesn't explain why they lost contact (or lost "power?") at this time
+
+
+------
+
+
+https://en.wikipedia.org/wiki/Progress_M-12M
+	Progress M-12M was launched by a Soyuz-U carrier rocket, flying from Area 1/5 of the Baikonur Cosmodrome. Liftoff occurred at 13:00:11 UTC on 24 August 2011.[4]
+
+	Approximately 325 seconds into flight, a malfunction was detected in the RD-0110 engine powering the Blok I third stage of the Soyuz-U rocket, which caused the onboard computer to terminate the flight through thrust termination. As a result, the vehicle failed to achieve orbit, reentering over the Altai Republic region of Russia. It was the first failure of a Progress spacecraft since launches began in 1978,[2] and the third consecutive orbital launch failure worldwide, following the failures of Ekspress-AM4 and Shijian XI-04 less than a week prior.[5][6] On 9 September, the FKA announced that the loss was caused by a blocked fuel duct, which caused the engines to shut down prematurely.[7] The failure was not expected to have any immediate effect on the crew of the International Space Station, as the outpost was stocked with reserves of food, water and oxygen.[8] The spacecraft was insured for three billion rubles (US$103 million).[9] As a precaution, the launch of a GLONASS satellite on a Soyuz-2-1b/Fregat, which had been scheduled for 26 August, was delayed until the engines could be inspected.[10]
+
+
+the progress M-12M was the first Progress failure since they started in 1978
+
+was carrying resupply and reboost for ISS
+
+
+
+http://www.bbc.com/news/world-europe-14852534
+    9 September 2011
+
+	...The Soyuz rocket has a deep heritage and has traditionally been a very reliable vehicle.
+
+	A crewed variant of the rocket has not had an in-flight failure since the mid-seventies.
+
+	The type of Soyuz that is used to take cosmonauts and astronauts to the ISS today is known as the Soyuz-FG. It has a near-identical third-stage to the Soyuz-U variant flown on robotic cargo missions - hence the concern.
+
+
+
+here's Anatoly Zak on the "myster" of more Progress and Soyuz failures that happened after this:
+
+http://www.planetary.org/blogs/guest-blogs/2017/0104-russias-progress-iss-delay.html
+
+	...Unable to find clear causes of the accident, engineers tried comparing the ill-fated mission sequence with two other failed Progress launches in 2011 and 2015, but saw very little similarities...
+
+	...Crewed missions grounded? 
+
+	The mystery of the December 1 failure poses a difficult dilemma for the entire ISS program, because Soyuz-MS crew capsules launch aboard essentially the same rocket, the Soyuz-FG. If investigators can’t find a smoking gun in the Progress MS-04 mystery, ISS officials might not have enough confidence to clear astronaut Jack Fischer and cosmonaut Fyodor Yurchikhin for launch on March 27.
+
+	Only one Soyuz-U rocket remains in Russia’s launch fleet. The next Progress cargo flight, Progress MS-05, is slated for liftoff on February 21. However, Russian officials are considering switching that flight from the Soyuz-U to the Soyuz-2-1a variant.
+
+	Such a plan, if adopted, would eliminate an opportunity to fly the implicated Soyuz-U again before the next crewed mission. Roscosmos would like to have at least one, and preferably, two, flawless Soyuz flights to be confident enough to resume crewed missions. Officials are still hoping definitive proof of the December 1 accident will be found; otherwise, the next ISS crew might be stuck on the ground until the second post-accident Progress launch on the final Soyuz-U. 
+
+
+
+http://www.russianspaceweb.com/progress_m12m.html
+	On the evening of Sept. 8, 2011, Roskosmos published a statement announcing that an interagency commission investigating the Progress M-12M crash had completed its work and had found the cause of the launch failure. The analysis of telemetry information showed that the reduced consumption of fuel in the gas generator of the third stage engine had been a result of the contamination in the supply pipeline. This led to the violation of the engine's operational conditions and the shutdown of the propulsion system under the "Emergency engine shutdown" command, Roskosmos said.
+
+	According to the press-release, the commission members came to the conclusion that the discovered production defect was random, however the decision to qualify the accident as a single occurrence should be taken only following additional checks and a special quality control program reviewing the entire inventory of the already manufactured propulsion systems.
+
+	The commission recommended to develop a coordinate program of quality control for already manufactured engines and certify each particular unit for flight. In addition, the commission proposed to develop and introduce new quality control measures for various phases of development and manufacturing, including the installation of video monitoring at the final assembly plant.
+
+	On Oct. 7, 2011, speaking at the Duma (parliament), the head of Roskosmos, Vladimir Popovkin, said that no technical problems had been found in any of 18 engines, which had been recalled following the Progress crash. At the time, the upcoming schedule of ISS milestones looked as following:
+
+	    Oct. 30: Progress M-13M (Tail No. 413; ISS mission 45P) launch (a test flight of the Soyuz-U rocket);
+	    Nov. 14: Soyuz TMA-22 (Tail No. 232; ISS mission 28S) launch;
+	    Nov. 22: Soyuz TMA-02M landing;
+	    Dec. 26: Soyuz TMA-03 launch;
+
+
+Roscosmos said the failure was caused by a production defect in the engine. I guess this is when they started video monitoring in the production plant.
+
+Didn't they find weird things going on at one point? like "metal shavings in the engine duct" or something like that
+
+according to this they found something like that in 2014:
+
+
+https://www.rt.com/news/165024-proton-booster-sabotage-investigation/
+	For example delivery of 20-ton multipurpose lab module for the ISS supposed to get into space in March 2014 was postponed for 2017 as pre-start quality control service at Baikonur Cosmodrome allegedly found ‘metal shavings’ in the ducts of the module.
+
+	How this could be possible if the Khrunichev Center has a strict quality control service of its own remains a matter of yet another investigation.
+
+
+this says Popovkin said the Progress M12-M failure wasn't the cause of a production fault, but an "isolated problem:"
+
+
+http://www.spacesafetymagazine.com/space-disasters/rocket-failure/roscosmos-soyuz-failure-was-an-isolated-problem/
+	According to Roskomos head Vladimir Popovkin, an inspection of the Soyuz production line revealed that the accident was not a consequence of a production fault. During a hearing to the parliament, Popovkin said that the failure that lead to the loss of the Progress M12-M unmanned cargo spacecraft was an isolated problem. “We tested all the engines so we can say that the clogged pipe that brought down the Progress is an isolated incident,” he said. Popovkin said also that the four accidents that plagued the Russian space agency in the past year showed the need to create an independent agency to run quality controls at the Baikonur launchpad in Kazakhstan. Regarding the fact that Russia is currently the only provider of crew launches, Popovkin commented: “while other countries are working on new (spacecraft) we are forced to focus on the production of well-reputed but comparatively old spacecrafts Soyuz and Progress.”
+
+	Roscosmos has recently been forced to stop the development of Rus-M carrier rocket, which was expected to make its first flight in 2015 from the new Vostochny spaceport in Russia: “We have come to the conclusion that we do not need a new rocket,” said Popovkin, “we can continue using those we already have.”
+
+
+"we tested all the engines so we can say that the clogged pipe that brought down the Progress is an isolated incident."
+
+interesting
+
+Soyuz had been working without crashes since mid-70's
+
+so he's saying that it's not like they started making these engines wrong, it was that one particular engine that was faulty.
+
+Popovkin says they don't need a new rocket, they can keep using Soyuz
+
+
+https://en.wikipedia.org/wiki/Soyuz_(spacecraft)
+	The Soyuz rocket design is based on the Vostok launcher, which in turn was based on the 8K74 or R-7A Semyorka, a Soviet intercontinental ballistic missile.
+
+
+figures that the only reliable way to get to space is based off a ballistic missile...

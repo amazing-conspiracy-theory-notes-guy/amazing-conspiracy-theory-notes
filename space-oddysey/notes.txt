@@ -1,0 +1,57 @@
+http://physicstoday.scitation.org/doi/full/10.1063/PT.3.3460
+	Also proposed for a 2020 launch is NASA’s Double Asteroid Redirection Test, which would evaluate the feasibility of using a kinetic impactor to nudge an asteroid’s orbit away from Earth’s and would cost about $250 million, Johnson says. The probe would be directed to crash at 6 km/s into one of the members of the binary asteroid Didymos. The European Space Agency’s (ESA’s) Asteroid Impact Mission would observe the collision and its effect on the binary system. Estimated to cost €250 million ($260 million), it was not approved by the ESA council of ministers in December. ESA director general Johann-Dietrich Woerner said in a blog post that he remains convinced of the need for the mission and will seek its reconsideration.
+
+
+why not fund tech stopping asteroids from hitting earth?
+	
+	...Whether the deflection is kinetic or nuclear, Goddard’s Nuth said designing, building, and launching a highly reliable spacecraft to intercept an asteroid or comet is likely to take five years. “It’s imperative that we reduce our reaction time to less than a year from high certainty of impact to launch,” he told reporters at the AGU gathering. He urged that a spacecraft be built so it is available should a threat arise; he estimates the cost to be several hundred million dollars.
+
+	Johnson disagrees. He argues that such an interceptor would most likely never be used, would be costly to maintain, and would likely become obsolete as new mitigation technologies are developed in the future. He favors using the available resources to accelerate completion of the asteroid survey.
+
+
+
+------
+
+
+http://www.washingtonpost.com/sf/national/2013/08/17/nasas-mission-improbable/?utm_term=.de92a6fd12f9
+	“There have been 12 humans to walk on the surface of the moon. Guess what? Every single one of them was an American,” Bolden said recently. “Only one nation has successfully put something that operates on the surface of Mars. Guess what? That’s the United States.”
+
+
+odd that Bolden saying this? reminds me of Bridenstine's rhetoric
+
+
+
+------
+
+
+
+https://vintagespace.wordpress.com/2012/03/06/should-nasa-reconsider-the-faster-better-cheaper-approach-to-exploringmars/
+	On February 13, President Obama unveiled the proposed budget for NASA for the fiscal year 2013: $17.7 billion. That’s $59 million less than FY 2012, and a number that’s expected to remain constant over the next five years. Hardest hit was the Mars program, but this doesn’t necessarily mean the end of exploration on our cosmic neighbour. NASA has had great luck with creative and cost-efficient Martian missions in the past, so it’s possible that the next decade on Mars will be fruitful, it might also look different than anticipated. (Left, Mars’ atmosphere.)
+
+
+Obama cutting Mars mission funding in 2012
+
+what for?
+
+a little weird that fake news, dodgy politicians, creepy journalists and KGB agents are all against going to mars...
+
+
+------
+
+
+
+
+
+preliminary flight analysis says error unnacceptable without small forces modeling, even with firing once a week.
+
+Stephenson says they were manually inputting small forces into model correctly for first half of trip
+
+Thurman says "medium jitter," "not atypical," "stable nav for periods", didn't see alarming error (problems with "convergence") until after TCM-4
+
+Thurman also reportedly the one to decide not to boost, said nav team had "cold feet" and esposito "nervous" after 4th burn
+
+report and other sources say they knew something was wrong as soon as the small forces model was running
+
+space daily source says error fluctuating, spiked after TCM-4 then stablized to +/- 10 km Sep 18-21, Stephenson report likewise gives 20 km range for that period
+
+true error was actually 196 km

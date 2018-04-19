@@ -1,0 +1,116 @@
+
+
+http://www.spacedaily.com/reports/Russian_Space_Program_Still_Plagued_By_Numerous_Problems_999.html
+	Russian Space Program Still Plagued By Numerous Problems
+
+	Moscow (RIA Novosti) Mar 04, 2008
+
+	The development of Russia's high-tech sector, primarily the national space program, resembles a Camel Trophy race, while official reports do not always reflect the real situation. In late February, Anatoly Perminov, director of the Federal Space Agency (Roskosmos), told the respected Novosti Kosmonavtiki (Space News) magazine that he positively assessed the results of Russia's space exploration in 2007. He said that all projects had been financed in line with official programs.
+
+	According to him, successful efforts were made to implement the federal space program until 2006-2015, to deploy the Global Navigation Satellite System (GLONASS) and to expand national space centers under federal target programs.
+
+	The following Russian joke highlights a tendency to divide any problem into many aspects. A duty officer told the regimental commander that everything, except one mere trifle, was all right. However, it later turned out that the unit banner was missing.
+
+	With the exception of two mere trifles, the 2007 space program has yielded mostly positive results. In late November, First Deputy Prime Minister Sergei Ivanov, who oversees the space program and the high-tech sector, severely criticized the work of Roskosmos. He said the agency had completed all Soviet-era projects and was no longer able to manufacture up-to-date and competitive products. On New Year's Eve, Ivanov told a meeting of the Roskosmos board that the agency had failed to fulfil the GLONASS program.
+
+
+RIA Novosti in 2008 saying oficial reports that the Russian space program is doing well are disingenuous
+
+
+	... Perminov told a news conference on New Year's Eve that the market had shuddered when the first Russian-made GLONASS receivers were offered for sale. This is rather unusual because GPS Navstar has been catering to hundreds of millions of users worldwide, including Russia, for several decades. Moreover, one multi-service GPS package costs only a few dollars and is quite a match for the 100-200 unwieldy GLONASS receivers that are inferior in every respect.
+
+	To be honest, anyone familiar with Russian roads would hesitate before seriously talking about the commercial success of GLONASS.
+
+	National security is an entirely different story because the Russian Armed Forces require their own navigation systems that would not depend on GPS providers. However, airlines all over the world, including Russia, rely heavily on the GPS Navstar system, and it would be impossible to change this situation.
+
+
+RIA Novosti says GLONASS is no good but might be useful for military applications
+
+
+http://www.bbc.com/news/technology-27662580
+	2 June 2014
+
+	Russian authorities have "implemented measures" to restrict the use of satellite bases in its territories that serve the US-owned GPS network.
+
+	The country's space agency said it would rule out "any military use" of the ground-based stations.
+
+	The move comes amid Russian attempts to build a US base for its GPS rival, the navigation system Glonass, which have been blocked by the US government.
+
+	However experts say the move will have no effect on GPS users worldwide.
+
+	GPS bases in Russia will be "stopped completely," if an agreement on Glonass stations in the US is not reached by 31 August, warned deputy prime minister, Dmitriy Rogozin.
+
+	GPS (Global Positioning System) is a satellite navigation network owned and run by the US government.
+
+	It is used to provide accurate positioning for both civilian and military devices.
+
+	Ground-based monitor stations feed back geodesic information to space, which improves the system's accuracy.
+
+
+	..."Their purpose is to increase reliability [of GPS] for local users," said Prof Last.
+
+	"Closing them will only have an effect on GPS users in Russia."
+
+	Cors are independently owned and run.
+
+	Russia's Glonass, which was established in the late 1970s, is the only global rival to GPS, and has been subject to failures in recent months.
+
+	The country's space agency has been trying to improve the system's accuracy, and wants to put a base station for Glonass in the US - a move which has been all but ruled out by the White House.
+
+
+as of June 2014 U.S. and Russia fighting over their respective GNSS systems
+
+
+
+http://www.nytimes.com/2013/11/17/world/europe/a-russian-gps-using-us-soil-stirs-spy-fears.html
+	A Russian GPS Using U.S. Soil Stirs Spy Fears
+
+	By MICHAEL S. SCHMIDT and ERIC SCHMITTNOV. 16, 2013 
+
+
+	...In recent months, the Central Intelligence Agency and the Pentagon have been quietly waging a campaign to stop the State Department from allowing Roscosmos, the Russian space agency, to build about half a dozen of these structures, known as monitor stations, on United States soil, several American officials said.
+
+	They fear that these structures could help Russia spy on the United States and improve the precision of Russian weaponry, the officials said. These monitor stations, the Russians contend, would significantly improve the accuracy and reliability of Moscow’s version of the Global Positioning System, the American satellite network that steers guided missiles to their targets and thirsty smartphone users to the nearest Starbucks.
+
+	“They don’t want to be reliant on the American system and believe that their systems, like GPS, will spawn other industries and applications,” said a former senior official in the State Department’s Office of Space and Advanced Technology. “They feel as though they are losing a technological edge to us in an important market. Look at everything GPS has done on things like your phone and the movement of planes and ships.”
+
+
+don't think this makes much sense?
+
+once satellites are up there, anyone can use them. If Russia wanted to use GPS for their missiles, there would be nothing U.S. could do to stop them.
+
+
+
+http://airforcelive.dodlive.mil/2015/03/10-common-myths-surrounding-gps/
+	7. The government uses GPS satellites to track/spy on us
+The issue with this myth is, of course, the fact that the GPS device used in cell phones is a receiver, not a transmitter. Thus, your phone is not constantly transmitting your position unless you continue to use the “Hey, here’s where I am!” feature through various social media platforms or applications. 
+
+
+I used to be confused about that...
+
+GPS satellites just blast a signal with a timestamp, and three are enough to triangulate your position (better with more)
+
+
+https://www.quora.com/Is-there-any-difference-between-military-GPS-data-and-civilians-in-terms-of-accuracy
+	The military have a few more toys to play with, in addition to C/A on L1, and L2C on L2, they also have access to the encrypted P(Y) data being sent on both the L1 and the L2 frequencies.  And this allows them to perform ionosphere correction as mentioned by other answers.  Since 2005, the military also get access to their new M-code signals being transmitted on both L1 and L2, which will increase accuracy and reliability further.
+
+
+maybe military GPS encrypted? that could be reason for each country to build their own
+
+
+http://www.dtic.mil/dtic/tr/fulltext/u2/a538975.pdf
+
+this says encrypted, although can be used anyway.
+
+https://www.quora.com/Is-there-any-difference-between-military-GPS-data-and-civilians-in-terms-of-accuracy
+
+so they started a sort-of space race over military-grade GPS
+
+
+http://www.nytimes.com/2013/11/17/world/europe/a-russian-gps-using-us-soil-stirs-spy-fears.html
+	...“I would like to understand why the United States would be interested in enabling a GPS competitor, like Russian Glonass, when the world’s reliance on GPS is a clear advantage to the United States on multiple levels,” said Representative Mike D. Rogers, Republican of Alabama, the chairman of a House Armed Services subcommittee.
+
+	Mr. Rogers last week asked the Pentagon to provide an assessment of the proposal’s impact on national security. The request was made in a letter sent to Defense Secretary Chuck Hagel, Secretary of State John Kerry and the director of national intelligence, James R. Clapper Jr.
+
+
+Mike Rogers encourages it

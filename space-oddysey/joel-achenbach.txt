@@ -1,0 +1,474 @@
+
+https://www.washingtonpost.com/news/achenblog/wp/2016/12/07/fake-news-and-creeping-surrealism/
+	Fake news and creeping surrealism
+
+	By Joel Achenbach
+
+	...You were warned about this. Consider this passage:
+
+    	The technology of falsehood has outraced our judgment. Alienated from nature, liberated from such barbaric responsibilities as the growing of food, the making of shelter, we have entered a mysterious phase in which we passively accept a cartoon version of reality that is projected upon us by unreliable, deceptive, and sometimes diabolical media.
+
+	I wrote that in 1988. That’s not a typo. (It’s hard to find a good link to it because it was pre-Internet. That paragraph ran in Mother Jones, in a piece based on an earlier essay titled “Creeping Surrealism” that ran in the Miami Herald’s Tropic Magazine.) The bad guys in that piece were corporations, advertisers, TV stars, Hollywood — the professional manipulators of image. My essay also derided the public for not seeming to care about what was fake and what was real. 
+
+
+------
+
+
+https://www.washingtonpost.com/news/achenblog/wp/2014/12/03/nasa-has-a-spaceship-but-where-will-it-go/
+	NASA has a spaceship, but where will it go?
+	By Joel Achenbach
+
+	Nothing demonstrates the extreme inertia of space technology more vividly than the Orion space capsule, which NASA has been working on since 2006 and which, as my colleague Chris Davenport reports, will finally have its first test flight Thursday morning if all goes as planned.
+
+	The capsule has cost something like $9 billion so far and will cost billions more before it is ever flown with people inside. Orion will be launched this time atop a Delta IV Heavy rocket, one of the jumbo rockets owned by United Launch Alliance (a Boeing-Lockheed partnership that has a virtual monopoly on national security and military launches). This will be a quick flight, lasting just 4½ hours, with a couple of spins around the Earth and a top altitude of 3,600 miles before the capsule splashes down into the Pacific Ocean.
+
+	Then, in 2018, Orion will have its first test flight atop NASA’s new SLS heavy-lift rocket, which is still being built. The key detail about these first two test flights is that no one will be aboard. Finally, circa 2021 or 2022, Orion will have its maiden flight with human beings inside.
+
+	You don’t need an advanced degree from MIT to grasp that this is a very stately, deliberate program, one free of the sin of haste and the vice of urgency.
+
+	Has there ever been a piece of human space hardware developed so slowly?
+
+	Or so expensively?
+
+	...The great mystery is where it will go. If you have a big rocket (like the SLS) and this new capsule, where should you go?
+
+	This question was at the core of The Washington Post’s big NASA project last year, which we called “Destination Unknown.” The Houston Chronicle has a similar whither-NASA series this year, entitled “Adrift.”
+
+
+http://www.washingtonpost.com/sf/national/collection/destination-unknown/?tid=a_mcntx
+	Destination Unknown
+	An occasional series on the future of NASA and space exploration. By Joel Achenbach.
+
+
+http://www.washingtonpost.com/sf/national/2013/08/17/nasas-mission-improbable/
+	NASA’s mission improbable
+	A space agency with a proud past faces a rocky road ahead.
+
+	Story by Joel Achenbach
+
+	NASA is looking for a rock. It’s got to be out there somewhere — a small asteroid circling the sun and passing close to Earth. It can't be too big or too small. Something 20 to 30 feet in diameter would work. It can’t be spinning too rapidly, or tumbling knees over elbows. It can’t be a speed demon. And it shouldn’t be a heap of loose material, like a rubble pile.
+
+	The rock, if it can be found, would be the target for what NASA calls the Asteroid Redirect Mission. Almost out of nowhere it has emerged as a central element of NASA’s human spaceflight strategy for the next decade. Rarely has the agency proposed an idea so controversial among lawmakers, so fraught with technical and scientific uncertainties, and so hard to explain to ordinary people.
+
+	The mission, which could cost upward of $2 billion, would use a robotic spacecraft to snag the small rock and haul it into a stable orbit around the moon. Then, according to NASA’s plan, astronauts would blast off in a new space capsule atop a new jumbo rocket, fly toward the moon, go into lunar orbit, and rendezvous with the robotic spacecraft and the captured rock. They’d put on spacewalking suits, clamber out of the capsule and examine the rock in its bag, taking samples. This would ideally happen, NASA has said, in 2021.
+
+	“That’s our plan,” said Michael Gazarik, NASA’s top official for space technology. “We have to merge it with reality.”
+
+	Plans, goals, dreams and technological realities are difficult to sort through these days at NASA. The space agency has what might be called middle-age problems.
+
+	...The asteroid mission not only goes beyond LEO, it scratches many other itches at the agency. NASA has marketed this as planetary defense — a way to get the upper hand on asteroids that could potentially smash into Earth.
+
+	...Most important, the ensnared asteroid would provide a destination beyond LEO for new, expensive hardware that NASA is already building: the big rocket called the Space Launch System, and the Orion crew capsule. The mission could deflect accusations that the government is building rocket ships to nowhere. 
+
+
+http://www.independent.co.uk/news/science/how-to-stop-an-asteroid-hitting-earth-would-people-cooperate-to-face-a-global-peril-10353951.html
+	Deflecting an asteroid is an embryonic science. There are three schemes, roughly classified as Nuke, Kick or Tug. The Nuke option would aim an explosive device or, more likely, many – at an asteroid on a collision course. Despite its Hollywood-grade visual potential, the planetary defence community regards it as a last-ditch effort. The other two options are the Kick (aiming a "kinetic impactor" at an asteroid to knock it slightly off orbit) and the Tug (shooting an unmanned spacecraft into the orbit of the asteroid to operate as a "gravity tractor" with enough mass to pull the rock off its trajectory).
+
+	While all three schemes depend on man's ability to navigate a craft to an asteroid – achieved when the Rosetta craft landed the Philae probe on a comet last November – none of the asteroid mitigation techniques has been tested. However, Nasa hopes to demonstrate the Tug method as part of a 2020 mission, which would launch a robotic spacecraft to break off and grab a chunk of an asteroid. The craft and its cargo will remain in the asteroid's orbit for 100 days, and scientists believe its enhanced mass will eventually pull it off-course. The device would then drag the asteroid chunk back to the moon's orbit and leave it there, allowing future experiments on it.
+
+	...The astronaut Russell "Rusty" Schweickart says: "I fear there's not enough of a collective survival instinct to really overcome the centrifugal political forces. That is, in a nutshell, the reason we'll get hit…"
+
+	But the exercise ended on a cliffhanger, with a massive, flaming rock closing in on a teeming, impoverished Asian city. Having done the best they could, the planetary defenders hung up their hero lanyards, packed their suitcases, checked out of their hotels and headed for the airport, leaving the planet forewarned.
+
+
+Why does Achenbach paint the asteroid redirect mission as something useless that NASA has to "market"? the utility seems obvious.
+
+
+http://www.washingtonpost.com/sf/national/2013/08/17/nasas-mission-improbable/
+	But the mission is viewed skeptically by many in the space community. At a July gathering of engineers and scientists at the National Academy of Sciences, veteran engineer Gentry Lee expressed doubt that the complicated elements of the mission could come together by 2021, and said the many uncertainties would boost the costs.
+
+	“I’m trying very, very hard to look at the positive side of this, or what I would call the possible positive side,” he said.
+
+	“It’s basically wishful thinking in a lot of ways – that there’s a suitable target, that you can find it in time, that you can actually catch it if you go there and bring it back,” said Al Harris, a retired NASA planetary scientist who specializes in asteroids.
+
+	“Of course there’s always luck. But how much money do you want to spend on a chance discovery that might have a very low probability?” said Mark Sykes, a planetary scientist who chairs a NASA advisory group on asteroids.
+
+	If the target rock isn’t scoped out well in advance, it could even turn out, on close inspection, to be something other than a small asteroid — say, a spent Russian rocket casing that’s footloose around the sun.
+
+
+https://www.aip.org/fyi/2016/white-house-and-nasa-defend-asteroid-redirect-mission-senate-skeptical-new-bill
+	Holdren also stated that ARM serves as an important demonstration of asteroid deflection techniques that could one day help prevent an asteroid from striking the Earth. He noted that the meteor that exploded above Chelyabinsk, Russia in 2013 had the power of 400-500 kilotons of TNT (about 30 times the power of the nuclear bomb dropped on Hiroshima), and that a 1908 meteor impact, dubbed the “Tunguska event,” was equivalent to a multiple megaton explosion.
+
+	...“We have to be smarter than the dinosaurs,” Holdren said, a reference to the theory that a large meteor strike near the Yucatán peninsula led to the extinction of dinosaurs.
+
+
+Achenbach could have cherry-picked some different quotes
+
+
+http://www.washingtonpost.com/sf/national/2013/08/17/nasas-mission-improbable/
+	...The transition to the post-shuttle era is nowhere more obvious and more poignant than at the Kennedy Space Center. Officials at Cape Canaveral say they’re optimistic and talk about creating a 21st-century spaceport. They point to the fact that the Orion capsule is under construction on the space center grounds.
+
+	But the space center is looking rough around the edges, like a historical site. The cafeteria draws a sparse crowd at lunchtime. The media center is quiet. Two launch pads, 39A and 39B, await the arrival, someday, of the SLS, or some other rocket needing to go somewhere. One pad still has a massive space shuttle gantry, as if hoping a shuttle will materialize.
+
+	The dominant structure on the Cape, soaring 526 feet, is the Vehicle Assembly Building. It’s a mega-hangar built in the grandiose, aspirational 1960s, when NASA had a blank check and needed a structure large enough to hold a vertical Saturn V moon rocket.
+
+	There’s not much left inside. Up top, vultures perch on the edge of the roof, and then jump — soaring on the updrafts as the Florida wind slams into the great, empty building.
+
+
+a little much?
+
+it's like the dude just hates NASA, wants them to die
+
+
+------
+
+
+https://www.washingtonpost.com/news/monkey-cage/wp/2013/10/25/the-international-space-stations-scientific-payoff-is-real-and-increasing/
+	A recent article by Joel Achenbach in The Washington Post posed a fundamental question about the International Space Station (ISS): “What is it for?”  While conceding that the space station is an engineering marvel and a monument to international cooperation, the article contrasts the costs and dangers of life on the ISS with the lack of a clear scientific rationale for continued operations.  As space policy analyst John Logsdon put it in the article, “It’s an awfully expensive engineering demonstration.  If that’s all it is, that’s a hell of a price to pay.”
+
+
+other people noticing Achenbach weird about space exploration
+
+
+------
+
+https://www.washingtonpost.com/national/health-science/failed-spacex-rocket-launch-another-setback-for-industry-eager-for-the-future/2015/06/28/36b068d8-1db0-11e5-bf41-c23f5d3face1_story.html
+	Another major rocket failure for a space industry out to prove itself
+
+	By Joel Achenbach and Christian Davenport
+
+	...This latest launch failure could influence NASA’s schedule for sending American astronauts back into space on American spacecraft. NASA has not been able to put Americans into space with American hardware since the shuttle fleet was retired in 2011. The United States relies now entirely on the Russians to get to and from the space station, paying more than $70 million a seat to fly American astronauts. 
+
+
+https://www.washingtonpost.com/news/post-nation/wp/2018/01/09/nasa-is-going-back-to-the-moon-if-it-can-figure-out-how-to-get-there/
+	NASA is going back to the moon — if it can figure out how to get there
+	by Joel Achenbach January 9
+
+	...This will end NASA’s embarrassing reliance on the Russians for travel to and from the ISS. Since the shuttle fleet was retired, the United States has paid hundreds of millions of dollars a year for seats on Russia’s Soyuz spacecraft.
+
+
+http://www.washingtonpost.com/sf/national/2013/08/17/nasas-mission-improbable/
+	NASA’s mission improbable
+	by Joel Achenbach January
+
+	...With the shuttle retired, NASA can no longer launch American astronauts on American rockets, but rather must buy seats at $71 million a pop on Russian spaceships. American taxpayers are sending more than $400 million a year to Russia to launch American astronauts.
+
+
+https://www.washingtonpost.com/national/health-science/nasa-administrator-says-americans-and-russians-still-getting-along-fine-in-space/2014/03/04/3ef445d6-a3e1-11e3-84d4-e59b1709222c_story.html
+	NASA administrator says Americans and Russians still getting along fine in space
+
+	By Joel Achenbach March 4, 2014
+
+	...With the space shuttle retired, the U.S. relies on Russia’s Soyuz spacecraft to get to and from the space station. Russia charges about $71 million per seat. There is no other way for American astronauts to get back to Earth.
+
+
+Does he realize this is a good thing, and against the intersts of his faction? (if I got him pinned right) He kindof comes off like flaunting it. It could be he's trying to taunt Americans into stopping this deal with Roscosmos.
+
+It's kindof weird that he poitns this out in like half the articles he writes
+
+
+http://www.washingtonpost.com/sf/national/2013/08/17/nasas-mission-improbable/
+	NASA’s mission improbable
+	by Joel Achenbach January
+
+	...If the target rock isn’t scoped out well in advance, it could even turn out, on close inspection, to be something other than a small asteroid — say, a spent Russian rocket casing that’s footloose around the sun.
+
+	...NASA used a small asteroid, dubbed 2009DB, as the hypothetical target in two feasibility studies, but that particular rock needs further scrutiny before anyone can say for sure that it would meet the requirements of the mission. It could be too small, a pipsqueak. It might not even be a natural object. The worst-case scenario would be the capture of something with Russian writing on the side.
+
+
+https://en.wikipedia.org/wiki/Lost_Cosmonauts
+	The Lost Cosmonauts or Phantom Cosmonauts are subjects of a conspiracy theory alleging that Soviet cosmonauts went to outer space before Yuri Gagarin, but their existence has never been publicly acknowledged by either the Soviet or Russian space authorities. Proponents of the Lost Cosmonauts theory argue that the Soviet Union attempted to launch two or more manned space flights prior to Gagarin's, and that at least two cosmonauts died in those attempts. Another cosmonaut, Vladimir Ilyushin, is believed to have landed off-course and been held by the Chinese government. The Government of the Soviet Union supposedly suppressed this information, to prevent bad publicity during the height of the Cold War.
+
+	The evidence cited to support Lost Cosmonaut theories is generally regarded as inconclusive, and several cases have been confirmed as hoaxes. In the 1980s, American journalist James Oberg researched space-related disasters in the Soviet Union, but found no evidence of these Lost Cosmonauts.
+
+
+referring to something like this? to take a guess: does he believe Americans are responsible? it reminds me of Micheal Wines implying he believes in the Doctor's plot in his writings.
+
+this is one possible motive for Achenbach attacking NASA: revenge
+
+
+------
+
+
+https://www.washingtonpost.com/lifestyle/style/post-reporter-joel-achenbach-suspended-for-90-days-for-inappropriate-workplace-conduct/2018/01/10/5fae0f4a-f645-11e7-a9e3-ab18ce41436a_story.html
+	By Paul Farhi January 10
+
+	The Washington Post suspended reporter Joel Achenbach on Wednesday for what it called “inappropriate workplace conduct” involving current and former female colleagues.
+
+	Achenbach, a veteran reporter, is the first Post journalist to be disciplined for misconduct of this kind since a wave of sexual-harassment allegations began roiling through news outlets and other organizations in the wake of revelations about Hollywood producer Harvey Weinstein in early October.
+
+	The Post said Achenbach would be suspended for 90 days without pay, the most severe newsroom punishment the paper has handed out in recent years for violations of its workplace or journalistic standards. His suspension began immediately.
+
+
+Achenbach harrassed female colleagues at WaPo, suspended for 90 days
+
+
+------
+
+
+https://www.washingtonpost.com/news/achenblog/wp/2016/09/28/mars-is-not-a-plan-b/
+	 Mars is not a Plan B
+
+	By Joel Achenbach September 28, 2016
+
+	Over at Speaking of Science I have posted a few thoughts on Elon Musk and his plan to colonize Mars. Shorter version: Putting even one person on Mars, never mind a million people, is going to be very hard. There is no single technological show-stopper. But the risks are cumulative, the costs are incalculable, things go wrong, and any timeline that imagines humans on Mars in the next decade is magical thinking. Ask Loren Grush at The Verge: She runs through the whole list of challenges.
+
+	...Among would-be star trekkers and planet-colonizers (Elon Musk et al) there’s often an implicit message that our goal as human beings ought to be survival on another world after our own is ruined. In “Interstellar” we see an O’Neill space colony where kids can play baseball but where, I’m guessing, the elephants didn’t make the cut, nor the whales, nor most of the other species from Earth. Really? That’s the best we can do? That’s the happy ending? If Earth dies and humans wind up somewhere else that’s not a W in my book, it’s a big L.
+
+
+http://www.cbc.ca/natureofthings/episodes/destination-mars
+	Astrophysicist Stephen Hawking has declared it essential for humans to colonize Mars. “If our species is to survive the next hundred years, let alone a thousand,” he says,  “it is imperative we voyage out into the blackness of space to colonize new worlds across the cosmos.”
+
+	Then there are skeptics: The Washington Post’s space specialist Joel Achenbach says that behind the allure are large corporate, military and intelligence interests who want to assure American domination of space. “It’s a good story,” he says “we’re going to go  put people on Mars, but the money we spend on civilian space helps prop up this very powerful aerospace industry which has a huge significance to the country in terms of national security. They don’t just send up civilian rockets, they also send up military satellites. If you simply look at, telescopes in orbit around the earth, most of them look down, they don’t look out at the rest of the universe.”
+
+
+seems to be down on Mars missions. What would he say about a mars mission by Russia?
+
+
+------
+
+https://www.washingtonpost.com/national/health-science/failed-spacex-rocket-launch-another-setback-for-industry-eager-for-the-future/2015/06/28/36b068d8-1db0-11e5-bf41-c23f5d3face1_story.html
+	Another major rocket failure for a space industry out to prove itself
+
+	By Joel Achenbach and Christian Davenport
+
+	...NASA’s Twitter account offered the play-by-play: “And we have liftoff of @SpaceX #ISScargo resupply mission to the @Space_Station.”
+
+	Two minutes later, Elon Musk’s Falcon 9 blew up like a bottle rocket. Food, supplies, hardware and dozens of student science experiments rained to the sea off the Florida coast. 
+
+	...NASA put up a brave face Sunday, vowing to forge ahead. Kelly and the two Russian astronauts on the space station are not in danger, and NASA officials said Sunday that the astronauts have sufficient food and water and other basic supplies to last until October. Another cargo mission, using a Russian Progress vehicle, is scheduled for Friday. Three more astronauts are supposed to join the current crew via a Russian Soyuz spacecraft later in July.
+
+	...This latest launch failure could influence NASA’s schedule for sending American astronauts back into space on American spacecraft. NASA has not been able to put Americans into space with American hardware since the shuttle fleet was retired in 2011. The United States relies now entirely on the Russians to get to and from the space station, paying more than $70 million a seat to fly American astronauts. 
+
+	...In April, a Russian Progress spacecraft, carrying another load of cargo for the space station, went into an uncontrolled spin and fell back to Earth, burning up in the atmosphere.
+
+	NASA’s top official for human spaceflight, William Gerstenmaier, said that although the crewed mission to the station in July remains on track, he and his colleagues want to ensure that the Russian Soyuz spacecraft is not vulnerable to whatever caused the failure of the Russian Progress cargo vehicle. 
+
+	...The rocket took off from Cape Canaveral, Fla., at 10:21 a.m., and everything seemed fine for about the first two minutes. Then the video of the launch showed harrowing, if all-too-familiar, images of the rocket exploding and disintegrating amid a billowing white cloud.
+
+	It is unclear what went wrong. Musk suggested on Twitter that the cause was an “overpressure event” in a liquid oxygen tank in the upper stage of the rocket.
+
+	“Data suggests counterintuitive cause,” he wrote, cryptically. 
+
+
+weird way to end the article
+
+still not sure whether or not he has an honest pro-Russia anti-America bias in space exploration
+
+comes off as wanting America to fail. But does he want Russia to succeed?
+
+
+------
+
+
+http://www.heraldnet.com/news/space-station-nears-completion-and-maybe-the-end/
+	Space station nears completion, and maybe the end
+
+    By Joel Achenbach The Washington Post
+    Sunday, July 19, 2009 
+
+	...Space station critics
+
+	Critics have long derided the orbiting laboratory as a boondoggle. Originally called Space Station Freedom during the Reagan years, it became the international space station when the United States lured Russia into a partnership in 1993, agreeing to alter the orbit of the station to make it pass over the Russian-run space complex in Kazakhstan. That agreement helped keep Russian scientists and engineers employed at a time when the United States feared they would become rogue agents in a chaotic world.
+
+
+found a way to hate ISS too
+
+does he actually beleive this?
+
+for someone who writes on space science/tech so much, he seems to hate it
+
+
+here's something:
+
+
+http://articles.sun-sentinel.com/2001-03-24/news/0103230980_1_mir-space-station-russian
+	Mir: The Jalopy Of Outer Space
+	March 24, 2001|By JOEL ACHENBACH The Washington Post
+
+	Sure, it stank. The Mir space station became a malodorous, filthy, chronically malfunctioning deathtrap. It was an orbiting Dumpster. It crashed into things. It caught on fire. It got moldy. A cosmonaut nearly drifted into space when his tether broke. Mir's occupants were constantly in danger of suffocation, hypothermia, irradiation, immolation and whatever you call it when people are exposed to empty space and their eyeballs pop out.
+
+	This was a disaster movie waiting to happen. You got the impression that the whole thing was kept together with Scotch tape and strategically placed wads of chewing gum. Space travel, as originally portrayed in movies and novels, was supposed to be a beautiful thing to behold, elegant, clean to the point of sterility, but Mir gradually became like something you'd find out behind the barn, propped up on concrete blocks.
+
+	And yet, as we prepared Thursday for Mir to burn up and disintegrate over the South Pacific, our hearts were heavy. Mir was one of the great characters in the still-brief narrative of human spaceflight. It had personality in an industry that has tried to be personality-free. It had brio and verve. It was the little tin can that could.
+
+	Mock it all you want. The fact is, Mir outlasted the empire that created it. Overachievers are rare in the space business. Mir didn't know the meaning of the word "quit." Built to last three years, maybe five, Mir stayed in orbit for 15, and circled the world more than 86,000 times. That puts Skylab, six years in orbit, to shame. The defenders of Mir are probably right when they say it had just one bad year, 1997 -- a brief burst when it kept catching on fire and getting lost in space.
+
+	"It was a fantastic achievement for its time," NASA Administrator Dan Goldin said Thursday. "I think the Russian people ought to be proud."
+
+
+comes off as wanting Russians to succeed as of 2001, or at least proud of prior success
+
+
+http://www.washingtonpost.com/wp-dyn/content/article/2007/10/01/AR2007100101678.html
+	50 Years Ago, Launch of a New World
+
+	By Joel Achenbach
+	Washington Post Staff Writer
+	Tuesday, October 2, 2007
+
+	News flash, Oct. 4, 1957: The Russians have launched a tiny moon. It is an artificial satellite, 184 pounds, a pumpkin-size sphere polished to a shine. The Russians call it Sputnik. As it passes over the United States it transmits a signal -- surely the most ominous beep-beep-beep that any American has ever heard.
+
+	"The communists were going to rule," recalled Homer Hickam, who was 14 when he saw Sputnik in the sky above his home town of Coalwood, W.Va., and who would go on to become a spacecraft designer. "And the proof of this was this shiny little bauble that flew around the world every 90 minutes."
+
+	Rocket engineer Julian Davidson, dismayed at being beaten into space, remembers a radio commercial that night -- an ad for a new Gillette razor. "The Russians just launched a satellite," he said, "and I'm listening to an ad for a great technology the Americans had for making razor blades."
+
+	Sputnik and its aftermath are a familiar tale at this point -- the story of a fat and happy superpower suddenly finding itself in a full-blown existential crisis but shaking free of its torpor, revamping science and math education, and winning the race to the moon. 
+
+	...In 1957 anyone who read popular culture knew of the coming age of space travel. Space buffs had devoured a series of articles in Collier's magazine written by Wernher von Braun, the former Nazi scientist who had been invited to come to the United States to work on rockets.
+
+	...Americans presumed that the space era would begin with the launch of Vanguard, a small U.S. satellite, as part of a global scientific program called the International Geophysical Year. The Soviets announced their own intentions to put up a satellite, but few people gave the claim any credence. 
+
+	Not everyone was surprised that Sputnik Night. Ernst Stuhlinger, a rocket scientist, now 93, had followed von Braun to the United States along with 116 other German scientists. On Sept. 27, 1957, Stuhlinger warned Army Gen. John Medaris, head of the Army Ballistic Missile Agency in Huntsville, Ala., that the Soviets were on the verge of launching a satellite. Medaris told him the Soviets weren't yet capable.
+
+	Stuhlinger remembers being in a taxi in Barcelona when the Sputnik bulletin came over the radio. "I told you so," he said to himself.
+
+	...The political and media riot lasted for months. People suspected that Sputnik was spying on the United States. Was the beep-beep-beep a secret code? Pundits decried the softness of an American society that cared more about the size of automobile tail fins than the long struggle against the communists.
+
+	...The United States tried to launch its own satellite, Vanguard, but as the nation watched on live television, the rocket rose just four feet and exploded. Johnson called it "one of the best publicized -- and most humiliating -- failures in our history." 
+
+
+he comes off as proud of Sputnik here
+
+
+------
+
+
+https://www.publishersweekly.com/978-0-684-84856-3
+	Nearly 25 years later, the scientific search for extraterrestrial intelligence has continued to reveal nothing, in Achenbach's view, beyond static and the optimism of its advocates. In addition to respected scientists, Achenbach travels to a UFO convention, where he meets a man convinced that the aliens have the medical technology to cure his aching back and that President Clinton traveled by spaceship from Arkansas to New York (it took 15 minutes). ET is here, say many of those Achenbach interviewed, but we don't believe the evidence because of government deception and coverups. Achenbach's book can be appreciated for its assortment of characters and for its witty style. 
+
+
+https://www.amazon.com/Captured-Aliens-Search-Truth-Universe/dp/0684848562
+	This lively, amusing book touches on many ways that people relate to the cosmos, from astrophysicists to the Heavens Gate cult. That is a virtue, in the sense of providing the reader with a wide variety of material. It also is a weakness, in that highly reputable scientists are implicitly equated with flakes. The author should have drawn a sharper distinction between those he took seriously and those he found ridiculous. The net effect is to introduce a giggle factor into our views of anyone who finds the external universe fascinating and relevant to our future.
+
+	Achenbach is a bit too worshipful toward Carl Sagan and former NASA Administrator Dan Goldin. In particular, he glosses over the fact that Goldin's faster, better, cheaper policy led to three major mission failures in the late 1990's.
+
+
+worth looking into?
+
+
+https://www.smithsonianmag.com/science-nature/why-carl-sagan-truly-irreplaceable-180949818/
+	Why Carl Sagan is Truly Irreplaceable
+	No one will ever match his talent as the “gatekeeper of scientific credibility”
+
+	By Joel Achenbach 
+
+
+apparently right about Sagan
+
+something off with Sagan and "planetary society"
+
+can see in their reporting on phobos grunt
+
+
+https://www.salon.com/1999/11/03/aliens_3/
+	Captured and hypnotized by aliens!
+	You&#039;ve got your Pleiadians, your reptilians, dolphinoids, serpent people, the Starseeds and a bunch coming back in silicon bodies. And every darn one has a different agenda.
+	Joel Achenbach
+
+	The American West is alien country, particularly the deserts. When you drive through Nevada you have plenty of time to survey the landscape for mysterious aircraft and secret government facilities.
+
+	..."Do you see anything?" she asked.
+
+	I strained. I tried to see. I saw nothing. "What part of your body remembers what happened," she said. "Feel the part of the your body that remembers."
+
+	"I ... I ... I think it's just my head that remembers."
+
+	"Your head?"
+
+	"I think it's just in my brain."
+
+	I was failing miserably! My poor old rational self couldn't adopt the necessary dualism to recover a memory of the alien from the memory storage organ in, say, my left foot. Deborah continued to work with me but eventually I got discouraged and sat up and the trance was gone and I had found no alien. I told her I thought I merely had a neurological quirk that caused the sleep paralysis. I subscribed to the paradigm of the doctors. She seemed highly skeptical. I knew exactly what she was thinking -- this guy is so gullible.
+
+
+holding up "ufologists"/"believe in aliens in weird way" people for ridicule checks out
+
+
+------
+
+
+http://www.sciencemag.org/news/2017/05/star-spurred-alien-megastructure-theories-dims-again
+	Astronomers and alien life enthusiasts alike are buzzing over the sudden dimming of an otherwise unremarkable star 1300 light-years away in the constellation Cygnus. KIC 8462852 or “Tabby’s star” has dimmed like this several times before, prompting some researchers to suggest that the megastructures of an advanced alien civilization might be blocking its light. And now—based on new data from numerous telescopes—it’s doing it again.
+
+	“This is the first clear dip we have seen since [2013], and the first we have ever caught in real time,” says Jason Wright, an astronomer at Pennsylvania State University in State College. If they can rope in more telescopes, astronomers hope to gather enough data to finally figure out what’s going on. “This could be the first of several dips about to come,” says astronomer David Kipping of Columbia University. “Many observers will be closely watching.”
+
+	KIC 8462852 was first noticed to be dipping in brightness at seemingly random intervals between 2011 and 2013 by NASA’s Kepler telescope. Kepler, launched to observe the stellar dimmings caused when an exoplanet passes in front of its star, revealed that the dimming of Tabby’s star was much more erratic than a typical planetary transit. It was also more extreme, with its brightness sometimes dropping by as much as 20%. This was not the passage of a small circular planet, but of something much larger and more irregular.
+
+	The team that made this discovery, led by Yale University astronomer Tabetha Boyajian—the star’s namesake—suggested a variety of explanations for its strange behavior, including that the star itself was variable, that it was surrounded by clouds of dust or dusty comets, or that planets around it had collided or were still forming. But KIC 8462852 hit the headlines when Wright and colleagues suggested that the star would be a good candidate to search for evidence of a large manufactured structure built by alien life.
+
+
+https://www.washingtonpost.com/news/speaking-of-science/wp/2015/10/15/no-we-havent-discovered-alien-megastructures-around-a-distant-star/
+	No, we haven’t discovered alien megastructures around a distant star
+	By Joel Achenbach
+
+	Penn State astronomer Jason Wright, who is involved in SETI research, told the Atlantic, “Aliens should always be the very last hypothesis you consider, but this looked like something you would expect an alien civilization to build.”
+
+	But it's also what you expect the universe to throw at you, repeatedly: stuff you can't quite figure out on first glance.
+
+	Anyone remember pulsars?
+
+	...Kepler may simply have detected a star swarmed by comets. Not nearly as interesting an explanation. Or there may be something causing that unusual pattern of light emission that is equally mundane.
+
+
+Achenbach ever the downer
+
+
+------
+
+
+https://www.cfa.harvard.edu/news/2017-09
+	Cambridge, MA -
+
+	The search for extraterrestrial intelligence has looked for many different signs of alien life, from radio broadcasts to laser flashes, without success. However, newly published research suggests that mysterious phenomena called fast radio bursts could be evidence of advanced alien technology. Specifically, these bursts might be leakage from planet-sized transmitters powering interstellar probes in distant galaxies.
+
+	"Fast radio bursts are exceedingly bright given their short duration and origin at great distances, and we haven't identified a possible natural source with any confidence," said theorist Avi Loeb of the Harvard-Smithsonian Center for Astrophysics. "An artificial origin is worth contemplating and checking."
+
+
+https://www.washingtonpost.com/news/achenblog/wp/2017/03/10/about-those-mysterious-fast-radio-bursts-from-deep-space/
+	About those mysterious fast radio bursts from deep space …
+	By Joel Achenbach March 10, 2017
+
+	Thursday, the inbox featured a bulletin from Harvard, saying scientists think the Fast Radio Bursts from deep space could conceivably be coming from aliens zooming around the cosmos in laser-powered light-sails. I think I am summarizing this accurately and without exaggeration. Hang on, let me call up the news release. Oh, yeah, here it is:
+
+	“Could Fast Radio Bursts Be Powering Alien Probes?”
+
+	Frowny-faced skeptic though I may be, one can make the case that the detection of alien civilizations would involve something like this — anomalies picked up by telescopes for which there is no obvious natural explanation. That’s what Freeman Dyson told me something like 20 years ago: Someday we’ll see something. The something in this case are the FRBs, first detected in 2007. They’re very brief flashes of light in the radio portion of the spectrum. There may be hundreds of thousands of them pinging the Earth every day from all points of the heavens. If the FRBs are artificial in origin, the implication is that the universe is lousy with alien light sails.
+
+	I did what I always do in a situation like this, which is write to Seth Shostak, ace astronomer at the SETI Institute. Seth has spent his career looking for signals from advanced civilizations, so this is right up his alley. Seth quickly wrote back, saying this was “a neat idea” but expressing a fair bit of skepticism:
+
+		...But in the end, it turns out that Nature is both ingenious and full of surprises, so I’d keep the “alien explanation” for FRBs at the bottom of the drawer for now.
+
+		In addition, the repeated nature of at least one of these FRBs would require a fairly specific (and therefore, suspect) geometry as well as a busy schedule on the part of the supposed alien launch team.
+
+		Never say never, of course, and this is an appealing idea.  But my first reaction is to bet on the workings of Nature, rather than that of aliens with a hankering to roam.
+
+	So let’s go with that for now.
+
+
+Why does Achenbach seem upset about this article and try to shoot it down? As far as I could tell, the Harvard article hadn't been used as a prop for fake news or anything like that.
+
+
+
+------
+
+
+https://www.washingtonpost.com/national/health-science/the-latest-debate-about-space-aliens-should-we-say-hello-or-keep-quiet/2015/02/28/43aa4a52-bcf5-11e4-bdfa-b8e8f594e6ee_story.html
+	Do we really want to know if we’re not alone in the universe?
+	By Joel Achenbach
+
+	It was near Green Bank, W.Va., in 1960 that a young radio astronomer named Frank Drake conducted the first extensive search for alien civilizations in deep space. He aimed the 85-foot dish of a radio telescope at two nearby, sun-like stars, tuning to a frequency he thought an alien civilization might use for interstellar communication.
+
+	But the stars had nothing to say.
+
+	So began SETI, the Search for Extraterrestrial Intelligence, a form of astronomical inquiry that has captured the imaginations of people around the planet but has so far failed to detect a single “hello.” Pick your explanation: They’re not there; they’re too far away; they’re insular and aloof; they’re zoned out on computer games; they’re watching us in mild bemusement and wondering when we’ll grow up.
+
+
+apparently he hates SETI too
+
+
+	...But Brin, a signer of the petition protesting the campaign for active SETI, said we don’t know what’s out there and shouldn’t presume that aliens are benign. He said there are roughly 100 scenarios to explain why we haven’t heard from the aliens so far. About a dozen of those scenarios are unpleasant, he said.
+
+
+	...Do intelligent creatures tend to be communicative and potentially detectable? No idea. And finally, there’s that ominous “L” at the end of the equation: Do technological civilizations tend to survive a long time?
+
+	...we’d most likely find a very old civilization, not a young one. It’s a matter of statistical probabilities. The universe is 13.8 billion years old. If we pick up a signal, it is unlikely to be from a civilization that has only recently become communicative.
+
+	Tarter isn’t discouraged by SETI’s null result to date. She says our ability to detect signals, though much improved since 1960, remains limited.
+
+	...But you hear something different from Geoff Marcy, an astronomer who has found many of those exoplanets, and who also came to San Jose to discuss results from the Kepler mission. Marcy — who, like David Brin and Elon Musk, signed the petition to protest efforts in active SETI — said it is striking that we have found all these distant planets but no evidence at all of intelligent civilizations.
+
+	“The absence of strong radio beacons, television broadcasts, robotic spacecraft, obelisks on the moon — all of those absences add up to give us the suggestion that our galaxy is not teeming with technological life,” Marcy said.
+
+	...Drake said he doesn’t worry, as some do, that we would become depressed by contact with a superior civilization. Children aren’t depressed by the company of adults, he says. He compared SETI to doing research on ancient civilizations on Earth, such as the Greeks and the Romans.
+
+	“We’re going to do the archaeology of the future,” Drake says. “We’re going to find out what we’re going to become.”

@@ -1,0 +1,250 @@
+need to keep in mind this is after phobos-grunt
+
+
+
+https://www.rt.com/news/165024-proton-booster-sabotage-investigation/
+	Intentional damage to a Proton rocket booster was reportedly established by a polygraph and a criminal case has been initiated, Izvestia daily quotes the Ministry of Interior. Previously sabotage was considered an unlikely option.
+
+	An investigation into the Proton-M rocket crash in April 2013 conducted by the Federal Security Service (FSB) has resulted in establishing general proof that foreign matter could have been deliberately placed into crucial components of the booster in order to provoke malfunction – at the factory where the boosters are assembled.
+
+	As Izvestia found out, the Ministry of Interior launched a criminal case of “Intentional destruction or waste of property which caused human death through negligence or other grave consequences.”
+
+	It has now been leaked that the cause for a special investigation occurred back in April 2013, when X-raying at an incoming control checkpoint detected several unused aluminum tube seals inside the air duct supply of the second stage engine RD-0210. If the fault had not been noticed, it would have resulted in yet another crash of the booster.
+
+FSB found sabotage happened at factory. I thin this is saying this was another rocket that could have crashed if they didn't catch it.
+
+
+	Initially the security structures of the Khrunichev State Space Research and Production Center, where Protons are produced, did not pay serious attention to the incident, writing it off as an accidental assembly fault.
+
+	But when the FSB was informed about the incident, it launched a lie detector probe of about 15 assemblers who could have been in physical contact with the duct during the assembly, a source at the Khrunichev Center told Izvestia.
+
+	The results of the FSB investigation were delivered to the Ministry of Interior and became the basis for the criminal case. The names of the established suspects have not been made public for legal reasons, a source in the ministry informed Izvestia.
+
+	Officially, the Khrunichev Center made no comments, but Izvestia’s source at the center familiar with the situation said that incidents with foreign objects had taken place before.
+
+	“They don’t report such things because they’re not sure whether it was done intentionally or not,” the source claimed.
+
+
+weird that it's based off a lie-detector test
+
+source to Izvestia says this has happened before and can't be sure if "foreign objects" in ducts is an accident or not.
+
+
+	For example delivery of 20-ton multipurpose lab module for the ISS supposed to get into space in March 2014 was postponed for 2017 as pre-start quality control service at Baikonur Cosmodrome allegedly found ‘metal shavings’ in the ducts of the module.
+
+	How this could be possible if the Khrunichev Center has a strict quality control service of its own remains a matter of yet another investigation.
+
+	According to Izvestia, the management of the Khrunichev Center has been officially warned against concealment of such facts in the future.
+
+	So far the extent of culpability of the Khrunichev Center’s staff is yet to be established, but the source in the Ministry of Interior suggested that one of the possible reasons for willful damage could be low salaries at the center, which on the average are about $1,000 per month.
+
+
+looks like as of 2014 when this was written they were leaving things so it could go either way--FSB could find sabotage, or could find "poor quality control" from "low salaries." ("low salary" could mean easier to pay off...)
+
+If I read right, Popovkin also suggested there was some official investigation into the assembly of spacecraft parts where they videotaped the assemblers, and found they did things incorrectly. Tapes would show whether or not these were mistakes or deliberate.
+
+
+	...Two weeks after the crash the chairman of the inter-body commission investigating the incident, Aleksandr Danilyuk, said that "sabotagehas not been ruled out."
+
+	But the expressed sabotage theory caused such hype in Russian media that it drew a rebuke from Deputy Prime Minister Dmitry Rogozin, who supervises the Russian space industry.
+
+	“The Roscosmos disaster commission should first finish its work and present the results to the Russian government, and only then torment society with new theories as to what happened,” he tweeted.
+
+
+The sabotage allegations got a lot of hype in the media, they wouldn't be a secret to the Russian public I guess.
+
+a question: would they be investigating sabotage, reporting this at all if Popovkin hadn't brought it up two years earlier?
+
+have a hunch this could be one of those "hide it in plain sight" things--if sabotage already brought up, it looks less suspicious to make a big ambiguous public debate about it, polarize people, call it "disputed" than to stay silent altogether. Like how I.F. Stone being a KGB agent is "disputed"--to cover up, better to argue about it endlessly and write off as "disputed" than let the allegation stand and stay silent. Another feature of this way to "bury" a story: anyone with credible allegations, evidence to bring just becomes another part of the "dispute."
+
+
+	... Talks about intentional damage caused to Proton boosters particularly intensified last year after a catastrophe of Proton-M booster with three GLONASS satellites in July 2, 2013.
+
+	An investigation found out that an upside down installation of sensors sent the rocket plummeting back to Earth.
+
+	It was discovered that three sensors had been practically ‘hammered’ into the wrong position, which led to a loss of $1.3 billion worth of rocket and satellites.
+
+
+talks on sabotage heightened in Russia after 2013 Proton crash with GLONASS satelittes failed. This was where an investigation found sensors were hammered updside-down.
+
+At least two investigations into sabotage mentioned here. One into July 2013 GLONASS crash, which found hammered upside-down sensors, and another into an April 2013 Proton crash, which led to discovery of "foreign matter" being introduced into rockets at assembly.
+
+
+------
+
+
+
+https://themoscowtimes.com/articles/roscosmos-chief-blames-proton-rocket-crash-on-malfunction-36372
+	June 11 2014 - 17:06
+	Roscosmos Chief Blames Proton Rocket Crash on Malfunction
+
+	The recent crash of an unmanned Proton-M rocket was caused by a malfunction in its third stage, Russia's top space industry official said Wednesday.
+
+	Russian media reported earlier that investigators had tentatively attributed the May 16 incident to sabotage.
+
+	The head of the Federal Space Agency, Oleg Ostapenko, said at a press conference the problem had been a faulty bearing in the turbine pump of the vernier engine, ITAR-Tass reported. But he did not specify whether carelessness or sabotage had caused the incident.
+
+	Spectacular incompetence at the assembly line was blamed for a similar incident last July, when another Proton-M was lost because three angular velocity sensors have been installed upside down and hammered in to fit, according to the official investigation.
+
+
+Another Proton-M crash blamed at first on sabotage, on May 16 2014
+
+sabotage allegations of space parts not special in Russia apparently
+
+The July 2013 crash was caused by sensors "hammered in to fit" upside down an instance of "spectacular incompetence."
+
+
+	...The Russian space industry has experienced at least 20 botched launches over the past decade, despite ongoing reform.
+
+	Allegations of sabotage may be an attempt by industry generals to offload the blame using Soviet alarmist templates, according to an editorial published by newspaper Vedomosti on Wednesday.
+
+
+moscow times offers theory of why so many allegations of sabotage, to "offload blame" from incompetence.
+
+
+------
+
+on July 2013 incident:
+
+https://spaceflightnow.com/proton/astra2e/130815frob/
+	Three Russian Glonass M navigation satellites were destroyed in the mishap. No injuries were reported.
+
+	Russia's Interfax news agency said the mission was insured for about $200 million.
+
+
+rocket worth $89 million--can say it's an insurance scam? obviously satellites cost money too.
+
+If the insurance was high, if "sabotage" ever wins in "sabotage" vs. "incompetence" debate, can claim the motive was an insurance scam.
+
+
+	...Officials recovered two of the yaw sensors in the rocket's debris field, finding evidence they were forcibly installed 180 degrees from their proper position. 
+
+	Investigators instructed the manufacturer of the yaw sensors to change their design to prevent their improper installation on future rockets. The Proton's prime contractor - Khrunichev State Research and Production Space Center - should institute video and photo documentation standards to monitor assembly of Proton rockets, investigators said.
+
+
+Officials found out sensors installed upside-down from recovering debris. Investigators reccomend making it harder to install upside down, I guess under assumption it was an accident.
+
+Should double check: is this the accident were Popovkin got out of the car and "ran to the scene"? Later, his death was blamed on inhaling hydrazine from that rocket accident.
+
+
+	...Russian Prime Minister Dmitry Medvedev ordered an investigation to find the cause of the Proton accident. International Launch Services, the Virginia-based company responsible for commercial Proton missions, established its own review board to study the results of the Russian state commission inquiry.
+
+	ILS, which was not involved in the botched July 2 launch, said Wednesday it agreed with the conclusions of Russian investigators. The ILS oversight board included technical experts, customer representatives and insurance underwriters.
+
+
+Americans, including "insurance underwriters," were involved in checking the investigation ordered by Medvedev
+
+
+
+------
+
+another report on the 2013 July crash:
+
+https://www.upi.com/Top_News/World-News/2013/07/02/Russian-rocket-explosion-latest-for-troubled-space-program/5471372783975/
+	Tuesday's crash, in which the rocket fell off course about 10 seconds after launch, flew horizontally and then exploded midair, was similar to several another incidents, including one with the Proton-M in 2011.
+
+	So much has gone wrong for the program that the head of the Roscosmos space agency, Valdimir Popovkin, publicly wondered if the problems were a result of deliberate sabotage.
+
+	But in all likelihood, human error can be blamed. Roscosmos still largely relies on tried and tested older technology from the Soviet era, and the repeated issues seem to stem from quality control as the agency struggles with a too-small budget and staff.
+
+
+says 2013 crash similar to a 2011 Proton crash, and this is what prompted Popovkin to "publicly wonder" if this was sabotage.
+
+a bit off, this is not exactly what he said, or what prompted him to say it
+
+
+	...Russia's problems were a source of major concern for the International Space Station, which was poised to rely heavily on Roscosmos after NASA shut down its shuttle program last year before private companies were ready to take up the task of transporting supplies and astronauts to the station.
+
+	Those concerns have been eased somewhat with now that SpaceX, the California-based company founded by Elon Musk, has seen several successful missions to the station.
+
+
+article kindof weird
+
+think something's going on with Space X
+
+
+to take a big guess: during the cold war, any time sabotage happened they could blame the other side and get away with it. The whole "space race" meme makes this even easier.
+
+After cold war, especially in period where Russia and U.S. considered friends, this becomes more difficult.
+
+This becomes epsecially difficult if NASA and Roscosmos are collaborating, and even more if the Shuttle program is shut down and everyone relies on Russian rockets to get to space. You can't blame shuttle failures on the Russians if there are no more shuttle flights, and it's pretty tough to blame Proton-M failures on the Americans if they rely on them to get to space.
+
+Given this, and assuming some in NASA and Roscosmos know what's going on, it would make sense for "good guys" to shut down shuttle program deliberately, for the specific reason of making this blame-game for getting away with sabotage harder.
+
+But with Space-X, they can get around this. Now America no-longer relies on Russian rockets to get to space, and blaming sabotage on them becomes easier. After Space-X, Putin also reorganized Roscosmos to be a private company. Private companies are supposed to compete, and so it is easier (or at least possible) to blame industrial sabotage on rocket failures if the need arisis. IIRC, "industrial sabotage" allegations on a Space-X failure have already been raised (here: https://www.washingtonpost.com/business/economy/implication-of-sabotage-adds-intrigue-to-spacex-investigation/2016/09/30/5bb60514-874c-11e6-a3ef-f35afb41797f_story.html)
+
+
+------
+
+
+https://www.theguardian.com/world/2014/jul/24/russia-loses-contact-satellite-geckos
+	After rejecting future cooperation with Nasa amid deteriorating relations with the US, the Russian government in May announced $52bn (£30bn) in investment in its space industry until 2020. But just dDays later a Proton-M rocket carrying a communications satellite to provide internet to remote parts of the country exploded minutes after liftoff, the second crash of a Proton rocket in less than a year. In June, the maiden voyage of Russia's first new spacecraft since the Soviet era, the Angara rocket, was aborted at the last minute on live television as Vladimir Putin, looked on, although it was successfully launched on 9 July.
+
+
+the may 2014 proton failure happened days after the Russian government rejected future cooperation with NASA
+
+
+
+------
+
+
+http://www.hungarianambiance.com/2014/06/fifth-generation-knyaz-vladimir.html
+	It seems that after the explosion of Russia's top of the line advanced satellite carrier Proton-M rocket less than a month ago thought Russians the bitter truth, when it comes to producing top notch hardware western companies can't be trusted.
+
+	Earlier, Russian Federal Security Service found evidence that the country's most advanced satellites carrier Proton-M rocket became victim of sabotage. The rocket that carried a satellite exploded above Kazakhstan last month. Investigators found evidence that failure has been introduced into the system during the manufacturing process and timed in such a way to make the rocket fail in the third phase of its launch and burn up in the atmosphere.
+
+	Due to international cooperation in the aerospace industry, companies that are involved in the production process of the Proton-M rocket wholly or partially western and privately owned enterprises. 
+
+
+weird article, but says the investigation into May 2014 crash found sabotage was "timed in such a way to make the rocket fail in the third phase" of launch and burn up in the atmosphere (so no parts to scavenge like Jul 2013 crash).
+
+pretty blatantly accuses Western sabotage
+
+
+------
+
+
+http://www.astrowatch.net/2014/05/russian-deputy-prime-minister-rebukes.html
+	Russian Deputy Prime Minister Dmitry Rogozin on Thursday scolded an interagency commission tasked with investigating the recent malfunction of a rocket for citing sabotage as a possible cause of the crash. "The [possibility] of sabotage has not been ruled out." Alexander Danilyuk, head of the commission, said in a statement released Thursday by the Federal Space Agency, or Roscosmos. The Russian Proton-M rocket took off from the Baikonur Cosmodrome in Kazakhstan two weeks ago carrying an advanced communications satellite, but ground control lost contact with it after nine minutes and its fuel and component parts burned up in the atmosphere. The failure, Russia's fifth since 2010, was put down to a malfunction in a steering engine, and the commission is analyzing all possible causes, including skullduggery. 
+
+	Danilyuk gave no details at what stage during the rocket’s assembly sabotage could have occurred.
+
+	Last week, Danilyuk said four causes of the Proton-M accident were being considered. The commission quickly excluded the accident’s cause as a result of a control system failure.
+
+	Rogozin, who oversees the space and defense industries, and is never one to shy away from inflammatory remarks, ripped into Roscosmos' statement via social media.
+
+	The "accident commission should first finish its work and present its results to the Russian government, and then torment society with subsequent versions of the incident," Rogozin wrote on Twitter.
+
+
+Rogozin and Danilyuk leading each side of incompetence vs. sabotage debate?
+
+	...This is not the first time that Russian space officials have raised the specter of sabotage after high-level and embarrassing rocket failures put the industry under scrutiny.
+
+	In 2012, former Roscosmos chief Vladimir Popovkin suggested that several rocket failures since 2010, including that of the Phobos-Grunt probe, destined for one of the Martian moons, had been caused by foreign saboteurs, though no concrete evidence supporting his claims ever came to light.
+
+	The Proton-M rocket suffered an unknown failure and was lost May 16, about nine minutes after being launched from the Baikonur space center in Kazakhstan. The upper stage and its payload, the advanced Express-AM4R communications satellite, burned up in the atmosphere above China, with no debris reaching Earth.
+
+	The Express-AM4R satellite was manufactured by Astrium, an aerospace subsidiary of the European Aeronautic Defense and Space Company (EADS), and was built as part of Russia’s space program for 2006-2015. The crashed rocket was insured for 7.8 billion rubles ($224 million).
+
+
+this checks off on patterns common to a lot of these articles:
+
+- mention sabotage vs. incompetence debate
+
+- take "incompetence" side
+
+- twist Popovkin's words to say he blamed foreign sabotage
+
+- casually mention western involvement and insurance of the rockets
+
+
+missing: assigning motive to Roscosmos that they are shifting blame from incompetence (although sort-of implied here in account of exchange between Rogozin and Roscosmos)
+
+
+------
+
+
+https://www.google.com/search?q=proton+rocket+sabotage&tbs=cdr%3A1%2Ccd_min%3A1%2F1%2F2009%2Ccd_max%3A1%2F1%2F2012&tbm=
+
+
+not much in news on proton rocket sabotage before 2012

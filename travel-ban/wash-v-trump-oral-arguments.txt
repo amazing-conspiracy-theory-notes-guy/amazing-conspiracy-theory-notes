@@ -1,0 +1,321 @@
+http://transcripts.cnn.com/TRANSCRIPTS/1702/07/sitroom.02.html
+
+Flentje  with feds
+
+	JUDGE RICHARD CLIFTON, NINTH CIRCUIT COURT OF APPEALS: This is Judge Clifton.
+
+	I understand the concept of that, but it's pretty abstract. And it's not like there haven't been processes in place to take some care with people coming from those countries. Indeed, those are the determinations in the statute and by the prior administration you're pointing to. Is there any reason for us to think that there's a real risk or that
+
+	circumstances have changed such that there would be a real risk if existing procedures weren't allowed to stay in place while the administration, the new administration, conducts its review?
+
+	[18:10:05]
+
+	FLENTJE: Well, the president determined that there was a real risk. That's why the president determined that the best course was a temporary -- it's a short halt in entry for 90 days while these procedures are looked at. And that's understandable.
+
+	The president comes into office with an obligation to protect the national security of our country. The president understands and explains in the order that these visa screening procedures are crucial. And the president understands that Congress identified these seven countries, as well as in 2016, the president...
+
+
+cannot answer that things have changed so that there is real risk if EO not in place
+
+tries to argue unreviewable
+
+
+	...FLENTJE: I believe there are some declarations along those lines, but I am describing the actual statement of the extent of their suit that they made in the brief to this court.
+
+	And to the extent that is the relief they seek, this court should immediately stay the relief that extends broader. And that is to people who have never been to the United States. And Section 5 of the order, which is the refugee provision and applies to people who haven't been here yet and don't have those relations with the university and don't -- quote -- "involve longtime residents who are here and have constitutional rights."
+
+	I'm into my rebuttal time. But I would strongly encourage the court, even if it has concerns with the government's position, that it immediately stay the portion of the injunction that applies outside the boundaries of the U.S. and extends beyond people who have been in -- who are in the U.S. or who have been in the U.S.
+
+	Thank you.
+
+
+wants to limit TRO to non-residents, people who've never been to U.S.
+
+this is why equal protection and establishment argument so important
+
+although iirc a wrinkle here: it's not up to the courts to "effectively rewrite" the order
+
+so basically can say: no, you just write a new one that's legal
+
+begs question why Trump admin didn't do that by this point--this is Feb 7th
+
+idk not that strange yet at this point?
+
+
+...
+
+Purcell talks about some jargon about "manadmus" (??) that annoys Clifton
+
+wastes some time on it
+
+
+	...CLIFTON: What's the irreparable harm to the state of Washington?
+
+	PURCELL: From the executive order? Well, we detailed a number of irreparable harms, your honor. We had students and faculty at our state universities who were stranded overseas. We had families that were separated. We had -- we had longtime residents who could not travel overseas to visit their families without knowing that they would be able to come back. We have lost tax revenue. We had...
+
+	JUDGE MICHELLE FRIEDLAND, 9TH DISTRICT COURT OF APPEALS: If we don't agree with your parents patriae theory, then in balancing the harms and thinking about the standards for a stay or a TRO, are we limited to looking at the proprietary interests of the state, itself? Or can we look beyond that, even if we reject the parents patriae theory? Or do you need the parents patriae theory to expand the harms that we can consider?
+
+	PURCELL: I don't think the parents patriae theory is essential, your honor. We've argued two independent grounds for standing. One, the proprietary harms that we're suffering, and one, the parents patriae. So the courts should certainly excuse... 
+
+
+wtf
+
+how is that not their strongest standing?
+
+I guess not needed since gov has basically no argument for injury?
+
+idk maybe don't get it
+
+my guess is this means they are arguging about lost tax revenue and uni tuition and not "essential" to mention how everyone getting screwed over by the travel ban
+
+if that's what he's saying seems weird
+
+or not
+
+like a hedge: even if other guy can argue against that theory, saying "well we still have all these injuries anyway"
+
+
+	...FRIEDLAND: So say we agree with the proprietary theory for standing. Does that have any implications for what we can then consider when considering the factors for a TRO or for a stay, or is it just a way to get standing and then, we can consider anything in the public interest that affects the public interest?
+
+	PURCELL: I think it would primarily just go to standing, your honor, because I think the harms -- maybe you would then consider the harms, the other harms in the balancing of equities and the public interest factor of the task, I suppose, as opposed to in the -- in the standing task. But certainly, those harms would not become irrelevant.
+
+	So, and, again, the -- it's now -- at this point it's really the federal government that's asking the court to upset the status quo. We've -- you know, things have slowly gone -- are returning to normal to the situation before the chaos of the executive order. And -- and it's the federal government that's asking the court to upend that -- that status quo again.
+
+	And, your honors, I think it's fair -- counsel for the government repeatedly sort of tried to limit the nature of our claim by quoting from our brief; and I think that misrepresents our claims to some extent in a way that's important. Because the point we're making in the brief there about longtime residents is that this case is different from Mandell and Din in an important way, in that the federal actions here affect -- affect longtime residents who have been here. And that's not all it affects; it also affects people who are trying to visit them. It affects people trying to visit their families. It's -- the Establishment Clause violation affects -- affects everyone in a sense. In a sense it -- well, as the court knows, the case law is quite clear that Establishment Clause violations on their own show irreparable injury. And we, of course, believe that that claim is very strong.
+
+	So just on the merits, the state has shown a strong likelihood of success. The federal government certainly -- the state, I'm sorry, has shown a strong likelihood of success. The federal government certainly -- the states -- I'm sorry -- have shown a strong likelihood of success, and the federal government certainly hasn't met its burden, on review, of showing a likelihood of overcoming -- of overcoming that... 
+
+
+I think saying the effects on residents not needed for standing but should be considered for evaluating public interest
+
+points out since "long term residents" affected so merits weigh in their favor (I think referring to weighing injuries?)
+
+
+the bits on lawful resdients giving them a reason to look at motive behind law, trying to argue LRPs not moot
+
+
+	...CLIFTON: According to your position, why shouldn't we limit the order, the temporary restraining order, reach to those people who you've got a strong case for like the LPRs? Why should -- why should the temporary restraining order reach beyond that? That seemed to be the government's principle argument, that it was overbroad. Why isn't it overbroad?
+
+	PURCELL: For three key reasons, your honor. First of all, limiting an order in that way would not address all the harms the order is causing. So, for example, it would not remedy the order's violation of the Establishment Clause, which harms everyone in our states, as well as our states, themselves, by favoring one religious group over another.
+
+	It also would not fully remedy the order's violation of the Equal Protection Clause, because the order relies on discriminatory animus to deny some of our residents who are here the ability to receive visits from their friends and family while allowing others to receive those visits, and so on. So it wouldn't address all the harms.
+
+	The second point is that our U.S. -- as in Din, the U.S. citizens who are here who are related to these folks overseas do have rights, and it would not address their rights at all to limit it that way. And then finally, your honor, I just say that defendants have not
+
+	explained how they would workably implement the narrow order that they're now proposing, which they didn't really propose in any way before. Their approach would require some sort of system for quickly approving travel and re-entry by thousands of people from the affected countries who live here, who study here, who work here in our businesses and who often have to travel for work or to visit family. And they just have not credibly described how they would be able to do that. Even if it were able to address all of our harms. 
+
+
+why not limit to just not apply to residents?
+
+would still violate establishment clause
+
+violate equal protection, since relies on "discriminatory animus" (e.g. bigotry?) to deny some residents ability to get visits from family and friends and not others
+
+(could they have a stronger claim here? not sure history of this)
+
+relatives have rights (right to visit?) and would be denied
+
+gov has no plan for this
+
+
+	...	FRIEDLAND: In evaluating your Establishment Clause claim, should we apply Larson or Lemon?
+
+	PURCELL: Well, your honor, we think we prevail under either test, but we think this case is closer to Larson, because in Larson, what you had was a facially neutral law. It did not mention any religious domination by name, but it did focus on religious groups; and the result of it was to distinguish between them in a way that favored some and not others. And that's exactly what we have here.
+
+	We have an order that, on its face, doesn't mention any denomination, but that is -- we have alleged, and there's strong evidence already to support, is intended to favor some religious groups over others. And -- and that is -- that is exactly the situation in Larson.
+
+	Now I know the other side is saying, if it doesn't mention a particular denomination on the face of the document, then Larson doesn't apply, but that's not what Larson itself says. In Larson, the law did not mention a denomination.
+
+	But again, we also think that we prevail under the Lemon test, which is explained in some detail in our district court briefing. We do not, unfortunately, have space to explain that argument, as well, in the briefing to this court.
+
+
+says establishment clause issue similar to larson case: did not mention religion on face of law, but discriminated anyway
+
+
+	...CLIFTON: Let me ask about the -- I'll call this religious discrimination claim to reach both the equal protection and establishment clause claims.
+
+	And I'm not entirely persuaded by the argument, if only because the seven countries encompass only, I think, a relatively small percentage of Muslims. I mean, do you have any information as to what percentage or what
+
+	proportion of the adherents to Islam worldwide are citizens or residents of those countries?
+
+	I mean, my quick penciling suggests it's something less than 15 percent.
+
+	PURCELL: I have not done that math, Your Honor, but to be clear --
+
+	CLIFTON: And given that all those countries are countries that have been previously tagged as subjects of concern about terrorism -- granted it's because of perhaps radical Islam sects, so there might be a religious motivation behind the terrorism.
+
+	But I have trouble understanding why we're supposed to infer religious animus when, in fact, the vast majority of Muslims would not be affected as residents of those nations and where the concern for terrorism with those connected with radical Islamic sects is kind of hard to deny.
+
+
+I guess arguing discriminatory animus inferred from Trump's statements and that the ban applies to muslim-majority countries. Like say it's intended to discriminate against Muslims and he tried to ban as many as he could get away with.
+
+
+	PURCELL: Your Honor, the case law from this court and the Supreme Court is very clear that, to prove religious discrimination, we do not need to prove that this order harms only Muslims or that it harms every Muslim.
+
+	We just need to prove that it was motivated in part by a desire to harm Muslims. And we have alleged that --
+
+	(CROSSTALK)
+
+	CLIFTON: -- you infer that desire if, in fact, the vast majority of Muslims are unaffected?
+
+	PURCELL: Well, Your Honor, in part, you can infer it from intent evidence. I mean, there are statements that we have quoted in our complaint that are rather shocking evidence of intent to discriminate against Muslims, given that we haven't even had any discovery yet to find out what else might have been said in private.
+
+	I mean, that the public statements from the president and his top advisers reflecting that intent are strong evidence, that's certainty at this pleading stage to allow us to go forward on that claim.
+
+	And, again, with -- no type of discrimination claim requires you to show that every single person of that category was harmed by the action. You just have to show that the action was motivated, in part, by a desire to harm that group. And that's exactly what we've --
+
+	CLIFTON: -- the situation where the proportion affected were less than 15 percent?
+
+
+is that really a big deal? this is Trump's argument
+
+say you are an employer and you hate people who use wheelchairs
+
+you have an office building 100 stories tall
+
+you have a policy to but tire spikes in front of the elevators of 15 of your floors (you are too fat to reach floor 16 and beyond) (or not even, just 15 random floors...)
+
+is your policy discriminatory?
+
+you'd think so...
+
+
+	PURCELL: Your Honor, I'm sorry; I haven't thought about -- as I said, I have not done that math before the -- before the argument. I have not thought about the case in that -- in those terms because, again --
+
+
+something off with Purcell
+
+why does he suck so hard?
+
+
+	CLIFTON: Well, let me switch to the other part of it.
+
+	I mean, do you deny that, in fact, there is concern about people coming from those countries, separate and apart from what their religion might be, because, as Congress and the previous administration have concluded, those countries are a concern from a terrorist perspective?
+
+	PURCELL: Your Honor, Congress had determined that -- and the executive had determined that those countries, as I think it was you who put it, you should not, you know, get a waiver from a visa requirement. That is eminently different from a complete ban on travel to this country --
+
+	(CROSSTALK)
+
+	CLIFTON: Do you assert that that decision by the previous administration or by Congress was religiously motivated?
+
+	PURCELL: No, Your Honor. No. We're not asserting that it all.
+
+	CLIFTON: It would be possible to identify these countries as a source of concern and possibly as the subject of special treatment without having religious motivation or discriminatory intent behind it.
+
+	PURCELL: Well, Your Honor, but cases like McCreary (ph) from the U.S. Supreme Court make very clear that, in assessing establishment clause claims, an action that could have been perfectly legitimate, if done with proper intent, is not legitimate and is unconstitutional if done with a desire to favor one religion over another.
+
+	McCreary (ph) makes that very clear. It literally says the exact same action could be acceptable if done for some reasons and not acceptable if done for others.
+
+
+this seems important
+
+intent can be deciding factor as to whether law unconstitutional or not
+
+can't infer anti-muslim animus with Obama's decision. Pretty easy to infer with Trump
+
+
+	And here we've alleged, very plausibly, with great detail, that this was done to favor one religious group over another. And so we should be allowed to go forward on that claim, even though, yes, we're not denying that these countries could have, theoretically, and, in fact, were previously chosen for some lesser level...
+
+	CLIFTON: It's not just your allegation at this stage. You've got to demonstrate a likelihood of success.
+
+	So what is it that should lead us to conclude that you've got a likelihood of success of being able to prove the religious animus you allege?
+
+	PURCELL: Well, Your Honor, for starters, that the president called for a complete ban on the entry of Muslims and then -- and then --
+
+	CLIFTON: Is this -- is this that ban?
+
+	PURCELL: No, we're not saying that this is a complete ban on Muslims entering the country. Obviously -- I mean, they realize that -- I mean, this is -- this is -- well, what his adviser said on television was that he was asked for a way to implement a narrower thing that would be legal.
+
+
+this is the problem I have with everything
+
+the best way to subvert foreign country legally is to be incompetent
+
+so journalists lie, generals throw their troops into death traps, politicians make shitty laws and lawyers make shitty arguments
+
+but all of these people are experts in fields and would normally require expert knowledge. So you'd ideally want to be an expert to point out that these people are full of shit and throwing this on purpose.
+
+I'm not a lawyer, but how can it not be that Purcell sucks?
+
+Trump verbatim said that his plan for a Muslim ban evolved into a description of exactly what he put out on the 27th
+
+why can't he just say that?
+
+am I crazy?
+
+why do I have a better argument than this lawyer working for a U.S. state in an incredibly high-profile case?
+
+
+	And -- but the point is that the -- that was clearly a motivating -- what we allege and, again, yes, it is, we do have to show a likelihood of success. But at this stage, the case law is clear, our plausible allegations are taken as true for assessing that likelihood of success. And --
+
+	(CROSSTALK)
+
+	CLIFTON: Wait. That cannot possibly be true. We are supposed to take your word for it, the fact that you make an allegation of the complaint and that equals likelihood of success?
+
+	You don't really mean that, do you?
+
+
+what is he doing
+
+
+	...FRIEDLAND: You've actually supported these allegations with exhibits, haven't you?
+
+	PURCELL: We have supported many of our allegations with exhibits, yes, Judge Friedland. We have. And I do think that's important. We have presented an enormous amount of evidence, especially considering, again, that we -- our -- the time between our filing -- our complaint was filed a week ago Monday, together with the temporary restraining order motion, together with the declarations.
+
+	So, unlike cases -- well, and we had extraordinarily little opportunity to actually gather and present evidence in the district court.
+
+	CLIFTON: -- faulted the government for exactly the same thing. Don't tell us you need more time because the government brought the stay motion.
+
+	Well, don't tell us you need more time. You're the one that sought the temporary restraining order. Either you have the evidence presented in the record or you don't. I mean, that's -- don't tell us maybe you'll gather it later.
+
+	If you can't demonstrate a likelihood of success with what you've got in the record so far -- and maybe you can. I'm not saying you can't. But so far I haven't heard a lot of reference to evidence and a lot
+
+	more references to allegations. And I don't think allegations cut it at this stage.
+
+
+have I already done more work than this lawyer?
+
+fucking ACLU
+
+American Communist Lawyer Union
+
+
+goes back to talking about manadamus
+
+
+	...PURCELL: Your Honor, I think it would be primarily just slightly more detail about standing at this point.
+
+	Again, we haven't -- we haven't -- of course, the difficulty with a claim that's about intent is that we've made these allegations. We haven't had any discovery yet. And, realistically, you know, it will take some time to gather that sort of evidence beyond public statements.
+
+	And this court has held -- and so has the U.S. Supreme Court -- that when a case has to do with intent, you know, it's -- well, it's very -- it's remarkable to have this much evidence of intent without any discovery, I think is probably the best way to characterize it. 
+
+
+this sounds right, not sure why he chocked and said "we need more time," didn't mention any in court
+
+
+says has statuatory claim under INA "very likely to succeded on"
+
+
+	...CLIFTON: But the statutory ground would help us only with regard to those seeking immigrant visas, isn't that correct?
+
+	PURCELL: Yes, Your Honor. I think that is largely correct. I think that is basically correct, that 1152 speaks of immigrant visas and that there cannot be discrimination based on nationality and -- in issuing those visas and by --
+
+
+doesn't sound great
+
+Clifton points out happens a lot, hasn't been challenged
+
+gets cut off, the rest here, not sure if anything interesting didn't look like it:
+
+https://www.c-span.org/video/?423694-1/washington-minnesota-v-trump-oral-argument
+
+
+both oral arguments suck
+
+nothing really intimidating about Purcell
+
+the courts write-up on it drives the point home
+
+Purcell doesn't bother with pointing out how the EO screwed over people, point to concrete examples
+
+seems like he can't be trusted

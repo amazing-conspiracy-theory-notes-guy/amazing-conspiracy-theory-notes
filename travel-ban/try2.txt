@@ -1,0 +1,221 @@
+https://www.washingtonpost.com/graphics/politics/trump-compare-travel-ban/
+	Unlike the previous order, which went into effect immediately, this one will be implemented in 10 days, on March 16, and excludes Iraq. It also excludes green-card holders, dual nationals and people who have been granted asylum or refugee status.
+
+
+announced March 6
+
+10 days notice (giving up on the "bad dudes rushing in" thing? was it too late?)
+
+
+second ban still had religious discrimination problems, which came up prominently in courts. Why not do anything to fix those?
+
+looks like they tried:
+
+https://www.whitehouse.gov/presidential-actions/executive-order-protecting-nation-foreign-terrorist-entry-united-states-2/
+	(iv) Executive Order 13769 did not provide a basis for discriminating for or against members of any particular religion. While that order allowed for prioritization of refugee claims from members of persecuted religious minority groups, that priority applied to refugees from every nation, including those in which Islam is a minority religion, and it applied to minority sects within a religion. That order was not motivated by animus toward any religion, but was instead intended to protect the ability of religious minorities — whoever they are and wherever they reside — to avail themselves of the USRAP in light of their particular challenges and circumstances.
+
+
+tries to argue original EO was not motivated by religion, and this one removes the "religious minorities" persecution thing.
+
+
+
+
+also explain problems with original:
+
+
+	(c) The implementation of Executive Order 13769 has been delayed by litigation. Most significantly, enforcement of critical provisions of that order has been temporarily halted by court orders that apply nationwide and extend even to foreign nationals with no prior or substantial connection to the United States. On February 9, 2017, the United States Court of Appeals for the Ninth Circuit declined to stay or narrow one such order pending the outcome of further judicial proceedings, while noting that the “political branches are far better equipped to make appropriate distinctions” about who should be covered by a suspension of entry or of refugee admissions.
+
+
+
+so what is supposed to be going on here? Trump learning how to legislate by the seat of his pants, learning problems with EO from court cases?
+
+
+The 2nd EO is much better, but still has problems with being intended as a Muslim ban, and Trump's public statements (like some tweet about new EO being "watered down and politically correct") still undermined arguments that it wasn't intended to be a Muslim ban. All he had to do was say "I never intended original to be Muslim ban and this better reflects my intentions." Or just say nothing.
+
+
+This EO shows that Trump can implement an EO without initial problems, leaving question of why didn't he in the first place.
+
+That EO was blocked could be pointed to be Trump that courts are indeed "slow and political," although Trump's statement might have tipped scales.
+
+
+
+------
+
+
+what is significance of lifting ban on Iraq?
+
+didn't see any prominent cases from Iraq suspended (maybe there are, like u.s. ally soldier banned). But one is I think it undermines argument that the ban is for national security and not Muslim ban. 
+
+could just be that he got pressure from army to not have that
+
+
+
+------
+
+
+http://www.cnn.com/2017/02/20/politics/trump-new-executive-order-immigration/index.html
+	Feb 20
+
+
+	Washington (CNN)The Trump administration is planning to roll out as early as this week a revised executive order on immigration that the President says will "protect our people" while at the same time pass muster with courts that halted an earlier version.
+
+	Sources said the new order will clarify a point that caused confusion the first time around: The executive order will not impact green card holders.
+
+	"The President is contemplating releasing a tighter, more streamlined version of the first executive order," Homeland Security Secretary John Kelly said at the Munich Security Conference over the weekend. Acknowledging the rushed rollout of the previous order that caused chaos in airports across the country and widespread demonstrations, Kelly said that officials are working on a "phase in" period for parts of the order to take effect.
+
+
+"contemplating?" bad dudes are rushing in, was he sitting there the whole time "contemplating?"
+
+
+	...The new order is also expected to address concerns of the 9th Circuit federal appeals court, which blocked the original order, that travelers' due process rights were not being respected by giving detailed notice of restrictions for those with current or pending visas. Kelly said the goal was "to make sure that there's no one, in a sense, caught in the system of moving from overseas to our airports, which happened on the first release" of the order.
+
+
+had they figured that out by the time of McGahn's "clarification?" the first court orders?
+
+
+	...One of lawmakers' major concerns with the initial rollout of the order was that they were not consulted. When Kelly testified in front of the House Homeland Security Committee, he faced repeated requests for assurances that members of Congress would be considered when drafting further executive orders.
+
+	"You have an extreme vetting proposal that didn't get the vetting it should have had," Republican Sen. Rob Portman of Ohio told CNN's Jake Tapper on Sunday's "State of the Union" last month. "As the result, in the implementation, we've seen some problems."
+
+
+Rob Portman: Trump misbehaing because parents not watching
+
+
+----
+
+what was Trump doing after ban lost in court?
+
+
+http://archive.org/details/trumparchive?&sort=-date&page=21
+
+
+schmoozing, talking up neil Gorsuch, watching superbowl
+
+
+seems like he avoided it until after chaos died down?
+
+
+Pence went out on Feb 5th:
+
+
+http://abcnews.go.com/Politics/week-transcript-17-vp-mike-pence-sen-amy/story?id=45279037
+	 STEPHANOPOULOS: The president is vowing to overturn that order. This morning he called it, "A ridiculous order from a so-called judge." A so-called judge.
+
+	Is it appropriate for the president to be questioning the legitimacy of a federal judge in that way?
+
+	PENCE: Through the course of the campaign and in the early days of this administration, President Trump's made it clear that our administration is going to put the safety and security of the American people first. And the executive order that he put into effect, which suspends immigration from seven countries that have been compromised by terrorism and don't have the kind of internal systems that we can be certain that people that are applying to come to this country are who they say they are, was legal. It was appropriate. And our administration is going to be using all legal means at our disposal to challenge the judge's order. 
+
+
+I guess can assume this was Trump's official position? we're going to fight this in court, we can beat it
+
+
+	...PENCE: Well, again, there's simply no question under "The Constitution," and, frankly, under federal law, that the president of the United States has the authority, in the interest of national security, to determine who has the right to come into this country. And we're going to challenge the judge's order on that basis, because the reality is, we face a dangerous enemy and the president is determined to use the authority that he has under "The Constitution" and under the law. But we'll work through the courts to challenge the order--
+
+	STEPHANOPOULOS: But doesn't this judge have the authority to do what he did, as well?
+
+	PENCE: He certainly does, and that's why the administration is complying with that order as we speak. And we'll go through the process in the courts to get a stay of that order, so that again, we can implement this action that is entirely focused on the safety and security of the American people.
+
+
+right, duh, first thing they tried is get a stay on the order
+
+Stephanopoulos trying to trap Pence into either disagreeing with President or looking bad while Pence actually provides useful information
+
+
+	...PENCE: I think the early days of this administration are going to be described in the history books as days of action.
+
+	And the American people welcome the decisiveness that President Trump has shown on this issue, putting the safety and secretary of the American people above the niceties of communicating with people in Washington or in some cases around the world. He acted.
+
+
+
+lol wut
+
+
+does sound like "hail mary" kindof thing
+
+later, maybe implying Trump did travel ban to "keep his promise" for campaign? does seem like that
+
+
+	...PENCE: ... So we've got to have a long-term focus in the way we implement this and frankly, I think the administration has taken some important steps to improve upon the clunkiness of the initial weekend. 
+
+
+paint as mistake, admin learning, but Feb 5th taken "important steps"
+
+doesn't make it sound urgent
+
+
+
+http://archive.org/details/CSPAN3_20170207_202500_President_Trump_Holds_Listening_Session_with_County_Sheriffs/start/1127/end/1149.3
+	
+	and he opened up a subject of interest. but i think where trump is certainly right is that this man has not faced justice and he deserves to face justice. whatever we decided. >> sunday night at 8:00 eastern on c-span's q & a. >> at ninth circuit court of appeals heard a case on refugee and immigration ban today president trump is meeting with sheriffs at the white house saying he is prepared to fight legally for the travel ban. this is half an hour. >> nice to see up. nice to meet you. sit down, please.
+
+
+Trump on Feb 7 says prepared to fight legally for ban
+
+so for whatever reason he thinks he should fight for first one in court first
+
+
+	especially in bord border counties. and also committed to working with law enforcement to stop terrorist attacks. we have been reading about that and that will take a lot of our powers away. and some people with a lot of the wrong intentions. and we've got a lot of bad people out there. i want to thank you and be helpful through government on behalf of our country for leading a strong, strong effort in the courts. we appreciate it. believe me. as you know, we don't have an attorney general. we have somebody who is phenomenal, jeff sessions, he will be there hopefully soon.
+
+
+right, so he wants to win in court
+
+at this point, sessions still not sworn in, and Trump seems to think this is important, mentions it, also mentioning "now have an Obama AG"
+
+
+	but i believe it is about a record for the length of time that they have delayed the cabinet. these are cabinet members that are phenomenal people. now we have excellent representation in dana and jeff will be with you shortly.
+
+
+complains about delaying sessions says its for political reasons
+
+
+	mr. president, how long are you willing to take the travel ban fight? >> we're going to take it through the system. it is very important, very important for current, regardless of me or whoever succeeds at a later date. we have to have security in our country. we have to the ability. when you take someplace like syria, you take all of the different people pouring -- and if you remember, isis said, we are going to infiltrate the united states and other countries through the migration. and then we're not allowed to be tough on the people coming in? play that one. so we'll see what happens. we have a big court case, we're well represented. we're going to see what happens. 
+
+
+	>> it going to go to the supreme court, you see? >> could. and we'll see. hopefully is doesn't happen. it's common sense. you know, some things are law and i'm all in favor of that. and some things are common sense. this is common sense.
+
+
+wtf is he saying
+
+
+I guess wants to take as long as it takes to win? on same day (not same event?) says this:
+
+
+https://www.youtube.com/watch?v=a5mFBHJKfwE
+
+feb 7
+
+around 8:15, Trump demonstrates he understands that the legal battle is (according to his logic) letting "bad dudes pour in"
+
+	"...It may take a little while. And you know, this is a very dangerous period of time because while everybody is talking and dealing, a lot of bad people are thinking about, hey, let's go in right now. But we're being very, very tough with the vetting -- tougher than ever before...."
+
+
+I think it is same event, just no in transcript
+
+
+ya it is the same
+
+
+	have you a big problem. and a big problem with the refugees pouring in, don't you? >> yes, sir. we just ask, let the courts decide. do what we have been doing. rule of law is strong and proper vetting of individuals is really important to us. >> you know, vetting is much, much tougher now and we need this court case that would be very helpful to keeping the wrong people out of our country. you understand that better than anybody. >> i do, sir. >> i think we will have good results. it may take a little while. while everyone is talking and dealing, a lot of bad people are thinking, let's go in right now. we are being very, very tough with the vetting. tougher than ever before. >> we heard from general he kelly yesterday. his message was on the mark about this. carrying out your directives and we appreciate that. >> that used to be a political position. not any more. now it is, in my opinion, one of my truly most important positions. he is doing a great job. yes, sir? >> mr. president, thank you. such an honor
+
+
+ok I think I see it
+
+for whatever reason, Trump has decided that by then (Feb 7) vetting is now "much tougher," and so travel ban being in doesn't matter so much, and he can take his time to fight it in court.
+
+what happened to make vetting "much tougher?"
+
+apparently vetting was not tough on Feb 5, when he tweeted that courts are "putting the country in great peril"
+
+and even on the 7th says "very dangerous time for the country in that same interview..."
+
+
+http://www.scpr.org/news/2017/01/27/68510/trump-s-calls-for-new-vetting-measures-to-screen-o/
+
+says some "extreme vetting" was also in the EO
+
+this?
+
+https://www.politico.com/agenda/story/2017/02/trump-vetting-executive-order-immigration-000293
+	The little-noticed section, appearing immediately after the travel ban, calls for the government to develop a “uniform screening standard and procedure” for all individuals seeking to enter the United States. As written, it appears to require all visitors to go through the same vetting measures, regardless of where they come from or how long they intend to stay.
+
+	If interpreted as broadly as it’s written, “It would basically shut down tourism,” said Stephen Legomsky, the former chief counsel for U.S. Citizenship and Immigration Services during the Obama administration.
